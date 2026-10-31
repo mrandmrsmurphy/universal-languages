@@ -153,3 +153,21 @@ Pronouns and other inflected words get a Forms table.
 - [[Interslavic/Lexicon/лежати|лежати]] (ležati) — to lie (be in a reclining position)
 - [[Interslavic/Lexicon/седети|седети]] (sedeti) — to sit
 - [[Interslavic/Lexicon/стояти|стояти]] (stojati) — to stand
+- [[Interslavic/Lexicon/падати|падати]] (padati) — to fall
+- [[Interslavic/Lexicon/дати|дати]] (dati) — to give
+- [[Interslavic/Lexicon/држати|држати]] (držati) — to hold, to keep
+- [[Interslavic/Lexicon/тискати|тискати]] (tiskati) — to squeeze, to press
+- [[Interslavic/Lexicon/трети|трети]] (treti) — to rub
+- [[Interslavic/Lexicon/мыти|мыти]] (myti) — to wash
+- [[Interslavic/Lexicon/утрети|утрети]] (utreti) — to wipe
+- [[Interslavic/Lexicon/тегнути|тегнути]] (tegnuti) — to pull, to draw
+- [[Interslavic/Lexicon/пхати|пхати]] (phati) — to push, to shove
+- [[Interslavic/Lexicon/метати|метати]] (metati) — to throw, to toss
+- [[Interslavic/Lexicon/шити|шити]] (šiti) — to sew, to stitch
+- [[Interslavic/Lexicon/числити|числити]] (čisliti) — to count
+- [[Interslavic/Lexicon/говорити|говорити]] (govoriti) — to say, to speak
+- [[Interslavic/Lexicon/спевати|спевати]] (spevati) — to sing
+- [[Interslavic/Lexicon/играти|играти]] (igrati) — to play
+- [[Interslavic/Lexicon/плывти|плывти]] (plyvti) — to float, to swim
+- [[Interslavic/Lexicon/текти|текти]] (tekti) — to flow
+- [[Interslavic/Lexicon/пухнути|пухнути]] (puhnuti) — to swell

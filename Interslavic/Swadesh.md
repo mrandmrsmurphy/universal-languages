@@ -171,26 +171,26 @@ List source: https://en.wiktionary.org/wiki/Appendix:Slavic_Swadesh_lists
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 126† | to turn |  |  |  |  | вращать, повернуть | — |
-| 127 | to fall | пасти, падати | padat, upadnout | padać | padać | падать | — |
-| 128 | to give | дати, даꙗти | dát | dać, dawać | dać, dawać | давать, дать | — |
-| 129 | to hold | дрьжати | držet | trzymać, dzierżyć | dźeržeć | держать | — |
-| 130 | to squeeze |  | stlačit, zmáčknout, stisknout | ściskać, zgniatać | tłóčić | сжимать, стискивать | — |
-| 131 | to rub | трьти | třít | trzeć | šudrować, šurować | тереть | — |
-| 132 | to wash | мꙑти | mýt, umývat | myć, prać | myć | мыть, умывать | — |
-| 133 | to wipe |  | utírat | wycierać | trěć | вытирать | — |
-| 134 | to pull |  | tahat | ciągnąć | ćahać | тянуть, волочить, тягать | — |
-| 135 | to push |  | tlačit | pchać | tłóčić | толкать, пихать | — |
-| 136 | to throw |  | házet | rzucać, rzucić, miotać | mjetać | кидать, бросать, мeтать, швырять | — |
+| 127 | to fall | пасти, падати | padat, upadnout | padać | padać | падать | [[падати]] |
+| 128 | to give | дати, даꙗти | dát | dać, dawać | dać, dawać | давать, дать | [[дати]] |
+| 129 | to hold | дрьжати | držet | trzymać, dzierżyć | dźeržeć | держать | [[држати]] |
+| 130 | to squeeze |  | stlačit, zmáčknout, stisknout | ściskać, zgniatać | tłóčić | сжимать, стискивать | [[тискати]] |
+| 131 | to rub | трьти | třít | trzeć | šudrować, šurować | тереть | [[трети]] |
+| 132 | to wash | мꙑти | mýt, umývat | myć, prać | myć | мыть, умывать | [[мыти]] |
+| 133 | to wipe |  | utírat | wycierać | trěć | вытирать | [[утрети]] |
+| 134 | to pull |  | tahat | ciągnąć | ćahać | тянуть, волочить, тягать | [[тегнути]] |
+| 135 | to push |  | tlačit | pchać | tłóčić | толкать, пихать | [[пхати]] |
+| 136 | to throw |  | házet | rzucać, rzucić, miotać | mjetać | кидать, бросать, мeтать, швырять | [[метати]] |
 | 137† | to tie | вѧзати | vázat | wiązać | wjazać |  | — |
-| 138 | to sew |  | šít | szyć | šić | шить | — |
-| 139 | to count |  | počítat | liczyć | ličić | считать | — |
-| 140 | to say | рєщи | mluvit, říkat | mówić, powiedzieć | rěčeć | говорить, сказать, поведать, молвить | — |
-| 141 | to sing | пѣти | zpívat | śpiewać | spěwać | петь | — |
-| 142 | to play |  | hrát | grać, gulać | hrać, hrajkać | играть | — |
-| 143 | to float |  | plout | pływać, unosić się | płuwać | плыть, плавать | — |
-| 144 | to flow | тєшти | téct | płynąć, przepływać | běžeć, ćec | течь | — |
+| 138 | to sew |  | šít | szyć | šić | шить | [[шити]] |
+| 139 | to count |  | počítat | liczyć | ličić | считать | [[числити]] |
+| 140 | to say | рєщи | mluvit, říkat | mówić, powiedzieć | rěčeć | говорить, сказать, поведать, молвить | [[говорити]] |
+| 141 | to sing | пѣти | zpívat | śpiewać | spěwać | петь | [[спевати]] |
+| 142 | to play |  | hrát | grać, gulać | hrać, hrajkać | играть | [[играти]] |
+| 143 | to float |  | plout | pływać, unosić się | płuwać | плыть, плавать | [[плывти]] |
+| 144 | to flow | тєшти | téct | płynąć, przepływać | běžeć, ćec | течь | [[текти]] |
 | 145† | to freeze | помръзнѫти |  |  |  | морозить, замерзать, леденеть | — |
-| 146 | to swell |  | otékat | puchnąć | zaćekać | пухнуть, набухать, отекать | — |
+| 146 | to swell |  | otékat | puchnąć | zaćekać | пухнуть, набухать, отекать | [[пухнути]] |
 
 ## 147–159 Sun, water and ground
 
