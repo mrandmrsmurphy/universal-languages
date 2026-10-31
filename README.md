@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="files/Universal_Language_cb.png" alt="Map of the fifteen Universal Language zones" width="700">
+</p>
+
 # Universal Languages
 
 An [Obsidian](https://obsidian.md) vault documenting the **Universal Languages** project: fifteen regional auxiliary languages (conlangs/auxlangs), each derived from a proto-language or a sprachbund, plus cross-language comparison material.
@@ -8,7 +12,7 @@ Rather than one world language, the idea is one modest, easy-to-learn bridge lan
 
 | Language | Foundation | Where |
 | --- | --- | --- |
-| Dan'a'yo | Classical Chinese | East Asia (own vault, see below) |
+| [Dan'a'yo](https://github.com/mrandmrsmurphy/danayo) | Classical Chinese | East Asia (own repository) |
 | Neo-Sanskrit | Sanskrit | Indo-Aryan |
 | Interlingua | Proto-Romance | Romance |
 | Folksprak | Proto-Germanic | Germanic |
@@ -16,7 +20,7 @@ Rather than one world language, the idea is one modest, easy-to-learn bridge lan
 | Indo-Malay | Proto-Malayo-Polynesian | Maritime Southeast Asia |
 | Guosa | Proto-Niger-Congo | West Africa |
 | Interslavic | Proto-Slavic | Slavic |
-| Middle Semitic | Proto-Semitic | Semitic (own vault, see below) |
+| [Middle Semitic](https://github.com/mrandmrsmurphy/middle-semitic) | Proto-Semitic | Semitic (own repository) |
 | MSEAL | Sprachbund | Mainland Southeast Asia |
 | Dravindian | Proto-Dravidian | Dravidian |
 | Zens | Proto-Iranian | Iranian |
@@ -34,6 +38,8 @@ Interlingua, Interslavic, Guosa and Ortatürk are existing external projects tha
 
 The vault uses `[[wikilinks]]` and embedded images, so it reads best in Obsidian; on GitHub the Markdown is readable but links and embeds will not resolve.
 
+The principles that apply to every language are in [`Design Philosophy.md`](Design%20Philosophy.md).
+
 ## Layout
 
 ```
@@ -42,7 +48,7 @@ Language Comparisons.md  cross-UL feature matrix
 Swadesh.md               cross-UL Swadesh tables
 <Language>/              one subtree per language
 files/                   flags, maps, images, reference sources
-AIOS/                    project memory, site map, build scripts
+AIOS/                    project memory, site map, facts.yaml, build scripts
 logs/log.md              append-only history of changes and decisions
 ```
 
@@ -55,17 +61,19 @@ logs/log.md              append-only history of changes and decisions
 
 Two languages have outgrown this vault and live in their own repositories, which this vault's hub pages point to:
 
-- **Dan'a'yo**: the flagship, furthest-along language.
-- **Middle Semitic**: lexicon, root pages, grammar and Swadesh.
+- **[Dan'a'yo](https://github.com/mrandmrsmurphy/danayo)**: the flagship, furthest-along language.
+- **[Middle Semitic](https://github.com/mrandmrsmurphy/middle-semitic)**: lexicon, root pages, grammar and Swadesh.
+
+Each repository keeps a machine-readable `AIOS/facts.yaml` with its current counts, for scripts and agents.
 
 Their hub pages here (`Dan'a'yo.md`, `Middle Semitic.md`) are summaries only.
 
 ## Contributing
 
-Corrections, sources and design discussion are welcome via issues and pull requests. Please keep content pages free of dates and decision narratives (see above), and cite sources for linguistic claims.
+Corrections, sources and design discussion are welcome via issues and pull requests; see [CONTRIBUTING](CONTRIBUTING.md). Please keep content pages free of dates and decision narratives (see above), and cite sources for linguistic claims.
 
 ## License and credits
 
-Original text and design: [CC BY-SA 4.0](LICENSE).
+Original text and design: [CC BY-SA 4.0](LICENSE). Created by Robert Marshall Murphy, with the help of AI assistants.
 
 Flags, maps and other third-party images keep their own licenses and authorship; see [`ATTRIBUTION.md`](ATTRIBUTION.md) and [`files/maps/Credits.md`](files/maps/Credits.md). Some reference files are not redistributed and are excluded via `.gitignore`.

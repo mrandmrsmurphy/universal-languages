@@ -30,3 +30,5 @@ Read this first, every session, before touching vault content. Each line points 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
 
 - Middle Semitic memories — MOVED to the middle-semitic vault's AIOS at the spin-out (2026-10-28): lexicon conventions, grammar rulings, paradigms tracker; see `../middle-semitic/AIOS/memory-index.md`
+
+- GitHub: public repo https://github.com/mrandmrsmurphy/universal-languages (created 2026-10-31); siblings danayo and middle-semitic have their own repos. License CC BY-SA 4.0; credits in `ATTRIBUTION.md` and `files/maps/Credits.md`; `AIOS/facts.yaml` is this vault's reportage-protocol file.
