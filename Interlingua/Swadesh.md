@@ -222,7 +222,7 @@ List source: the author's comparative table; forms follow the Interlingua–Engl
 | 165 | ice | glaciēs, gelū | gelo | hielo | glace | ghiaccio | [[glacie]] |
 | 166 | smoke | fūmus | fumo | humo | fumée | fumo | [[fumo]] |
 | 167 | fire | ignis, focus | fogo | fuego | feu | fuoco | [[foco]] |
-| 168 | ash | cinis | cinza | ceniza | cendre | cenere | [[cineres]] |
+| 168 | ash | cinis | cinza | ceniza | cendre | cenere | [[cinere]] |
 | 169 | burn | ārdēre, cremāre | arder, queimar | arder, quemar | brûler | bruciare, ardere | [[arder]] |
 | 170 | road | via, strāta | estrada, caminho, via | calle, camino, vía | route | strata, via | [[strata]] |
 | 171 | mountain | mōns | montanha, monte | montaña, monte | montagne, mont | montagna, monte | [[montania]] |
@@ -251,7 +251,7 @@ List source: the author's comparative table; forms follow the Interlingua–Engl
 | 184 | old | vetus, vetulus | velho | viejo | vieux | vecchio | [[vetere]] |
 | 185 | good | bonus | bom | bueno | bon | buono | [[bon]] |
 | 186 | bad | malus | mau adj., mal adv. | malo adj., mal adv. | mauvais adj., mal adv. | cattivo, malo | [[mal]] |
-| 187 | rotten | puter, putridus | podre | podrido | pourri | marcito, putrido | [[corrupte]] |
+| 187 | rotten | puter, putridus | podre | podrido | pourri | marcito, putrido | [[putride]] |
 | 188 | dirty | sordidus | sujo | sucio | sale | sporco, sudicio | [[immunde]] |
 | 189 | straight | rectus | reto | recto | droit | dritto | [[recte]] |
 | 190 | round | rotundus | redondo | redondo | rond | rotondo | [[ronde]] |

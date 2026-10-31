@@ -13,7 +13,7 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
 | [[Folksprak]] | [[Folksprak/Swadesh]] | №1–143 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
-| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 128 of 207 Middle Semitic cells filled |
+| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 129 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] · [[Kintu]] | — | Not started |
@@ -236,7 +236,7 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | 165 | ice | <ruby>氷水<rt>ㄅㄧㄫㄙㄨ</rt></ruby> | [[glacie]] | — | — | — | — |
 | 166 | smoke | <ruby>煙気<rt>ㄝㄋㄎㄧㄜ</rt></ruby> | [[fumo]] | — | — | — | — |
 | 167 | fire | <ruby>火<rt>ㄏ⺢</rt></ruby> | [[foco]] | — | — | ܢܘܪܐ | — |
-| 168 | ash | <ruby>灰<rt>ㄏㄛㄧ</rt></ruby> | [[cineres]] | — | — | ܐܝܣܐ | — |
+| 168 | ash | <ruby>灰<rt>ㄏㄛㄧ</rt></ruby> | [[cinere]] | — | — | ܐܝܣܐ | — |
 | 169 | to burn | <ruby>燃焼<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | [[arder]] | — | — | — | — |
 | 170 | road, way | <ruby>道路<rt>ㄉㄚㄨㄌㄛ</rt></ruby> | [[strata]] | — | — | ܬܪܟܐ | — |
 | 171 | mountain | <ruby>山<rt>ㄙㄚㄋ</rt></ruby> | [[montania]] | — | — | — | — |
@@ -265,7 +265,7 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | 184 | old | <ruby>老<rt>ㄌㄚㄨ</rt></ruby> | [[vetere]] | — | — | — | — |
 | 185 | good | <ruby>好<rt>ㄏㄚㄨ</rt></ruby> | [[bon]] | — | — | ܛܘܒܐ | — |
 | 186 | bad | <ruby>悪<rt>ㄚㄎ</rt></ruby> | [[mal]] | — | — | — | — |
-| 187 | rotten | <ruby>腐敗<rt>ㄆㄨㄅㄚㄧ</rt></ruby> | [[corrupte]] | — | — | — | — |
+| 187 | rotten | <ruby>腐敗<rt>ㄆㄨㄅㄚㄧ</rt></ruby> | [[putride]] | — | — | — | — |
 | 188 | dirty, filthy | <ruby>汚<rt>ㄛ</rt></ruby> | [[immunde]] | — | — | — | — |
 | 189 | straight | <ruby>直<rt>ㄐㄧㄊ</rt></ruby> | [[recte]] | — | — | — | — |
 | 190 | round | <ruby>圓<rt>⼔ㄋ</rt></ruby> | [[ronde]] | — | — | — | — |
@@ -289,5 +289,5 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | 203 | with | <ruby>共<rt>ㄍ⼄ㄫ</rt></ruby> | [[con]] | — | — | ܥܡ | — |
 | 204 | and | <ruby>与<rt>⼄</rt></ruby> | [[e]] | — | — | ܘ | — |
 | 205 | if | <ruby>若<rt>ㄋ⼘</rt></ruby> | [[si]] | — | — | ܐܡ | — |
-| 206 | because | <ruby>因由<rt>ㄧㄋ·⼜ㄛ</rt></ruby> | [[proque]] | — | — | — | — |
+| 206 | because | <ruby>因由<rt>ㄧㄋ·⼜ㄛ</rt></ruby> | [[proque]] | — | — | ܥܠܐܢ | — |
 | 207 | name | <ruby>名<rt>ㄇㄧㄫ</rt></ruby> | [[nomine]] | — | [[име]] | ܣܝܡܐ | — |
