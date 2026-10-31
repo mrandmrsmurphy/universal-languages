@@ -23,7 +23,10 @@ Session-by-session history lives in exactly one place: `logs/log.md`. This file 
 1. `cp logs/log.md logs/archive/log-NNN.md` — verbatim, zero-padded, next sequential number (first is `log-001.md`). The archive file is frozen forever; never edit it again.
 2. Replace `logs/log.md` with just the header plus a pointer to the archive and `logs/index.md`.
 3. Add an entry to `logs/index.md` (create it on first rotation) — one prose paragraph per archived file, oldest first, summarizing major threads by date-section, so the right archive can be found without opening each one.
-4. Update this memory file to record anything learned from the roll, since rotation is a permanent step in future rolls.
+4. Update `AIOS/site-map.md` if it lists the log files.
+5. Update this memory file to record anything learned from the roll, since rotation is a permanent step in future rolls.
+
+**Rotation history:** the first roll happened 2026-10-31 (`log-001.md`, covering 2026-09-26 to 2026-10-31; 385 lines). `logs/archive/` and `logs/index.md` now exist. The new `log.md` opens with a pointer line naming the archives, which should be extended with each later roll. Tip: before rolling, `grep -n '^##' logs/log.md` and skim each section's first bullets to write the index paragraph; later-dated entries may be nested under an older date's heading, so use the true dates.
 
 **Why:** This convention comes from a sibling conlang/worldbuilding vault where it has run long-term. It exists because (a) sessions start cold and re-derive context without durable memory, and (b) letting history leak into content pages turns every page into a changelog — the two jobs must stay separate.
 

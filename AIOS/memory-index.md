@@ -3,7 +3,7 @@
 Read this first, every session, before touching vault content. Each line points to one file in `AIOS/memory/`.
 
 - [What this vault is](memory/project_what_this_vault_is.md) — the Universal Languages premise and layout, plus durable user facts: Dravindian is a neologism, flags and maps in `files/`, colour-blindness rules for charts and maps, escape pipes in table embeds
-- [Session logging convention](memory/reference_session_logging.md) — how logs/log.md works: append-only, rotation procedure, content-vs-log separation
+- [Session logging convention](memory/reference_session_logging.md) — how logs/log.md works: append-only, rotation procedure (first roll done 2026-10-31, log-001), content-vs-log separation
 - [Swadesh page style](memory/reference_swadesh_page_style.md) — the standard 13-section layout for every UL's Swadesh page (Interslavic style), target column last, lexicon-linked forms
 - [Sibling vaults and external sources](memory/reference_sibling_vaults.md) — the danayo vault and other external references (Google Sheets lexicons, FrathWiki) to check before re-deriving
 - [Write memories before the session ends](memory/feedback_write_memories_before_session_ends.md) — flush durable notes to AIOS/memory and logs/log.md in the same turn; chat memory is not reliable
