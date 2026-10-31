@@ -89,27 +89,27 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | tree | <ruby>木<rt>ㄇㄛㄎ</rt></ruby> | [[arbore]] | [[Folksprak/Lexicon/ᛒᛟᛗ\|ᛒᛟᛗ bøm]] | — | ܥܝܨܐ | — |
-| 52 | forest | <ruby>森林<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby> | [[foreste]] | [[Folksprak/Lexicon/ᛋᛣᚩᚷ\|ᛋᛣᚩᚷ skog]], [[Folksprak/Lexicon/ᚹᚪᛚᛞ\|ᚹᚪᛚᛞ vald]] | — | ܥܒܝ | — |
-| 53 | stick (of wood) | <ruby>棍棒<rt>ㄏㄛㄋㄅㄚㄫ</rt></ruby> | [[baston]] | [[Folksprak/Lexicon/ᛋᛏᚩᛣ\|ᛋᛏᚩᛣ stok]] | — | ܣܝܒܛܐ | — |
-| 54 | fruit | <ruby>果実<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby> | [[fructo]] | [[Folksprak/Lexicon/ᚠᚱᚢᛉᛏ\|ᚠᚱᚢᛉᛏ fruxt]] | — | ܦܝܪܐ | — |
-| 55 | seed | <ruby>種子<rt>ㄐㄛㄫㄐㄜ</rt></ruby> | [[semine]] | [[Folksprak/Lexicon/ᛋᛖᛞ\|ᛋᛖᛞ sed]] | — | ܙܪܥܐ | — |
-| 56 | leaf | <ruby>葉<rt>⼄ㄆ</rt></ruby> | [[folio]] | [[Folksprak/Lexicon/ᛒᛚᚪᛞ\|ᛒᛚᚪᛞ blad]] | — | — | — |
-| 57 | root | <ruby>根<rt>ㄍㄜㄋ</rt></ruby> | [[radice]] | [[Folksprak/Lexicon/ᚹᚢᚱᛏ\|ᚹᚢᚱᛏ vurt]] | — | ܫܘܪܫܐ | — |
-| 58 | bark (of tree) | <ruby>樹皮<rt>ㄙㄨㄅㄧ</rt></ruby> | [[cortice]] | [[Folksprak/Lexicon/ᛒᚪᚱᛣ\|ᛒᚪᚱᛣ bark]] | — | — | — |
-| 59 | flower, blossom, (bloom) | <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> | [[flor]] | [[Folksprak/Lexicon/ᛒᛚᛟᛗ\|ᛒᛚᛟᛗ bløm]] | — | — | — |
-| 60 | grass | <ruby>草<rt>ㄑㄚㄨ</rt></ruby> | [[herba]] | [[Folksprak/Lexicon/ᚷᚱᚪᛋ\|ᚷᚱᚪᛋ gras]] | — | ܕܫܐ | — |
-| 61 | rope | <ruby>縄<rt>ㄙㄜㄫ</rt></ruby> | [[corda]] | [[Folksprak/Lexicon/ᚱᛖᛈ\|ᚱᛖᛈ rep]] | — | ܚܒܠܐ | — |
-| 62 | skin (hide) | <ruby>皮膚<rt>ㄅㄧㄈㄜ</rt></ruby> | [[cute]], [[pelle]] | [[Folksprak/Lexicon/ᚻᚢᛞ\|ᚻᚢᛞ hud]] | — | ܒܫܪܐ | — |
-| 63 | meat, flesh (as in flesh) | <ruby>肉<rt>ㄋㄨㄎ</rt></ruby> | [[carne]] | [[Folksprak/Lexicon/ᚠᛚᛖᛋᛣ\|ᚠᛚᛖᛋᛣ flesk]] | — | ܒܫܪܐ | — |
-| 64 | blood | <ruby>血<rt>ㄏ⼔ㄊ</rt></ruby> | [[sanguine]] | [[Folksprak/Lexicon/ᛒᛚᛟᛞ\|ᛒᛚᛟᛞ blød]] | — | ܕܡܐ | — |
-| 65 | bone | <ruby>骨<rt>ㄍㄛㄊ</rt></ruby> | [[osso]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | — | ܥܛܡܐ | — |
-| 66 | fat (noun) | <ruby>脂肪<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby> | [[grassia]] | [[Folksprak/Lexicon/ᚠᛖᛏᛏ\|ᚠᛖᛏᛏ fett]] | — | ܣܡܢܐ | — |
-| 67 | egg | <ruby>卵子<rt>ㄌㄚㄋㄐㄜ</rt></ruby> | [[ovo]] | [[Folksprak/Lexicon/ᛖᚷᚷ\|ᛖᚷᚷ egg]] | — | — | — |
-| 68 | horn | <ruby>角<rt>ㄍㄛㄎ</rt></ruby> | [[corno]] | [[Folksprak/Lexicon/ᚻᚩᚱᚾ\|ᚻᚩᚱᚾ horn]] | — | ܩܪܢܐ | — |
-| 69 | tail | <ruby>尾<rt>ㄇㄨㄧ</rt></ruby> | [[cauda]] | [[Folksprak/Lexicon/ᚻᚪᛚᛖ\|ᚻᚪᛚᛖ hale]] | — | ܙܢܒܐ | — |
-| 70 | feather (rather not down) | <ruby>羽毛<rt>ㄨ·ㄇㄚㄨ</rt></ruby> | [[pluma]], [[penna]] | [[Folksprak/Lexicon/ᚠᛖᛞᛖᚱ\|ᚠᛖᛞᛖᚱ feder]] | — | — | — |
-| 71 | hair | <ruby>頭髪<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby> | [[pilo]], [[capillo]] | [[Folksprak/Lexicon/ᚻᚩᚱ\|ᚻᚩᚱ hor]] | — | ܫܥܪܐ | — |
+| 51 | tree | <ruby>木<rt>ㄇㄛㄎ</rt></ruby> | [[arbore]] | [[Folksprak/Lexicon/ᛒᛟᛗ\|ᛒᛟᛗ bøm]] | [[древо]] | ܥܝܨܐ | — |
+| 52 | forest | <ruby>森林<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby> | [[foreste]] | [[Folksprak/Lexicon/ᛋᛣᚩᚷ\|ᛋᛣᚩᚷ skog]], [[Folksprak/Lexicon/ᚹᚪᛚᛞ\|ᚹᚪᛚᛞ vald]] | [[лес]] | ܥܒܝ | — |
+| 53 | stick (of wood) | <ruby>棍棒<rt>ㄏㄛㄋㄅㄚㄫ</rt></ruby> | [[baston]] | [[Folksprak/Lexicon/ᛋᛏᚩᛣ\|ᛋᛏᚩᛣ stok]] | [[палка]] | ܣܝܒܛܐ | — |
+| 54 | fruit | <ruby>果実<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby> | [[fructo]] | [[Folksprak/Lexicon/ᚠᚱᚢᛉᛏ\|ᚠᚱᚢᛉᛏ fruxt]] | [[плод]] | ܦܝܪܐ | — |
+| 55 | seed | <ruby>種子<rt>ㄐㄛㄫㄐㄜ</rt></ruby> | [[semine]] | [[Folksprak/Lexicon/ᛋᛖᛞ\|ᛋᛖᛞ sed]] | [[семе]] | ܙܪܥܐ | — |
+| 56 | leaf | <ruby>葉<rt>⼄ㄆ</rt></ruby> | [[folio]] | [[Folksprak/Lexicon/ᛒᛚᚪᛞ\|ᛒᛚᚪᛞ blad]] | [[лист]] | — | — |
+| 57 | root | <ruby>根<rt>ㄍㄜㄋ</rt></ruby> | [[radice]] | [[Folksprak/Lexicon/ᚹᚢᚱᛏ\|ᚹᚢᚱᛏ vurt]] | [[корењ]] | ܫܘܪܫܐ | — |
+| 58 | bark (of tree) | <ruby>樹皮<rt>ㄙㄨㄅㄧ</rt></ruby> | [[cortice]] | [[Folksprak/Lexicon/ᛒᚪᚱᛣ\|ᛒᚪᚱᛣ bark]] | [[кора]] | — | — |
+| 59 | flower, blossom, (bloom) | <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> | [[flor]] | [[Folksprak/Lexicon/ᛒᛚᛟᛗ\|ᛒᛚᛟᛗ bløm]] | [[цвет]] | — | — |
+| 60 | grass | <ruby>草<rt>ㄑㄚㄨ</rt></ruby> | [[herba]] | [[Folksprak/Lexicon/ᚷᚱᚪᛋ\|ᚷᚱᚪᛋ gras]] | [[трава]] | ܕܫܐ | — |
+| 61 | rope | <ruby>縄<rt>ㄙㄜㄫ</rt></ruby> | [[corda]] | [[Folksprak/Lexicon/ᚱᛖᛈ\|ᚱᛖᛈ rep]] | [[шнур]] | ܚܒܠܐ | — |
+| 62 | skin (hide) | <ruby>皮膚<rt>ㄅㄧㄈㄜ</rt></ruby> | [[cute]], [[pelle]] | [[Folksprak/Lexicon/ᚻᚢᛞ\|ᚻᚢᛞ hud]] | [[кожа]] | ܒܫܪܐ | — |
+| 63 | meat, flesh (as in flesh) | <ruby>肉<rt>ㄋㄨㄎ</rt></ruby> | [[carne]] | [[Folksprak/Lexicon/ᚠᛚᛖᛋᛣ\|ᚠᛚᛖᛋᛣ flesk]] | [[месо]] | ܒܫܪܐ | — |
+| 64 | blood | <ruby>血<rt>ㄏ⼔ㄊ</rt></ruby> | [[sanguine]] | [[Folksprak/Lexicon/ᛒᛚᛟᛞ\|ᛒᛚᛟᛞ blød]] | [[кров]] | ܕܡܐ | — |
+| 65 | bone | <ruby>骨<rt>ㄍㄛㄊ</rt></ruby> | [[osso]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | [[кост]] | ܥܛܡܐ | — |
+| 66 | fat (noun) | <ruby>脂肪<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby> | [[grassia]] | [[Folksprak/Lexicon/ᚠᛖᛏᛏ\|ᚠᛖᛏᛏ fett]] | [[тук]] | ܣܡܢܐ | — |
+| 67 | egg | <ruby>卵子<rt>ㄌㄚㄋㄐㄜ</rt></ruby> | [[ovo]] | [[Folksprak/Lexicon/ᛖᚷᚷ\|ᛖᚷᚷ egg]] | [[яйце]] | — | — |
+| 68 | horn | <ruby>角<rt>ㄍㄛㄎ</rt></ruby> | [[corno]] | [[Folksprak/Lexicon/ᚻᚩᚱᚾ\|ᚻᚩᚱᚾ horn]] | [[рог]] | ܩܪܢܐ | — |
+| 69 | tail | <ruby>尾<rt>ㄇㄨㄧ</rt></ruby> | [[cauda]] | [[Folksprak/Lexicon/ᚻᚪᛚᛖ\|ᚻᚪᛚᛖ hale]] | [[хвост]] | ܙܢܒܐ | — |
+| 70 | feather (rather not down) | <ruby>羽毛<rt>ㄨ·ㄇㄚㄨ</rt></ruby> | [[pluma]], [[penna]] | [[Folksprak/Lexicon/ᚠᛖᛞᛖᚱ\|ᚠᛖᛞᛖᚱ feder]] | [[перо]] | — | — |
+| 71 | hair | <ruby>頭髪<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby> | [[pilo]], [[capillo]] | [[Folksprak/Lexicon/ᚻᚩᚱ\|ᚻᚩᚱ hor]] | [[влас]] | ܫܥܪܐ | — |
 
 ### 72–91 Body
 

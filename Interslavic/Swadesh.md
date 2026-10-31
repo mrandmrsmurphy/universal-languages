@@ -75,27 +75,27 @@ List source: https://en.wiktionary.org/wiki/Appendix:Slavic_Swadesh_lists
 
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | tree | дрѣво | strom | drzewo | štom | дерево | — |
-| 52 | forest | лѣсъ | les | las, bór | lěs | лес | — |
-| 53 | stick | палица | hůl, klacek, prut, kůl, pálka | patyk, pręt, pałka | kij | палка | — |
-| 54 | fruit | овощє | ovoce, plod | owoc | płód | фрукт, плод | — |
-| 55 | seed | сѣмѧ | semeno, arch.sémě | nasienie, nasiono, siemię | symjo | семя, семена | — |
-| 56 | leaf | листъ | list | liść | lisćo | лист | — |
-| 57 | root | корєнь | kořen | korzeń | korjeń | корень | — |
-| 58 | bark | кора | kůra | kora | skora | кора | — |
-| 59 | flower | цвѣтъ | květ | kwiat | kwětka | цветок | — |
-| 60 | grass | трава | tráva | trawa | trawa | трава | — |
-| 61 | rope | вервь | lano, provaz, šňůra | sznur, lina, powróz | powjaz | верёвка, шнур | — |
-| 62 | skin | кожа | kůže | skóra | koža | кожа, шкура | — |
-| 63 | meat | мѧсо | maso | mięso | mjaso | мясо | — |
-| 64 | blood | крꙑ, руда | krev | krew | krej | кровь | — |
-| 65 | bone | кость | kost | kość | kósć | кость | — |
-| 66 | fat | тоукъ | tuk, sádlo, maz | tłuszcz, sadło | tuk | жир, сало | — |
-| 67 | egg | аицє | vejce | jajko | jejo | яйцо | — |
-| 68 | horn | рогъ | roh | róg | róh | рог | — |
-| 69 | tail | опашъ, хвостъ | ocas, ohon, chvost | ogon | wopuš | хвост | — |
-| 70 | feather | перїе | pero | pióro | pjerjo | перо | — |
-| 71 | hair | власъ | vlasy | włosy | włosy | волосы, космы, коса | — |
+| 51 | tree | дрѣво | strom | drzewo | štom | дерево | [[древо]] |
+| 52 | forest | лѣсъ | les | las, bór | lěs | лес | [[лес]] |
+| 53 | stick | палица | hůl, klacek, prut, kůl, pálka | patyk, pręt, pałka | kij | палка | [[палка]] |
+| 54 | fruit | овощє | ovoce, plod | owoc | płód | фрукт, плод | [[плод]] |
+| 55 | seed | сѣмѧ | semeno, arch.sémě | nasienie, nasiono, siemię | symjo | семя, семена | [[семе]] |
+| 56 | leaf | листъ | list | liść | lisćo | лист | [[лист]] |
+| 57 | root | корєнь | kořen | korzeń | korjeń | корень | [[корењ]] |
+| 58 | bark | кора | kůra | kora | skora | кора | [[кора]] |
+| 59 | flower | цвѣтъ | květ | kwiat | kwětka | цветок | [[цвет]] |
+| 60 | grass | трава | tráva | trawa | trawa | трава | [[трава]] |
+| 61 | rope | вервь | lano, provaz, šňůra | sznur, lina, powróz | powjaz | верёвка, шнур | [[шнур]] |
+| 62 | skin | кожа | kůže | skóra | koža | кожа, шкура | [[кожа]] |
+| 63 | meat | мѧсо | maso | mięso | mjaso | мясо | [[месо]] |
+| 64 | blood | крꙑ, руда | krev | krew | krej | кровь | [[кров]] |
+| 65 | bone | кость | kost | kość | kósć | кость | [[кост]] |
+| 66 | fat | тоукъ | tuk, sádlo, maz | tłuszcz, sadło | tuk | жир, сало | [[тук]] |
+| 67 | egg | аицє | vejce | jajko | jejo | яйцо | [[яйце]] |
+| 68 | horn | рогъ | roh | róg | róh | рог | [[рог]] |
+| 69 | tail | опашъ, хвостъ | ocas, ohon, chvost | ogon | wopuš | хвост | [[хвост]] |
+| 70 | feather | перїе | pero | pióro | pjerjo | перо | [[перо]] |
+| 71 | hair | власъ | vlasy | włosy | włosy | волосы, космы, коса | [[влас]] |
 
 ## 72–91 Body
 
