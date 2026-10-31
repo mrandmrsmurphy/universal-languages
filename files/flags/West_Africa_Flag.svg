@@ -1,0 +1,28 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- === Background stripes === -->
+
+  <!-- Left third: red -->
+  <rect x="0" y="0" width="100" height="200" fill="red" />
+
+  <!-- Middle third: yellow -->
+  <rect x="100" y="0" width="100" height="200" fill="yellow" />
+
+  <!-- Right third: green -->
+  <rect x="200" y="0" width="100" height="200" fill="green" />
+
+  <!-- === Centered white star === -->
+
+  <!-- The star is centered at (150, 100), with outer radius 50 and inner radius ~19.1 -->
+  <polygon fill="white" points="
+    150,50
+    165.45,81.45
+    199.39,84.55
+    173.28,106.18
+    181.23,139.45
+    150,122
+    118.77,139.45
+    126.72,106.18
+    100.61,84.55
+    134.55,81.45
+  " />
+</svg>
