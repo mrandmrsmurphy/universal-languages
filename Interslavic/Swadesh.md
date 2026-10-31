@@ -57,19 +57,19 @@ List source: https://en.wiktionary.org/wiki/Appendix:Slavic_Swadesh_lists
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 36 | woman | жєна | žena | kobieta | žona | женщина | [[жена]] |
 | 37 | man | мѫжь | muž | mężczyzna | muž, muski | мужчина | [[муж]] |
-| 38 | man | чловѣкъ | člověk | człowiek | čłowjek | человек | [[чловек]] |
+| 38 | man | чловѣкъ | člověk | człowiek | čłowjek | человек | [[человек]] |
 | 39 | child | дѣть, отрокъ | dítě | dziecko | dźěćo | дитя, ребёнок, отрок | [[дете]] |
-| 40 | wife | жєна | žena, manželka, choť | żona, małżonka | mandźelska, žona | жена, супруга | — |
-| 41 | husband | мѫжь | muž, manžel, choť | mąż | mandźelski, muž | муж, супруг | — |
+| 40 | wife | жєна | žena, manželka, choť | żona, małżonka | mandźelska, žona | жена, супруга | [[жена]] |
+| 41 | husband | мѫжь | muž, manžel, choť | mąż | mandźelski, muž | муж, супруг | [[муж]] |
 | 42 | mother | мати | matka, máma, arch.mateř | matka | mać | мать, матерь | [[матка]] |
-| 43 | father | отьць | otec | ojciec | nan | отец, батька | — |
-| 44 | animal | звѣрь | zvíře | zwierzę | zwěrjo | зверь, животное | — |
-| 45 | fish | рꙑба | ryba | ryba | ryba | рыба | — |
-| 46 | bird | пътица | pták | ptak | ptačk, ptak | птица, птаха | — |
-| 47 | dog | пьсъ | pes | pies | psyk | собака, пёс | — |
-| 48 | louse | въшь | veš | wesz | woš | вошь | — |
-| 49 | snake | змиꙗ | had | wąż | had | змея, уж, гадюка, гад | — |
-| 50 | worm | чрьвь | červ | robak, czerw | waka, čerw | червь, червяк | — |
+| 43 | father | отьць | otec | ojciec | nan | отец, батька | [[отец]] |
+| 44 | animal | звѣрь | zvíře | zwierzę | zwěrjo | зверь, животное | [[звер]] |
+| 45 | fish | рꙑба | ryba | ryba | ryba | рыба | [[рыба]] |
+| 46 | bird | пътица | pták | ptak | ptačk, ptak | птица, птаха | [[птак]] |
+| 47 | dog | пьсъ | pes | pies | psyk | собака, пёс | [[пес]] |
+| 48 | louse | въшь | veš | wesz | woš | вошь | [[вош]] |
+| 49 | snake | змиꙗ | had | wąż | had | змея, уж, гадюка, гад | [[змия]] |
+| 50 | worm | чрьвь | červ | robak, czerw | waka, čerw | червь, червяк | [[червяк]] |
 
 ## 51–71 Plants and animal parts
 

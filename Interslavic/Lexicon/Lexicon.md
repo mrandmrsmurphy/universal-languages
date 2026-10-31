@@ -69,6 +69,14 @@ Pronouns and other inflected words get a Forms table.
 - [[Interslavic/Lexicon/тенкы|тенкы]] (tenky) — thin
 - [[Interslavic/Lexicon/жена|жена]] (žena) — woman
 - [[Interslavic/Lexicon/муж|муж]] (muž) — man
-- [[Interslavic/Lexicon/чловек|чловек]] (človek) — human being
+- [[Interslavic/Lexicon/человек|человек]] (čelovek) — human being
 - [[Interslavic/Lexicon/дете|дете]] (dete) — child
 - [[Interslavic/Lexicon/име|име]] (ime) — name
+- [[Interslavic/Lexicon/отец|отец]] (otec) — father
+- [[Interslavic/Lexicon/звер|звер]] (zver) — animal
+- [[Interslavic/Lexicon/рыба|рыба]] (ryba) — fish
+- [[Interslavic/Lexicon/птак|птак]] (ptak) — bird
+- [[Interslavic/Lexicon/пес|пес]] (pes) — dog
+- [[Interslavic/Lexicon/вош|вош]] (voš) — louse
+- [[Interslavic/Lexicon/змия|змия]] (zmija) — snake
+- [[Interslavic/Lexicon/червяк|червяк]] (črvjak) — worm

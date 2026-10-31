@@ -71,19 +71,19 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 36 | woman | <ruby>女人<rt>ㄋㄜ·ㄋㄧㄋ</rt></ruby> | [[femina]] | [[Folksprak/Lexicon/ᛣᚹᛁᚾ\|ᛣᚹᛁᚾ kvin]] | [[жена]] | ܢܝܣܐ | — |
 | 37 | adult male | <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> | [[viro]] | [[Folksprak/Lexicon/ᚹᛖᚱ\|ᚹᛖᚱ ver]] | [[муж]] | ܓܒܪܐ | — |
-| 38 | human being | <ruby>人<rt>ㄋㄧㄋ</rt></ruby> | [[homine]] | [[Folksprak/Lexicon/ᛗᚪᚾᚾ\|ᛗᚪᚾᚾ mann]] | [[чловек]] | ܐܝܢܐܣܐ | — |
+| 38 | human being | <ruby>人<rt>ㄋㄧㄋ</rt></ruby> | [[homine]] | [[Folksprak/Lexicon/ᛗᚪᚾᚾ\|ᛗᚪᚾᚾ mann]] | [[человек]] | ܐܝܢܐܣܐ | — |
 | 39 | child (a youth) | <ruby>児子<rt>ㄝㄧㄐㄜ</rt></ruby> | [[infante]] | [[Folksprak/Lexicon/ᛒᚪᚱᚾ\|ᛒᚪᚱᚾ barn]] | [[дете]] | ܘܠܕܐ | — |
-| 40 | wife | <ruby>妻<rt>ㄑㄝㄧ</rt></ruby> | [[marita]], [[sposa]] | [[Folksprak/Lexicon/ᚻᚢᛋᛏᚱᚢ\|ᚻᚢᛋᛏᚱᚢ hustru]] | — | ܒܥܠܬܐ | — |
-| 41 | husband | <ruby>丈夫<rt>ㄑㄚㄫㄈㄜ</rt></ruby> | [[marito]], [[sposo]] | [[Folksprak/Lexicon/ᛗᚪᛣᛖ\|ᛗᚪᛣᛖ make]] | — | ܒܥܠܐ | — |
+| 40 | wife | <ruby>妻<rt>ㄑㄝㄧ</rt></ruby> | [[marita]], [[sposa]] | [[Folksprak/Lexicon/ᚻᚢᛋᛏᚱᚢ\|ᚻᚢᛋᛏᚱᚢ hustru]] | [[жена]] | ܒܥܠܬܐ | — |
+| 41 | husband | <ruby>丈夫<rt>ㄑㄚㄫㄈㄜ</rt></ruby> | [[marito]], [[sposo]] | [[Folksprak/Lexicon/ᛗᚪᛣᛖ\|ᛗᚪᛣᛖ make]] | [[муж]] | ܒܥܠܐ | — |
 | 42 | mother | <ruby>母親<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby> | [[matre]] | [[Folksprak/Lexicon/ᛗᛟᛞᛖᚱ\|ᛗᛟᛞᛖᚱ møder]] | [[матка]] | ܐܡܐ | — |
-| 43 | father | <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby> | [[patre]] | [[Folksprak/Lexicon/ᚠᚪᛞᛖᚱ\|ᚠᚪᛞᛖᚱ fader]] | — | ܐܒܐ | — |
-| 44 | animal | <ruby>動物<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> | [[animal]] | [[Folksprak/Lexicon/ᛞᚣᚱ\|ᛞᚣᚱ dyr]] | — | ܒܗܝܡܐ | — |
-| 45 | fish | <ruby>魚<rt>⼄</rt></ruby> | [[pisce]] | [[Folksprak/Lexicon/ᚠᛁᚳᚳ\|ᚠᛁᚳᚳ ficc]] | — | ܚܘܬܐ | — |
-| 46 | bird (fowl) | <ruby>鳥<rt>ㄑㄛㄨ</rt></ruby> | [[ave]] | [[Folksprak/Lexicon/ᚠᚩᚷᛖᛚ\|ᚠᚩᚷᛖᛚ fogel]] | — | — | — |
-| 47 | dog (hound) | <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> | [[can]] | [[Folksprak/Lexicon/ᚻᚢᚾᛞ\|ᚻᚢᚾᛞ hund]] | — | ܟܠܒܐ | — |
-| 48 | louse | <ruby>虱<rt>ㄙㄛㄊ</rt></ruby> | [[pediculo]] | [[Folksprak/Lexicon/ᛚᚢᛋ\|ᛚᚢᛋ lus]] | — | — | — |
-| 49 | snake | <ruby>蛇<rt>ㄊㄚ</rt></ruby> | [[serpente]] | [[Folksprak/Lexicon/ᛋᛚᚪᚾᚷ\|ᛋᛚᚪᚾᚷ slang]] | — | ܢܚܣܐ | — |
-| 50 | worm | <ruby>蠕虫<rt>ㄋㄨㄐㄨㄫ</rt></ruby> | [[verme]] | [[Folksprak/Lexicon/ᚹᚢᚱᛗ\|ᚹᚢᚱᛗ vurm]] | — | — | — |
+| 43 | father | <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby> | [[patre]] | [[Folksprak/Lexicon/ᚠᚪᛞᛖᚱ\|ᚠᚪᛞᛖᚱ fader]] | [[отец]] | ܐܒܐ | — |
+| 44 | animal | <ruby>動物<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> | [[animal]] | [[Folksprak/Lexicon/ᛞᚣᚱ\|ᛞᚣᚱ dyr]] | [[звер]] | ܒܗܝܡܐ | — |
+| 45 | fish | <ruby>魚<rt>⼄</rt></ruby> | [[pisce]] | [[Folksprak/Lexicon/ᚠᛁᚳᚳ\|ᚠᛁᚳᚳ ficc]] | [[рыба]] | ܚܘܬܐ | — |
+| 46 | bird (fowl) | <ruby>鳥<rt>ㄑㄛㄨ</rt></ruby> | [[ave]] | [[Folksprak/Lexicon/ᚠᚩᚷᛖᛚ\|ᚠᚩᚷᛖᛚ fogel]] | [[птак]] | — | — |
+| 47 | dog (hound) | <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> | [[can]] | [[Folksprak/Lexicon/ᚻᚢᚾᛞ\|ᚻᚢᚾᛞ hund]] | [[пес]] | ܟܠܒܐ | — |
+| 48 | louse | <ruby>虱<rt>ㄙㄛㄊ</rt></ruby> | [[pediculo]] | [[Folksprak/Lexicon/ᛚᚢᛋ\|ᛚᚢᛋ lus]] | [[вош]] | — | — |
+| 49 | snake | <ruby>蛇<rt>ㄊㄚ</rt></ruby> | [[serpente]] | [[Folksprak/Lexicon/ᛋᛚᚪᚾᚷ\|ᛋᛚᚪᚾᚷ slang]] | [[змия]] | ܢܚܣܐ | — |
+| 50 | worm | <ruby>蠕虫<rt>ㄋㄨㄐㄨㄫ</rt></ruby> | [[verme]] | [[Folksprak/Lexicon/ᚹᚢᚱᛗ\|ᚹᚢᚱᛗ vurm]] | [[червяк]] | — | — |
 
 ### 51–71 Plants and animal parts
 
