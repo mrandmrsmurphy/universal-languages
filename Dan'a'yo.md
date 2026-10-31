@@ -16,7 +16,7 @@ The first and biggest UL. Unites Mandarin, Japanese, Korean, and (to some extent
 
 ## The danayo vault
 
-Dan'a'yo has its own Obsidian vault at `../danayo` (`/Users/robertmarshallmurphy/Documents/danayo`), where all real work happens. It is the furthest along of the fifteen ULs by a wide margin:
+Dan'a'yo has its own Obsidian vault at `../danayo`, where all real work happens. It is the furthest along of the fifteen ULs by a wide margin:
 
 - **~3,370 character pages** (`characters/`) — Han characters only, never words; a character that can also stand alone is filed as `X (char).md` so it doesn't collide with the word `words/X.md`
 - **~6,550 word pages** (`words/`) — the actual vocabulary, mostly compounds (words outnumber characters ~2:1)

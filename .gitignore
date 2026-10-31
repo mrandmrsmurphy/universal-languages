@@ -5,6 +5,7 @@ __pycache__/
 # Obsidian per-user state (keep shared settings)
 .obsidian/workspace.json
 .obsidian/workspaces.json
+.obsidian/plugins/
 .obsidian/cache
 .trash/
 
