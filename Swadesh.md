@@ -115,70 +115,70 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 72 | head | <ruby>頭<rt>ㄊㄛㄨ</rt></ruby> | [[capite]] | [[Folksprak/Lexicon/ᚻᛟᚹᛞ\|ᚻᛟᚹᛞ høvd]] | — | ܪܐܣܐ | — |
-| 73 | ear | <ruby>耳<rt>ㄋㄧ</rt></ruby> | [[aure]] | [[Folksprak/Lexicon/ᛟᚱ\|ᛟᚱ ør]] | — | ܐܘܙܢܐ | — |
-| 74 | eye | <ruby>目<rt>ㄇㄨㄎ</rt></ruby> | [[oculo]] | [[Folksprak/Lexicon/ᛟᚷ\|ᛟᚷ øg]] | — | ܥܝܢܐ | — |
-| 75 | nose | <ruby>鼻<rt>ㄅㄧ</rt></ruby> | [[naso]] | [[Folksprak/Lexicon/ᚾᛖᛋ\|ᚾᛖᛋ nes]] | — | ܐܢܦܐ | — |
-| 76 | mouth | <ruby>口<rt>ㄎㄛㄨ</rt></ruby> | [[bucca]], [[ore]] | [[Folksprak/Lexicon/ᛗᚢᚾᛞ\|ᛗᚢᚾᛞ mund]] | — | ܦܘܡܐ | — |
-| 77 | tooth (rather not molar) | <ruby>歯<rt>ㄑㄧ</rt></ruby> | [[dente]] | [[Folksprak/Lexicon/ᛏᚪᚾᛞ\|ᛏᚪᚾᛞ tand]] | — | ܣܝܢܐ | — |
-| 78 | tongue | <ruby>舌<rt>ㄙㄝㄊ</rt></ruby> | [[lingua]] | [[Folksprak/Lexicon/ᛏᚢᚾᚷ\|ᛏᚢᚾᚷ tung]] | — | ܠܣܢܐ | — |
-| 79 | fingernail, nail | <ruby>指甲<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> | [[ungula]] | [[Folksprak/Lexicon/ᚾᚪᚷᛖᛚ\|ᚾᚪᚷᛖᛚ nagel]] | — | ܛܘܦܪܐ | — |
-| 80 | foot | <ruby>足<rt>ㄐㄛㄎ</rt></ruby> | [[pede]] | [[Folksprak/Lexicon/ᚠᛟᛏ\|ᚠᛟᛏ føt]] | — | ܪܝܓܠܐ | — |
-| 81 | leg | <ruby>脚<rt>ㄍ⼘ㄎ</rt></ruby> | [[gamba]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | — | ܪܝܓܠܐ | — |
-| 82 | knee | <ruby>膝蓋<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby> | [[genu]] | [[Folksprak/Lexicon/ᛣᚾᛖ\|ᛣᚾᛖ kne]] | — | ܒܪܟܐ | — |
-| 83 | hand | <ruby>手<rt>ㄙ⼜</rt></ruby> | [[mano]] | [[Folksprak/Lexicon/ᚻᚪᚾᛞ\|ᚻᚪᚾᛞ hand]] | — | ܝܕܐ | — |
-| 84 | wing | <ruby>羽翼<rt>ㄨㄧㄎ</rt></ruby> | [[ala]] | [[Folksprak/Lexicon/ᚹᛁᚾᚷ\|ᚹᛁᚾᚷ ving]] | — | ܟܢܦܐ | — |
-| 85 | belly, stomach (medical) | <ruby>腹<rt>ㄈㄨㄎ</rt></ruby> | [[ventre]] | [[Folksprak/Lexicon/ᛒᚢᛣ\|ᛒᚢᛣ buk]], [[Folksprak/Lexicon/ᛗᚪᚷᛖ\|ᛗᚪᚷᛖ mage]] | — | ܟܪܫܐ | — |
-| 86 | guts, intestines (medical), entrails | <ruby>腸管<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby> | [[tripas]] | [[Folksprak/Lexicon/ᛞᚪᚱᛗ\|ᛞᚪᚱᛗ darm]] | — | ܡܥܝ | — |
-| 87 | neck | <ruby>頚<rt>ㄍㄧㄫ</rt></ruby> | [[collo]] | [[Folksprak/Lexicon/ᚻᚪᛚᛋ\|ᚻᚪᛚᛋ hals]] | — | — | — |
-| 88 | back | <ruby>背<rt>ㄅㄛㄧ</rt></ruby> | [[dorso]] | [[Folksprak/Lexicon/ᚱᚣᚷ\|ᚱᚣᚷ ryg]] | — | — | — |
-| 89 | breast | <ruby>胸部<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby> | [[pectore]] | [[Folksprak/Lexicon/ᛒᚱᚣᛋᛏ\|ᛒᚱᚣᛋᛏ bryst]] | — | ܚܝܨܢܐ | — |
-| 90 | heart | <ruby>心臓<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> | [[corde]] | [[Folksprak/Lexicon/ᚻᛖᚱᛏ\|ᚻᛖᚱᛏ hert]] | — | ܠܝܒܐ | — |
-| 91 | liver | <ruby>肝臓<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby> | [[ficato]], [[hepato]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖᚱ\|ᛚᛖᚹᛖᚱ lever]] | — | ܠܒܕܐ | — |
+| 72 | head | <ruby>頭<rt>ㄊㄛㄨ</rt></ruby> | [[capite]] | [[Folksprak/Lexicon/ᚻᛟᚹᛞ\|ᚻᛟᚹᛞ høvd]] | [[глава]] | ܪܐܣܐ | — |
+| 73 | ear | <ruby>耳<rt>ㄋㄧ</rt></ruby> | [[aure]] | [[Folksprak/Lexicon/ᛟᚱ\|ᛟᚱ ør]] | [[ухо]] | ܐܘܙܢܐ | — |
+| 74 | eye | <ruby>目<rt>ㄇㄨㄎ</rt></ruby> | [[oculo]] | [[Folksprak/Lexicon/ᛟᚷ\|ᛟᚷ øg]] | [[око]] | ܥܝܢܐ | — |
+| 75 | nose | <ruby>鼻<rt>ㄅㄧ</rt></ruby> | [[naso]] | [[Folksprak/Lexicon/ᚾᛖᛋ\|ᚾᛖᛋ nes]] | [[нос]] | ܐܢܦܐ | — |
+| 76 | mouth | <ruby>口<rt>ㄎㄛㄨ</rt></ruby> | [[bucca]], [[ore]] | [[Folksprak/Lexicon/ᛗᚢᚾᛞ\|ᛗᚢᚾᛞ mund]] | [[уста]] | ܦܘܡܐ | — |
+| 77 | tooth (rather not molar) | <ruby>歯<rt>ㄑㄧ</rt></ruby> | [[dente]] | [[Folksprak/Lexicon/ᛏᚪᚾᛞ\|ᛏᚪᚾᛞ tand]] | [[зуб]] | ܣܝܢܐ | — |
+| 78 | tongue | <ruby>舌<rt>ㄙㄝㄊ</rt></ruby> | [[lingua]] | [[Folksprak/Lexicon/ᛏᚢᚾᚷ\|ᛏᚢᚾᚷ tung]] | [[єзык]] | ܠܣܢܐ | — |
+| 79 | fingernail, nail | <ruby>指甲<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> | [[ungula]] | [[Folksprak/Lexicon/ᚾᚪᚷᛖᛚ\|ᚾᚪᚷᛖᛚ nagel]] | [[ногот]] | ܛܘܦܪܐ | — |
+| 80 | foot | <ruby>足<rt>ㄐㄛㄎ</rt></ruby> | [[pede]] | [[Folksprak/Lexicon/ᚠᛟᛏ\|ᚠᛟᛏ føt]] | [[стопа]] | ܪܝܓܠܐ | — |
+| 81 | leg | <ruby>脚<rt>ㄍ⼘ㄎ</rt></ruby> | [[gamba]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | [[нога]] | ܪܝܓܠܐ | — |
+| 82 | knee | <ruby>膝蓋<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby> | [[genu]] | [[Folksprak/Lexicon/ᛣᚾᛖ\|ᛣᚾᛖ kne]] | [[колено]] | ܒܪܟܐ | — |
+| 83 | hand | <ruby>手<rt>ㄙ⼜</rt></ruby> | [[mano]] | [[Folksprak/Lexicon/ᚻᚪᚾᛞ\|ᚻᚪᚾᛞ hand]] | [[рука]] | ܝܕܐ | — |
+| 84 | wing | <ruby>羽翼<rt>ㄨㄧㄎ</rt></ruby> | [[ala]] | [[Folksprak/Lexicon/ᚹᛁᚾᚷ\|ᚹᛁᚾᚷ ving]] | [[крило]] | ܟܢܦܐ | — |
+| 85 | belly, stomach (medical) | <ruby>腹<rt>ㄈㄨㄎ</rt></ruby> | [[ventre]] | [[Folksprak/Lexicon/ᛒᚢᛣ\|ᛒᚢᛣ buk]], [[Folksprak/Lexicon/ᛗᚪᚷᛖ\|ᛗᚪᚷᛖ mage]] | [[брюхо]] | ܟܪܫܐ | — |
+| 86 | guts, intestines (medical), entrails | <ruby>腸管<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby> | [[tripas]] | [[Folksprak/Lexicon/ᛞᚪᚱᛗ\|ᛞᚪᚱᛗ darm]] | [[внутрности]] | ܡܥܝ | — |
+| 87 | neck | <ruby>頚<rt>ㄍㄧㄫ</rt></ruby> | [[collo]] | [[Folksprak/Lexicon/ᚻᚪᛚᛋ\|ᚻᚪᛚᛋ hals]] | [[шия]] | — | — |
+| 88 | back | <ruby>背<rt>ㄅㄛㄧ</rt></ruby> | [[dorso]] | [[Folksprak/Lexicon/ᚱᚣᚷ\|ᚱᚣᚷ ryg]] | [[зад]] | — | — |
+| 89 | breast | <ruby>胸部<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby> | [[pectore]] | [[Folksprak/Lexicon/ᛒᚱᚣᛋᛏ\|ᛒᚱᚣᛋᛏ bryst]] | [[прс]] | ܚܝܨܢܐ | — |
+| 90 | heart | <ruby>心臓<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> | [[corde]] | [[Folksprak/Lexicon/ᚻᛖᚱᛏ\|ᚻᛖᚱᛏ hert]] | [[срдце]] | ܠܝܒܐ | — |
+| 91 | liver | <ruby>肝臓<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby> | [[ficato]], [[hepato]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖᚱ\|ᛚᛖᚹᛖᚱ lever]] | [[єтра]] | ܠܒܕܐ | — |
 
 ### 92–107 Body functions and senses
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 92 | to drink | <ruby>飲<rt>ㄨㄇ</rt></ruby> | [[biber]] | [[Folksprak/Lexicon/ᛞᚱᛁᚾᛣᛖ\|ᛞᚱᛁᚾᛣᛖ drinke]] | — | — | — |
-| 93 | to eat | <ruby>食<rt>ㄙㄧㄎ</rt></ruby> | [[mangiar]] | [[Folksprak/Lexicon/ᛖᛏᛖ\|ᛖᛏᛖ ete]] | — | ܐܟܠ | — |
-| 94 | to bite | <ruby>咬<rt>⼘ㄨ</rt></ruby> | [[morder]] | [[Folksprak/Lexicon/ᛒᛁᛏᛖ\|ᛒᛁᛏᛖ bite]] | — | — | — |
-| 95 | to suck | <ruby>吸<rt>ㄏㄧㄆ</rt></ruby> | [[suger]] | [[Folksprak/Lexicon/ᛋᚢᚷᛖ\|ᛋᚢᚷᛖ suge]] | — | ܝܢܩ | — |
-| 96 | to spit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[sputar]] | [[Folksprak/Lexicon/ᛋᛈᚢᛣᛖ\|ᛋᛈᚢᛣᛖ spuke]] | — | — | — |
-| 97 | to vomit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[vomitar]] | [[Folksprak/Lexicon/ᛋᛈᚣ\|ᛋᛈᚣ spy]] | — | — | — |
-| 98 | to blow | <ruby>吹<rt>ㄑㄨㄧ</rt></ruby> | [[sufflar]] | [[Folksprak/Lexicon/ᛒᛚᛖᚱᛖ\|ᛒᛚᛖᚱᛖ blere]] | — | ܢܦܚ | — |
-| 99 | to breathe | <ruby>呼吸<rt>ㄏㄛㄏㄧㄆ</rt></ruby> | [[respirar]] | [[Folksprak/Lexicon/ᚪᛞᛖᛗᛖ\|ᚪᛞᛖᛗᛖ ademe]] | — | ܢܦܚ | — |
+| 92 | to drink | <ruby>飲<rt>ㄨㄇ</rt></ruby> | [[biber]] | [[Folksprak/Lexicon/ᛞᚱᛁᚾᛣᛖ\|ᛞᚱᛁᚾᛣᛖ drinke]] | [[пити]] | — | — |
+| 93 | to eat | <ruby>食<rt>ㄙㄧㄎ</rt></ruby> | [[mangiar]] | [[Folksprak/Lexicon/ᛖᛏᛖ\|ᛖᛏᛖ ete]] | [[єсти]] | ܐܟܠ | — |
+| 94 | to bite | <ruby>咬<rt>⼘ㄨ</rt></ruby> | [[morder]] | [[Folksprak/Lexicon/ᛒᛁᛏᛖ\|ᛒᛁᛏᛖ bite]] | [[кусати]] | — | — |
+| 95 | to suck | <ruby>吸<rt>ㄏㄧㄆ</rt></ruby> | [[suger]] | [[Folksprak/Lexicon/ᛋᚢᚷᛖ\|ᛋᚢᚷᛖ suge]] | [[сосати]] | ܝܢܩ | — |
+| 96 | to spit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[sputar]] | [[Folksprak/Lexicon/ᛋᛈᚢᛣᛖ\|ᛋᛈᚢᛣᛖ spuke]] | [[пљувати]] | — | — |
+| 97 | to vomit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[vomitar]] | [[Folksprak/Lexicon/ᛋᛈᚣ\|ᛋᛈᚣ spy]] | [[бљувати]] | — | — |
+| 98 | to blow | <ruby>吹<rt>ㄑㄨㄧ</rt></ruby> | [[sufflar]] | [[Folksprak/Lexicon/ᛒᛚᛖᚱᛖ\|ᛒᛚᛖᚱᛖ blere]] | [[дути]] | ܢܦܚ | — |
+| 99 | to breathe | <ruby>呼吸<rt>ㄏㄛㄏㄧㄆ</rt></ruby> | [[respirar]] | [[Folksprak/Lexicon/ᚪᛞᛖᛗᛖ\|ᚪᛞᛖᛗᛖ ademe]] | [[дышати]] | ܢܦܚ | — |
 | 100 | to laugh | <ruby>笑<rt>ㄙ⼄ㄨ</rt></ruby> | [[rider]] | [[Folksprak/Lexicon/ᛚᚪᛉᛖ\|ᛚᚪᛉᛖ laxe]] | — | — | — |
-| 101 | to see | <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> | [[vider]] | [[Folksprak/Lexicon/ᛋᛖᛄᛖ\|ᛋᛖᛄᛖ seje]] | — | ܪܐܝ | — |
-| 102 | to hear | <ruby>聞<rt>ㄇㄨㄋ</rt></ruby> | [[audir]] | [[Folksprak/Lexicon/ᚻᛟᚱᛖ\|ᚻᛟᚱᛖ høre]] | — | ܣܡܥ | — |
-| 103 | to know | <ruby>知<rt>ㄐㄨㄧ</rt></ruby> | [[saper]] | [[Folksprak/Lexicon/ᚹᛖᛏᛖ\|ᚹᛖᛏᛖ vete]], [[Folksprak/Lexicon/ᛣᛖᚾᛖ\|ᛣᛖᚾᛖ kene]] | — | ܘܕܥ | — |
-| 104 | to think | <ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby> | [[pensar]] | [[Folksprak/Lexicon/ᛞᛖᚾᛣᛖ\|ᛞᛖᚾᛣᛖ denke]] | — | ܚܣܒ | — |
-| 105 | to smell (sense odor) | <ruby>嗅覚<rt>ㄏ⼜ㄍㄚㄎ</rt></ruby> | [[olfacer]] | [[Folksprak/Lexicon/ᚱᚣᛣᛖ\|ᚱᚣᛣᛖ ryke]] | — | — | — |
+| 101 | to see | <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> | [[vider]] | [[Folksprak/Lexicon/ᛋᛖᛄᛖ\|ᛋᛖᛄᛖ seje]] | [[видети]] | ܪܐܝ | — |
+| 102 | to hear | <ruby>聞<rt>ㄇㄨㄋ</rt></ruby> | [[audir]] | [[Folksprak/Lexicon/ᚻᛟᚱᛖ\|ᚻᛟᚱᛖ høre]] | [[слышати]] | ܣܡܥ | — |
+| 103 | to know | <ruby>知<rt>ㄐㄨㄧ</rt></ruby> | [[saper]] | [[Folksprak/Lexicon/ᚹᛖᛏᛖ\|ᚹᛖᛏᛖ vete]], [[Folksprak/Lexicon/ᛣᛖᚾᛖ\|ᛣᛖᚾᛖ kene]] | [[знати]], [[ведети]] | ܘܕܥ | — |
+| 104 | to think | <ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby> | [[pensar]] | [[Folksprak/Lexicon/ᛞᛖᚾᛣᛖ\|ᛞᛖᚾᛣᛖ denke]] | [[мыслити]] | ܚܣܒ | — |
+| 105 | to smell (sense odor) | <ruby>嗅覚<rt>ㄏ⼜ㄍㄚㄎ</rt></ruby> | [[olfacer]] | [[Folksprak/Lexicon/ᚱᚣᛣᛖ\|ᚱᚣᛣᛖ ryke]] | [[воњати]] | — | — |
 | 106 | to fear | <ruby>恐慌<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby> | [[timer]] | [[Folksprak/Lexicon/ᚠᚣᚱᛉᛏᛖ\|ᚠᚣᚱᛉᛏᛖ fyrxte]] | — | — | — |
-| 107 | to sleep | <ruby>睡眠<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> | [[dormir]] | [[Folksprak/Lexicon/ᛋᛚᚪᛈᛖ\|ᛋᛚᚪᛈᛖ slape]] | — | — | — |
+| 107 | to sleep | <ruby>睡眠<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> | [[dormir]] | [[Folksprak/Lexicon/ᛋᛚᚪᛈᛖ\|ᛋᛚᚪᛈᛖ slape]] | [[спати]] | — | — |
 
 ### 108–125 Life, conflict, motion and posture
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 108 | to live | <ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> | [[viver]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖ\|ᛚᛖᚹᛖ leve]] | — | — | — |
-| 109 | to die | <ruby>死亡<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> | [[morir]] | [[Folksprak/Lexicon/ᛞᛟᛖ\|ᛞᛟᛖ døe]] | — | ܡܘܬ | — |
-| 110 | to kill | <ruby>殺<rt>ㄙㄚㄊ</rt></ruby> | [[occidar]] | [[Folksprak/Lexicon/ᛞᛟᛞᛖ\|ᛞᛟᛞᛖ døde]] | — | — | — |
-| 111 | to fight (physically) | <ruby>闘争<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby> | [[luctar]] | [[Folksprak/Lexicon/ᚠᛖᛉᛏᛖ\|ᚠᛖᛉᛏᛖ fexte]] | — | — | — |
-| 112 | to hunt (transitive) | <ruby>獵<rt>ㄌㄛㄆ</rt></ruby> | [[chassar]] | [[Folksprak/Lexicon/ᛄᚪᚷᛖ\|ᛄᚪᚷᛖ jage]] | — | ܨܝܕ | — |
-| 113 | to hit | <ruby>打撃<rt>ㄉㄚㄍㄝㄎ</rt></ruby> | [[colpar]] | [[Folksprak/Lexicon/ᛋᛚᚪᛄᛖ\|ᛋᛚᚪᛄᛖ slaje]] | — | — | — |
-| 114 | to cut | <ruby>切<rt>ㄑㄝㄊ</rt></ruby> | [[secar]] | [[Folksprak/Lexicon/ᚳᛖᚱᛖ\|ᚳᛖᚱᛖ cere]] | — | — | — |
-| 115 | to split | <ruby>破裂<rt>ㄆㄜㄌㄝㄊ</rt></ruby> | [[finder]] | [[Folksprak/Lexicon/ᛞᛖᛚᛖ\|ᛞᛖᛚᛖ dele]] | — | — | — |
-| 116 | to stab (or stick) | <ruby>刺<rt>ㄑㄧㄎ</rt></ruby> | [[dagar]] | [[Folksprak/Lexicon/ᛋᛏᛖᛣᛖ\|ᛋᛏᛖᛣᛖ steke]] | — | — | — |
-| 117 | to scratch (an itch) | <ruby>掻<rt>ㄙㄚㄨ</rt></ruby> | [[grattar]] | [[Folksprak/Lexicon/ᛣᛚᛟᚱᛖ\|ᛣᛚᛟᚱᛖ kløre]] | — | — | — |
-| 118 | to dig | <ruby>掘<rt>ㄍㄨㄊ</rt></ruby> | [[foder]] | [[Folksprak/Lexicon/ᚷᚱᚪᚹᛖ\|ᚷᚱᚪᚹᛖ grave]] | — | ܚܦܪ | — |
-| 119 | to swim | <ruby>泳<rt>ㄨㄧㄫ</rt></ruby> | [[natar]] | [[Folksprak/Lexicon/ᛋᚹᛁᛗᛗᛖ\|ᛋᚹᛁᛗᛗᛖ svimme]] | — | — | — |
-| 120 | to fly | <ruby>飛<rt>ㄈㄝㄧ</rt></ruby> | [[volar]] | [[Folksprak/Lexicon/ᚠᛚᚣᚷᛖ\|ᚠᛚᚣᚷᛖ flyge]] | — | — | — |
-| 121 | to walk | <ruby>行<rt>ㄏㄚㄫ</rt></ruby> | [[ambular]], [[promenar]] se]] | [[Folksprak/Lexicon/ᚷᚪᛖ\|ᚷᚪᛖ gae]] | — | — | — |
+| 108 | to live | <ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> | [[viver]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖ\|ᛚᛖᚹᛖ leve]] | [[жити]] | — | — |
+| 109 | to die | <ruby>死亡<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> | [[morir]] | [[Folksprak/Lexicon/ᛞᛟᛖ\|ᛞᛟᛖ døe]] | [[умрети]] | ܡܘܬ | — |
+| 110 | to kill | <ruby>殺<rt>ㄙㄚㄊ</rt></ruby> | [[occidar]] | [[Folksprak/Lexicon/ᛞᛟᛞᛖ\|ᛞᛟᛞᛖ døde]] | [[убити]] | — | — |
+| 111 | to fight (physically) | <ruby>闘争<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby> | [[luctar]] | [[Folksprak/Lexicon/ᚠᛖᛉᛏᛖ\|ᚠᛖᛉᛏᛖ fexte]] | [[воєвати]] | — | — |
+| 112 | to hunt (transitive) | <ruby>獵<rt>ㄌㄛㄆ</rt></ruby> | [[chassar]] | [[Folksprak/Lexicon/ᛄᚪᚷᛖ\|ᛄᚪᚷᛖ jage]] | [[ловити]] | ܨܝܕ | — |
+| 113 | to hit | <ruby>打撃<rt>ㄉㄚㄍㄝㄎ</rt></ruby> | [[colpar]] | [[Folksprak/Lexicon/ᛋᛚᚪᛄᛖ\|ᛋᛚᚪᛄᛖ slaje]] | [[бити]] | — | — |
+| 114 | to cut | <ruby>切<rt>ㄑㄝㄊ</rt></ruby> | [[secar]] | [[Folksprak/Lexicon/ᚳᛖᚱᛖ\|ᚳᛖᚱᛖ cere]] | [[резати]] | — | — |
+| 115 | to split | <ruby>破裂<rt>ㄆㄜㄌㄝㄊ</rt></ruby> | [[finder]] | [[Folksprak/Lexicon/ᛞᛖᛚᛖ\|ᛞᛖᛚᛖ dele]] | [[разделити]] | — | — |
+| 116 | to stab (or stick) | <ruby>刺<rt>ㄑㄧㄎ</rt></ruby> | [[dagar]] | [[Folksprak/Lexicon/ᛋᛏᛖᛣᛖ\|ᛋᛏᛖᛣᛖ steke]] | [[бодати]] | — | — |
+| 117 | to scratch (an itch) | <ruby>掻<rt>ㄙㄚㄨ</rt></ruby> | [[grattar]] | [[Folksprak/Lexicon/ᛣᛚᛟᚱᛖ\|ᛣᛚᛟᚱᛖ kløre]] | [[драпати]] | — | — |
+| 118 | to dig | <ruby>掘<rt>ㄍㄨㄊ</rt></ruby> | [[foder]] | [[Folksprak/Lexicon/ᚷᚱᚪᚹᛖ\|ᚷᚱᚪᚹᛖ grave]] | [[копати]] | ܚܦܪ | — |
+| 119 | to swim | <ruby>泳<rt>ㄨㄧㄫ</rt></ruby> | [[natar]] | [[Folksprak/Lexicon/ᛋᚹᛁᛗᛗᛖ\|ᛋᚹᛁᛗᛗᛖ svimme]] | [[плавати]] | — | — |
+| 120 | to fly | <ruby>飛<rt>ㄈㄝㄧ</rt></ruby> | [[volar]] | [[Folksprak/Lexicon/ᚠᛚᚣᚷᛖ\|ᚠᛚᚣᚷᛖ flyge]] | [[летати]] | — | — |
+| 121 | to walk | <ruby>行<rt>ㄏㄚㄫ</rt></ruby> | [[ambular]], [[promenar]] se]] | [[Folksprak/Lexicon/ᚷᚪᛖ\|ᚷᚪᛖ gae]] | [[ходити]] | — | — |
 | 122 | to come | <ruby>来<rt>ㄌㄚㄧ</rt></ruby> | [[venir]] | [[Folksprak/Lexicon/ᛣᚩᛗᛖ\|ᛣᚩᛗᛖ kome]] | [[приходити]] | — | — |
-| 123 | to lie (down) (as on one's side) | <ruby>臥<rt>⺢</rt></ruby> | [[jacer]] | [[Folksprak/Lexicon/ᛚᛁᚷᛖ\|ᛚᛁᚷᛖ lige]] | — | — | — |
-| 124 | to sit | <ruby>坐<rt>ㄐ⺢</rt></ruby> | [[seder]] | [[Folksprak/Lexicon/ᛋᛁᛏᛏᛖ\|ᛋᛁᛏᛏᛖ sitte]] | — | — | — |
-| 125 | to stand | <ruby>立<rt>ㄌㄧㄆ</rt></ruby> | [[star]] | [[Folksprak/Lexicon/ᛋᛏᚪᛖ\|ᛋᛏᚪᛖ stae]] | — | — | — |
+| 123 | to lie (down) (as on one's side) | <ruby>臥<rt>⺢</rt></ruby> | [[jacer]] | [[Folksprak/Lexicon/ᛚᛁᚷᛖ\|ᛚᛁᚷᛖ lige]] | [[лежати]] | — | — |
+| 124 | to sit | <ruby>坐<rt>ㄐ⺢</rt></ruby> | [[seder]] | [[Folksprak/Lexicon/ᛋᛁᛏᛏᛖ\|ᛋᛁᛏᛏᛖ sitte]] | [[седети]] | — | — |
+| 125 | to stand | <ruby>立<rt>ㄌㄧㄆ</rt></ruby> | [[star]] | [[Folksprak/Lexicon/ᛋᛏᚪᛖ\|ᛋᛏᚪᛖ stae]] | [[стояти]] | — | — |
 
 ### 126–146 Handling, speech and change
 

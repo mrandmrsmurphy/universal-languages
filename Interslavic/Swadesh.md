@@ -101,70 +101,70 @@ List source: https://en.wiktionary.org/wiki/Appendix:Slavic_Swadesh_lists
 
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 72 | head | глава | hlava | głowa | hłowa | голова | — |
-| 73 | ear | оухо | ucho | ucho | wucho | ухо | — |
-| 74 | eye | око | oko | oko | wóčko | глаз, око | — |
-| 75 | nose | носъ | nos | nos | nós | нос | — |
-| 76 | mouth | оуста | ústa, pusa | usta | huba | рот, уста | — |
-| 77 | tooth | зѫбъ | zub | ząb | zub | зуб | — |
-| 78 | tongue | ѩзꙑкъ | jazyk | język | jazyk | язык | — |
-| 79 | fingernail | ногъть | nehet | paznokieć | nochć | ноготь | — |
-| 80 | foot | стопа | noha, chodidlo, stopa | stopa | noha | стопа, ступня | — |
-| 81 | leg | нога | noha | noga | noha | нога | — |
-| 82 | knee | колѣно | koleno | kolano | koleno | колено | — |
-| 83 | hand | рѫка | ruka, dlaň | ręka, dłoń | ruka | рука, ладонь | — |
-| 84 | wing | крило | křídlo | skrzydło | křidło | крыло | — |
-| 85 | belly |  | břicho | brzuch | brjuch | живот, брюхо, пузо | — |
-| 86 | guts | ѫтроба, чрѣво | vnitřnosti, útroby | wnętrzności | črjewa | внутренности, кишки, утроба, чрево | — |
-| 87 | neck | шїѧ | krk, šíje | szyja, kark | šija | шея | — |
-| 88 | back | хребетъ | záda, hřbet | plecy, grzbiet | chribjet | спина, хребет | — |
-| 89 | breast | прьси | prs, hruď, ňadro | pierś | hrudź | грудь, перси | — |
-| 90 | heart | срьдьцє | srdce | serce | wutroba | сердце | — |
-| 91 | liver |  | játra | wątroba | jatra | печень | — |
+| 72 | head | глава | hlava | głowa | hłowa | голова | [[глава]] |
+| 73 | ear | оухо | ucho | ucho | wucho | ухо | [[ухо]] |
+| 74 | eye | око | oko | oko | wóčko | глаз, око | [[око]] |
+| 75 | nose | носъ | nos | nos | nós | нос | [[нос]] |
+| 76 | mouth | оуста | ústa, pusa | usta | huba | рот, уста | [[уста]] |
+| 77 | tooth | зѫбъ | zub | ząb | zub | зуб | [[зуб]] |
+| 78 | tongue | ѩзꙑкъ | jazyk | język | jazyk | язык | [[єзык]] |
+| 79 | fingernail | ногъть | nehet | paznokieć | nochć | ноготь | [[ногот]] |
+| 80 | foot | стопа | noha, chodidlo, stopa | stopa | noha | стопа, ступня | [[стопа]] |
+| 81 | leg | нога | noha | noga | noha | нога | [[нога]] |
+| 82 | knee | колѣно | koleno | kolano | koleno | колено | [[колено]] |
+| 83 | hand | рѫка | ruka, dlaň | ręka, dłoń | ruka | рука, ладонь | [[рука]] |
+| 84 | wing | крило | křídlo | skrzydło | křidło | крыло | [[крило]] |
+| 85 | belly |  | břicho | brzuch | brjuch | живот, брюхо, пузо | [[брюхо]] |
+| 86 | guts | ѫтроба, чрѣво | vnitřnosti, útroby | wnętrzności | črjewa | внутренности, кишки, утроба, чрево | [[внутрности]] |
+| 87 | neck | шїѧ | krk, šíje | szyja, kark | šija | шея | [[шия]] |
+| 88 | back | хребетъ | záda, hřbet | plecy, grzbiet | chribjet | спина, хребет | [[зад]] |
+| 89 | breast | прьси | prs, hruď, ňadro | pierś | hrudź | грудь, перси | [[прс]] |
+| 90 | heart | срьдьцє | srdce | serce | wutroba | сердце | [[срдце]] |
+| 91 | liver |  | játra | wątroba | jatra | печень | [[єтра]] |
 
 ## 92–107 Body functions and senses
 
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 92 | to drink | пити | pít | pić | pić | пить | — |
-| 93 | to eat | ꙗсти | jíst | jeść | jěsć | есть, кушать | — |
-| 94 | to bite | хапати | kousat, hryzat | gryźć, kąsać | kusać | грызть, кусать | — |
-| 95 | to suck | съсати | sát, cucat | ssać | cycać | сосать | — |
-| 96 | to spit | пльвати | plivat | pluć | pluwać | плевать, плюнуть | — |
-| 97 | to vomit | бльвати | zvracet, blít, dávit | wymiotować | wróćeć, bluwać | рвать, блевать | — |
-| 98 | to blow | доухати | foukat, vanout, vít | wiać, dąć | duć | дуть | — |
-| 99 | to breathe | дꙑхати | dýchat | oddychać | dychać | дышать | — |
+| 92 | to drink | пити | pít | pić | pić | пить | [[пити]] |
+| 93 | to eat | ꙗсти | jíst | jeść | jěsć | есть, кушать | [[єсти]] |
+| 94 | to bite | хапати | kousat, hryzat | gryźć, kąsać | kusać | грызть, кусать | [[кусати]] |
+| 95 | to suck | съсати | sát, cucat | ssać | cycać | сосать | [[сосати]] |
+| 96 | to spit | пльвати | plivat | pluć | pluwać | плевать, плюнуть | [[пљувати]] |
+| 97 | to vomit | бльвати | zvracet, blít, dávit | wymiotować | wróćeć, bluwać | рвать, блевать | [[бљувати]] |
+| 98 | to blow | доухати | foukat, vanout, vít | wiać, dąć | duć | дуть | [[дути]] |
+| 99 | to breathe | дꙑхати | dýchat | oddychać | dychać | дышать | [[дышати]] |
 | 100† | to laugh | смиꙗти | smát se | śmiać się | smjećso |  | — |
-| 101 | to see | видѣти | vidět | widzieć | widźeć | видеть | — |
-| 102 | to hear | слꙑшати | slyšet | słyszeć | słyšeć | слышать | — |
-| 103 | to know | вѣдѣти, знати | vědět, znát | wiedzieć | wědźeć | знать, вeдaть | — |
-| 104 | to think | мꙑслити | myslet, dumat | myśleć, dumać | myslić | думать, мыслить | — |
-| 105 | to smell |  | čichat, cítit | wąchać, czuć | čuć | нюхать, чуять | — |
+| 101 | to see | видѣти | vidět | widzieć | widźeć | видеть | [[видети]] |
+| 102 | to hear | слꙑшати | slyšet | słyszeć | słyšeć | слышать | [[слышати]] |
+| 103 | to know | вѣдѣти, знати | vědět, znát | wiedzieć | wědźeć | знать, вeдaть | [[знати]], [[ведети]] |
+| 104 | to think | мꙑслити | myslet, dumat | myśleć, dumać | myslić | думать, мыслить | [[мыслити]] |
+| 105 | to smell |  | čichat, cítit | wąchać, czuć | čuć | нюхать, чуять | [[воњати]] |
 | 106† | to fear | боꙗти | bát se, strachovat se | bać się | bojećso | бояться, страшиться | — |
-| 107 | to sleep | съпати | spát | spać | spać | спать, почивать | — |
+| 107 | to sleep | съпати | spát | spać | spać | спать, почивать | [[спати]] |
 
 ## 108–125 Life, conflict, motion and posture
 
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 108 | to live | жити | žít | żyć | živybyć | жить | — |
-| 109 | to die | оумрѣти | umírat | umierać, umrzeć | wumrěć | умирать | — |
-| 110 | to kill | оубити | zabít, usmrtit | zabić, uśmiercić | zabić, kóncować | убивать, забивать | — |
-| 111 | to fight | брати | bojovat, válčit | walczyć, bić się | wojować | бороться, биться, воевать | — |
-| 112 | to hunt | ловити | lovit | polować | hońtwjerić | ловить, охотиться | — |
-| 113 | to hit | оударити | udeřit | uderzyć | bić | ударить | — |
-| 114 | to cut | сѣщи, рѣзати | řezat, tít/tnout, síci | ciąć, rżnąć | rězać | резать, рубить, сечь | — |
-| 115 | to split |  | rozdělit | rozdzielić | šćěpić, pačić | разделить | — |
-| 116 | to stab | бости | bodnout, píchnout | pchnąć | štapać | бодать, уколоть, кольнуть, пырнуть | — |
-| 117 | to scratch | чєсати | škrábat | drapać, skrobać | drapać | царапать, скрябать, чесать | — |
-| 118 | to dig | копати | kopat | kopać | ryć, kopać | копать, рыть | — |
-| 119 | to swim | плавати | plavat | pływać | płuwać | плыть, плавать | — |
-| 120 | to fly | лєтѣти | letět | lecieć, latać | lećeć, lětać | летать, лететь | — |
-| 121 | to walk | ходити | jít, kráčet, chodit | iść, chodzić | hić, chodźić | ходить, идти | — |
+| 108 | to live | жити | žít | żyć | živybyć | жить | [[жити]] |
+| 109 | to die | оумрѣти | umírat | umierać, umrzeć | wumrěć | умирать | [[умрети]] |
+| 110 | to kill | оубити | zabít, usmrtit | zabić, uśmiercić | zabić, kóncować | убивать, забивать | [[убити]] |
+| 111 | to fight | брати | bojovat, válčit | walczyć, bić się | wojować | бороться, биться, воевать | [[воєвати]] |
+| 112 | to hunt | ловити | lovit | polować | hońtwjerić | ловить, охотиться | [[ловити]] |
+| 113 | to hit | оударити | udeřit | uderzyć | bić | ударить | [[бити]] |
+| 114 | to cut | сѣщи, рѣзати | řezat, tít/tnout, síci | ciąć, rżnąć | rězać | резать, рубить, сечь | [[резати]] |
+| 115 | to split |  | rozdělit | rozdzielić | šćěpić, pačić | разделить | [[разделити]] |
+| 116 | to stab | бости | bodnout, píchnout | pchnąć | štapać | бодать, уколоть, кольнуть, пырнуть | [[бодати]] |
+| 117 | to scratch | чєсати | škrábat | drapać, skrobać | drapać | царапать, скрябать, чесать | [[драпати]] |
+| 118 | to dig | копати | kopat | kopać | ryć, kopać | копать, рыть | [[копати]] |
+| 119 | to swim | плавати | plavat | pływać | płuwać | плыть, плавать | [[плавати]] |
+| 120 | to fly | лєтѣти | letět | lecieć, latać | lećeć, lětać | летать, лететь | [[летати]] |
+| 121 | to walk | ходити | jít, kráčet, chodit | iść, chodzić | hić, chodźić | ходить, идти | [[ходити]] |
 | 122 | to come |  | přijít | przychodzić, przyjść | přińć, přijěć, dóńć | приходить, прийти | [[приходити]] |
-| 123 | to lie | лєжати | ležet | leżeć | ležeć | лежать | — |
-| 124 | to sit | сѣдѣти | sedět | siedzieć | sedźeć | сидеть | — |
-| 125 | to stand | стати | stát | stać | stać | стоять | — |
+| 123 | to lie | лєжати | ležet | leżeć | ležeć | лежать | [[лежати]] |
+| 124 | to sit | сѣдѣти | sedět | siedzieć | sedźeć | сидеть | [[седети]] |
+| 125 | to stand | стати | stát | stać | stać | стоять | [[стояти]] |
 
 ## 126–146 Handling, speech and change
 
