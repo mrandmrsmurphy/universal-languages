@@ -43,3 +43,32 @@ Pronouns and other inflected words get a Forms table.
 - [[Interslavic/Lexicon/брат|брат]] (brat) — brother
 - [[Interslavic/Lexicon/читати|читати]] (čitati) — to read
 - [[Interslavic/Lexicon/чрны|чрны]] (črny) — black
+- [[Interslavic/Lexicon/мы|мы]] (my) — we
+- [[Interslavic/Lexicon/вы|вы]] (vy) — you
+- [[Interslavic/Lexicon/тутой|тутой]] (tutoj) — this
+- [[Interslavic/Lexicon/той|той]] (toj) — that
+- [[Interslavic/Lexicon/ту|ту]] (tu) — here
+- [[Interslavic/Lexicon/там|там]] (tam) — there
+- [[Interslavic/Lexicon/кто|кто]] (kto) — who
+- [[Interslavic/Lexicon/не|не]] (ne) — not
+- [[Interslavic/Lexicon/все|все]] (vse) — all
+- [[Interslavic/Lexicon/много|много]] (mnogo) — much
+- [[Interslavic/Lexicon/неколико|неколико]] (nekoliko) — some
+- [[Interslavic/Lexicon/мало|мало]] (malo) — few
+- [[Interslavic/Lexicon/ины|ины]] (iny) — other
+- [[Interslavic/Lexicon/четыри|четыри]] (četyri) — four
+- [[Interslavic/Lexicon/пет|пет]] (pet) — five
+- [[Interslavic/Lexicon/великы|великы]] (veliky) — big
+- [[Interslavic/Lexicon/долгы|долгы]] (dolgy) — long
+- [[Interslavic/Lexicon/широкы|широкы]] (široky) — wide
+- [[Interslavic/Lexicon/толсты|толсты]] (tolsty) — thick
+- [[Interslavic/Lexicon/тежкы|тежкы]] (težky) — heavy
+- [[Interslavic/Lexicon/малы|малы]] (maly) — small
+- [[Interslavic/Lexicon/краткы|краткы]] (kratky) — short
+- [[Interslavic/Lexicon/вузкы|вузкы]] (vuzky) — narrow
+- [[Interslavic/Lexicon/тенкы|тенкы]] (tenky) — thin
+- [[Interslavic/Lexicon/жена|жена]] (žena) — woman
+- [[Interslavic/Lexicon/муж|муж]] (muž) — man
+- [[Interslavic/Lexicon/чловек|чловек]] (človek) — human being
+- [[Interslavic/Lexicon/дете|дете]] (dete) — child
+- [[Interslavic/Lexicon/име|име]] (ime) — name
