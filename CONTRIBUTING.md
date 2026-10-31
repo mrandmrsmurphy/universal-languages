@@ -31,4 +31,4 @@ Corrections, sources and design discussion for the Universal Languages vault are
 
 ## Licence
 
-By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](LICENSE), like the rest of the repository. Do not contribute images or text you do not have the right to share under that license.
+By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](LICENSE.md), like the rest of the repository. Do not contribute images or text you do not have the right to share under that license.

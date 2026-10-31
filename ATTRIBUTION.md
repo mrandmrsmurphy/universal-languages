@@ -1,6 +1,6 @@
 # Attribution
 
-Third-party images and sources used in this repository. Original text and design are licensed CC BY-SA 4.0 (see `LICENSE`). Items below keep their own licenses and are not relicensed.
+Third-party images and sources used in this repository. Original text and design are licensed CC BY-SA 4.0 (see `LICENSE.md`). Items below keep their own licenses and are not relicensed.
 
 Map credits (Wikimedia Commons maps, with author and license) are in [`files/maps/Credits.md`](files/maps/Credits.md).
 

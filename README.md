@@ -74,6 +74,6 @@ Corrections, sources and design discussion are welcome via issues and pull reque
 
 ## License and credits
 
-Original text and design: [CC BY-SA 4.0](LICENSE). Created by Robert Marshall Murphy, with the help of AI assistants.
+Original text and design: [CC BY-SA 4.0](LICENSE.md). Created by Robert Marshall Murphy, with the help of AI assistants.
 
 Flags, maps and other third-party images keep their own licenses and authorship; see [`ATTRIBUTION.md`](ATTRIBUTION.md) and [`files/maps/Credits.md`](files/maps/Credits.md). Some reference files are not redistributed and are excluded via `.gitignore`.
