@@ -36,4 +36,4 @@ Convention (since 2026-10-25): a language's hub page lives **inside** its subtre
 | `CLAUDE.md` / `AGENTS.md` | Vault instructions for AI sessions: memory-system rules, content-vs-log separation. The two files are byte-identical duplicates — keep them in sync — New (2026-09-26) | Active |
 
 *Update the relevant row whenever a page's scope or status changes; add a row for every new major file or folder.*
-| `README.md`, `CONTRIBUTING.md`, `Design Philosophy.md`, `LICENSE`, `ATTRIBUTION.md`, `AIOS/facts.yaml` | GitHub-facing front matter: repo README, contribution rules, cross-UL design principles, CC BY-SA 4.0 text, image/flag credits, machine-readable counts (regenerate with `AIOS/scripts/build_facts.py`) — New (2026-10-31) | Active |
+| `README.md`, `CONTRIBUTING.md`, `Design Philosophy.md`, `LICENSE.md`, `ATTRIBUTION.md`, `AIOS/facts.yaml` | GitHub-facing front matter: repo README, contribution rules, cross-UL design principles, CC BY-SA 4.0 text, image/flag credits, machine-readable counts (regenerate with `AIOS/scripts/build_facts.py`) — New (2026-10-31) | Active |
