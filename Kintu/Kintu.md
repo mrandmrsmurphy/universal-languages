@@ -24,7 +24,7 @@
 - Heavily prefixing agglutinative verbs
 - Two tones, only high marked
 - Five vowels
-- Five tenses and three aspects
+- Three tenses, four aspects, two moods (final-vowel -a / -e)
 
 ## Pages
 
