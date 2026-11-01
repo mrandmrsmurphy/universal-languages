@@ -17,7 +17,7 @@ The app displayed text in a custom font (BantuPhon), so the raw bytes use an ASC
 - `I` = ɪ, `U` = ʊ (the second-degree vowels), `E` = ɛ
 - `C` = c (the palatal stop; Kintu s), `J` = the palatal voiced stop (Guthrie's j)
 - doubled vowels = PB length
-- glosses are in **French**; `voir fiche N` = cross-reference to record N
-- **tone does not survive** strings extraction (it lived in the font) — verify a root's H/L on the website before coining its acute
+- glosses are in French and English; `voir fiche N` = cross-reference to record N
+- **tone does not survive** strings extraction (it lived in the font) — but the museum's web interface returns tone and class per record: POST `English=<gloss>` (fields also exist for French, noun class, tone slots, consonant slots) to `https://www.africamuseum.be/en/research/discover/human_sciences/culture_society/blr/any_lexicon_dictionary`; protoforms render as `<img>` tags whose `alt` attributes carry the letters, with `&` = high-tone vowel and `` ` `` = low-tone vowel
 
 Protoform lines are root families: `bond` = *-bònd-, with `bonId` applicative, `bonIk` potential, `bondUk` reversive-intransitive, etc.

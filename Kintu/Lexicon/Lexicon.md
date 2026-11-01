@@ -32,6 +32,9 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/buti|buti]] — forest, woods
 - [[Kintu/Lexicon/kintu|kintu]] — thing
 - [[Kintu/Lexicon/kiti|kiti]] — stool, seat
+- [[Kintu/Lexicon/kubá|kubá]] — home (class 17)
+- [[Kintu/Lexicon/kubóna|kubóna]] — seeing (class 15)
+- [[Kintu/Lexicon/mbá|mbá]] — house
 - [[Kintu/Lexicon/mubóni|mubóni]] — seer, witness
 - [[Kintu/Lexicon/mubóno|mubóno]] — sight, view
 - [[Kintu/Lexicon/muntu|muntu]] — person (№38)

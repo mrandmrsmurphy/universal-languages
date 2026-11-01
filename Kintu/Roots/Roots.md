@@ -8,6 +8,7 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 
 ## Entries
 
+- [[Kintu/Roots/bá|bá]] — enclosure, house, yard
 - [[Kintu/Roots/bón|bón]] — see
 - [[Kintu/Roots/jila|jila]] — road, way
 - [[Kintu/Roots/ntu|ntu]] — person, human
