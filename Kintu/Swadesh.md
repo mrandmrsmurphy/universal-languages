@@ -147,24 +147,24 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 108 | to live | | | | | | | | — |
-| 109 | to die | | | | | | | | — |
-| 110 | to kill | | | | | | | | — |
-| 111 | to fight (physically) | | | | | | | | — |
-| 112 | to hunt (transitive) | | | | | | | | — |
-| 113 | to hit | | | | | | | | — |
-| 114 | to cut | | | | | | | | — |
-| 115 | to split | | | | | | | | — |
-| 116 | to stab (or stick) | | | | | | | | — |
-| 117 | to scratch (an itch) | | | | | | | | — |
-| 118 | to dig | | | | | | | | — |
-| 119 | to swim | | | | | | | | — |
-| 120 | to fly | | | | | | | | — |
-| 121 | to walk | | | | | | | | — |
-| 122 | to come | | | | | | | | — |
-| 123 | to lie (down) (as on one's side) | | | | | | | | — |
-| 124 | to sit | | | | | | | | — |
-| 125 | to stand | | | | | | | | — |
+| 108 | to live |  | -ishi |  |  | -phila | -rarama |  | [[júma]] |
+| 109 | to die | *kʊ́- | -kufa | -pfa | -kufa | -fa | -fa |  | [[kúwa]] |
+| 110 | to kill | *bʊ́d- | -ua |  |  | -bulala | -uraya |  | [[búda]] |
+| 111 | to fight (physically) | *dʊ̀- | -pigana |  |  | -lwa | -rwa |  | [[duwa]] |
+| 112 | to hunt (transitive) | *bɪ̀nd- | -winda |  |  | -zingela |  |  | [[binda]] |
+| 113 | to hit | *béèt- | -piga | -kubita |  | -shaya | -rova |  | [[beta]] |
+| 114 | to cut | *kàt- | -kata | -tema |  | -sika | -cheka |  | [[kata]] |
+| 115 | to split | *bàd-ʊ̀d- / *bàd-ʊ̀k- |  |  |  |  |  |  | [[badula]] / [[baduka]] |
+| 116 | to stab (or stick) | *túm- |  |  |  | -hlaba |  |  | [[túma]] |
+| 117 | to scratch (an itch) | *pád- |  |  |  |  |  |  | [[páda]] |
+| 118 | to dig | *cɪ̀mb- | -chimba |  |  | -emba |  |  | [[simba]] |
+| 119 | to swim | *jóg- | -ogelea |  |  | -bhukuda |  |  | [[jóga]] |
+| 120 | to fly | *gʊ̀dʊ̀k- | -ruka | -guruka |  | -ndiza |  |  | [[guluka]] |
+| 121 | to walk | *gènd- | -enda | -genda |  | -hamba | -famba |  | [[genda]] |
+| 122 | to come | *bʊ́j- | -ja | -za |  | -za | -uya |  | [[búja]] |
+| 123 | to lie (down) (as on one's side) | *dáàd- | -lala |  |  | -lala | -rara |  | [[dáda]] |
+| 124 | to sit | *bʊ́tam- | -keti | -icara |  | -hlala | -gara |  | [[butama]] |
+| 125 | to stand | *jɪ́m- | -simama |  |  | -ma | -mira |  | [[jíma]] |
 
 ## 126–146 Handling, speech and change
 

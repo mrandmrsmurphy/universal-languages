@@ -16,7 +16,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
-| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–91 coined (34–35, 53, 58 open) |
+| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–125 coined (34–35, 53, 58 open) |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |
 
 ## The 207 in 13 sets
@@ -141,45 +141,45 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 92 | to drink | <ruby>飲<rt>ㄨㄇ</rt></ruby> | [[biber]] | [[Folksprak/Lexicon/ᛞᚱᛁᚾᛣᛖ\|ᛞᚱᛁᚾᛣᛖ drinke]] | [[пити]] | — | — | — |
-| 93 | to eat | <ruby>食<rt>ㄙㄧㄎ</rt></ruby> | [[mangiar]] | [[Folksprak/Lexicon/ᛖᛏᛖ\|ᛖᛏᛖ ete]] | [[єсти]] | ܐܟܠ | — | — |
-| 94 | to bite | <ruby>咬<rt>⼘ㄨ</rt></ruby> | [[morder]] | [[Folksprak/Lexicon/ᛒᛁᛏᛖ\|ᛒᛁᛏᛖ bite]] | [[кусати]] | — | — | — |
-| 95 | to suck | <ruby>吸<rt>ㄏㄧㄆ</rt></ruby> | [[suger]] | [[Folksprak/Lexicon/ᛋᚢᚷᛖ\|ᛋᚢᚷᛖ suge]] | [[сосати]] | ܝܢܩ | — | — |
-| 96 | to spit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[sputar]] | [[Folksprak/Lexicon/ᛋᛈᚢᛣᛖ\|ᛋᛈᚢᛣᛖ spuke]] | [[пљувати]] | — | — | — |
-| 97 | to vomit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[vomitar]] | [[Folksprak/Lexicon/ᛋᛈᚣ\|ᛋᛈᚣ spy]] | [[бљувати]] | — | — | — |
-| 98 | to blow | <ruby>吹<rt>ㄑㄨㄧ</rt></ruby> | [[sufflar]] | [[Folksprak/Lexicon/ᛒᛚᛖᚱᛖ\|ᛒᛚᛖᚱᛖ blere]] | [[дути]] | ܢܦܚ | — | — |
-| 99 | to breathe | <ruby>呼吸<rt>ㄏㄛㄏㄧㄆ</rt></ruby> | [[respirar]] | [[Folksprak/Lexicon/ᚪᛞᛖᛗᛖ\|ᚪᛞᛖᛗᛖ ademe]] | [[дышати]] | ܢܦܚ | — | — |
-| 100 | to laugh | <ruby>笑<rt>ㄙ⼄ㄨ</rt></ruby> | [[rider]] | [[Folksprak/Lexicon/ᛚᚪᛉᛖ\|ᛚᚪᛉᛖ laxe]] | — | — | — | — |
-| 101 | to see | <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> | [[vider]] | [[Folksprak/Lexicon/ᛋᛖᛄᛖ\|ᛋᛖᛄᛖ seje]] | [[видети]] | ܪܐܝ | — | — |
-| 102 | to hear | <ruby>聞<rt>ㄇㄨㄋ</rt></ruby> | [[audir]] | [[Folksprak/Lexicon/ᚻᛟᚱᛖ\|ᚻᛟᚱᛖ høre]] | [[слышати]] | ܣܡܥ | — | — |
-| 103 | to know | <ruby>知<rt>ㄐㄨㄧ</rt></ruby> | [[saper]] | [[Folksprak/Lexicon/ᚹᛖᛏᛖ\|ᚹᛖᛏᛖ vete]], [[Folksprak/Lexicon/ᛣᛖᚾᛖ\|ᛣᛖᚾᛖ kene]] | [[знати]], [[ведети]] | ܘܕܥ | — | — |
-| 104 | to think | <ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby> | [[pensar]] | [[Folksprak/Lexicon/ᛞᛖᚾᛣᛖ\|ᛞᛖᚾᛣᛖ denke]] | [[мыслити]] | ܚܣܒ | — | — |
-| 105 | to smell (sense odor) | <ruby>嗅覚<rt>ㄏ⼜ㄍㄚㄎ</rt></ruby> | [[olfacer]] | [[Folksprak/Lexicon/ᚱᚣᛣᛖ\|ᚱᚣᛣᛖ ryke]] | [[воњати]] | — | — | — |
-| 106 | to fear | <ruby>恐慌<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby> | [[timer]] | [[Folksprak/Lexicon/ᚠᚣᚱᛉᛏᛖ\|ᚠᚣᚱᛉᛏᛖ fyrxte]] | — | — | — | — |
-| 107 | to sleep | <ruby>睡眠<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> | [[dormir]] | [[Folksprak/Lexicon/ᛋᛚᚪᛈᛖ\|ᛋᛚᚪᛈᛖ slape]] | [[спати]] | — | — | — |
+| 92 | to drink | <ruby>飲<rt>ㄨㄇ</rt></ruby> | [[biber]] | [[Folksprak/Lexicon/ᛞᚱᛁᚾᛣᛖ\|ᛞᚱᛁᚾᛣᛖ drinke]] | [[пити]] | — | — | [[nyúwa]] † |
+| 93 | to eat | <ruby>食<rt>ㄙㄧㄎ</rt></ruby> | [[mangiar]] | [[Folksprak/Lexicon/ᛖᛏᛖ\|ᛖᛏᛖ ete]] | [[єсти]] | ܐܟܠ | — | [[dyá]] |
+| 94 | to bite | <ruby>咬<rt>⼘ㄨ</rt></ruby> | [[morder]] | [[Folksprak/Lexicon/ᛒᛁᛏᛖ\|ᛒᛁᛏᛖ bite]] | [[кусати]] | — | — | [[dúma]] |
+| 95 | to suck | <ruby>吸<rt>ㄏㄧㄆ</rt></ruby> | [[suger]] | [[Folksprak/Lexicon/ᛋᚢᚷᛖ\|ᛋᚢᚷᛖ suge]] | [[сосати]] | ܝܢܩ | — | [[fípa]] |
+| 96 | to spit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[sputar]] | [[Folksprak/Lexicon/ᛋᛈᚢᛣᛖ\|ᛋᛈᚢᛣᛖ spuke]] | [[пљувати]] | — | — | [[túwa]] |
+| 97 | to vomit | <ruby>吐<rt>ㄊㄛ</rt></ruby> | [[vomitar]] | [[Folksprak/Lexicon/ᛋᛈᚣ\|ᛋᛈᚣ spy]] | [[бљувати]] | — | — | [[dúka]] |
+| 98 | to blow | <ruby>吹<rt>ㄑㄨㄧ</rt></ruby> | [[sufflar]] | [[Folksprak/Lexicon/ᛒᛚᛖᚱᛖ\|ᛒᛚᛖᚱᛖ blere]] | [[дути]] | ܢܦܚ | — | [[pepa]] |
+| 99 | to breathe | <ruby>呼吸<rt>ㄏㄛㄏㄧㄆ</rt></ruby> | [[respirar]] | [[Folksprak/Lexicon/ᚪᛞᛖᛗᛖ\|ᚪᛞᛖᛗᛖ ademe]] | [[дышати]] | ܢܦܚ | — | [[púma]] |
+| 100 | to laugh | <ruby>笑<rt>ㄙ⼄ㄨ</rt></ruby> | [[rider]] | [[Folksprak/Lexicon/ᛚᚪᛉᛖ\|ᛚᚪᛉᛖ laxe]] | — | — | — | [[seka]] |
+| 101 | to see | <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> | [[vider]] | [[Folksprak/Lexicon/ᛋᛖᛄᛖ\|ᛋᛖᛄᛖ seje]] | [[видети]] | ܪܐܝ | — | [[bóna]] |
+| 102 | to hear | <ruby>聞<rt>ㄇㄨㄋ</rt></ruby> | [[audir]] | [[Folksprak/Lexicon/ᚻᛟᚱᛖ\|ᚻᛟᚱᛖ høre]] | [[слышати]] | ܣܡܥ | — | [[pulíka]] |
+| 103 | to know | <ruby>知<rt>ㄐㄨㄧ</rt></ruby> | [[saper]] | [[Folksprak/Lexicon/ᚹᛖᛏᛖ\|ᚹᛖᛏᛖ vete]], [[Folksprak/Lexicon/ᛣᛖᚾᛖ\|ᛣᛖᚾᛖ kene]] | [[знати]], [[ведети]] | ܘܕܥ | — | [[manya]] |
+| 104 | to think | <ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby> | [[pensar]] | [[Folksprak/Lexicon/ᛞᛖᚾᛣᛖ\|ᛞᛖᚾᛣᛖ denke]] | [[мыслити]] | ܚܣܒ | — | [[gaŋgana]] |
+| 105 | to smell (sense odor) | <ruby>嗅覚<rt>ㄏ⼜ㄍㄚㄎ</rt></ruby> | [[olfacer]] | [[Folksprak/Lexicon/ᚱᚣᛣᛖ\|ᚱᚣᛣᛖ ryke]] | [[воњати]] | — | — | [[dumba]] |
+| 106 | to fear | <ruby>恐慌<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby> | [[timer]] | [[Folksprak/Lexicon/ᚠᚣᚱᛉᛏᛖ\|ᚠᚣᚱᛉᛏᛖ fyrxte]] | — | — | — | [[tína]] |
+| 107 | to sleep | <ruby>睡眠<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> | [[dormir]] | [[Folksprak/Lexicon/ᛋᛚᚪᛈᛖ\|ᛋᛚᚪᛈᛖ slape]] | [[спати]] | — | — | [[dáda]] |
 
 ### 108–125 Life, conflict, motion and posture
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 108 | to live | <ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> | [[viver]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖ\|ᛚᛖᚹᛖ leve]] | [[жити]] | — | — | — |
-| 109 | to die | <ruby>死亡<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> | [[morir]] | [[Folksprak/Lexicon/ᛞᛟᛖ\|ᛞᛟᛖ døe]] | [[умрети]] | ܡܘܬ | — | — |
-| 110 | to kill | <ruby>殺<rt>ㄙㄚㄊ</rt></ruby> | [[occidar]] | [[Folksprak/Lexicon/ᛞᛟᛞᛖ\|ᛞᛟᛞᛖ døde]] | [[убити]] | — | — | — |
-| 111 | to fight (physically) | <ruby>闘争<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby> | [[luctar]] | [[Folksprak/Lexicon/ᚠᛖᛉᛏᛖ\|ᚠᛖᛉᛏᛖ fexte]] | [[воєвати]] | — | — | — |
-| 112 | to hunt (transitive) | <ruby>獵<rt>ㄌㄛㄆ</rt></ruby> | [[chassar]] | [[Folksprak/Lexicon/ᛄᚪᚷᛖ\|ᛄᚪᚷᛖ jage]] | [[ловити]] | ܨܝܕ | — | — |
-| 113 | to hit | <ruby>打撃<rt>ㄉㄚㄍㄝㄎ</rt></ruby> | [[colpar]] | [[Folksprak/Lexicon/ᛋᛚᚪᛄᛖ\|ᛋᛚᚪᛄᛖ slaje]] | [[бити]] | — | — | — |
-| 114 | to cut | <ruby>切<rt>ㄑㄝㄊ</rt></ruby> | [[secar]] | [[Folksprak/Lexicon/ᚳᛖᚱᛖ\|ᚳᛖᚱᛖ cere]] | [[резати]] | — | — | — |
-| 115 | to split | <ruby>破裂<rt>ㄆㄜㄌㄝㄊ</rt></ruby> | [[finder]] | [[Folksprak/Lexicon/ᛞᛖᛚᛖ\|ᛞᛖᛚᛖ dele]] | [[разделити]] | — | — | — |
-| 116 | to stab (or stick) | <ruby>刺<rt>ㄑㄧㄎ</rt></ruby> | [[dagar]] | [[Folksprak/Lexicon/ᛋᛏᛖᛣᛖ\|ᛋᛏᛖᛣᛖ steke]] | [[бодати]] | — | — | — |
-| 117 | to scratch (an itch) | <ruby>掻<rt>ㄙㄚㄨ</rt></ruby> | [[grattar]] | [[Folksprak/Lexicon/ᛣᛚᛟᚱᛖ\|ᛣᛚᛟᚱᛖ kløre]] | [[драпати]] | — | — | — |
-| 118 | to dig | <ruby>掘<rt>ㄍㄨㄊ</rt></ruby> | [[foder]] | [[Folksprak/Lexicon/ᚷᚱᚪᚹᛖ\|ᚷᚱᚪᚹᛖ grave]] | [[копати]] | ܚܦܪ | — | — |
-| 119 | to swim | <ruby>泳<rt>ㄨㄧㄫ</rt></ruby> | [[natar]] | [[Folksprak/Lexicon/ᛋᚹᛁᛗᛗᛖ\|ᛋᚹᛁᛗᛗᛖ svimme]] | [[плавати]] | — | — | — |
-| 120 | to fly | <ruby>飛<rt>ㄈㄝㄧ</rt></ruby> | [[volar]] | [[Folksprak/Lexicon/ᚠᛚᚣᚷᛖ\|ᚠᛚᚣᚷᛖ flyge]] | [[летати]] | — | — | — |
-| 121 | to walk | <ruby>行<rt>ㄏㄚㄫ</rt></ruby> | [[ambular]], [[promenar]] se]] | [[Folksprak/Lexicon/ᚷᚪᛖ\|ᚷᚪᛖ gae]] | [[ходити]] | — | — | — |
-| 122 | to come | <ruby>来<rt>ㄌㄚㄧ</rt></ruby> | [[venir]] | [[Folksprak/Lexicon/ᛣᚩᛗᛖ\|ᛣᚩᛗᛖ kome]] | [[приходити]] | ܐܬܝ | — | — |
-| 123 | to lie (down) (as on one's side) | <ruby>臥<rt>⺢</rt></ruby> | [[jacer]] | [[Folksprak/Lexicon/ᛚᛁᚷᛖ\|ᛚᛁᚷᛖ lige]] | [[лежати]] | — | — | — |
-| 124 | to sit | <ruby>坐<rt>ㄐ⺢</rt></ruby> | [[seder]] | [[Folksprak/Lexicon/ᛋᛁᛏᛏᛖ\|ᛋᛁᛏᛏᛖ sitte]] | [[седети]] | — | — | — |
-| 125 | to stand | <ruby>立<rt>ㄌㄧㄆ</rt></ruby> | [[star]] | [[Folksprak/Lexicon/ᛋᛏᚪᛖ\|ᛋᛏᚪᛖ stae]] | [[стояти]] | — | — | — |
+| 108 | to live | <ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> | [[viver]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖ\|ᛚᛖᚹᛖ leve]] | [[жити]] | — | — | [[júma]] |
+| 109 | to die | <ruby>死亡<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> | [[morir]] | [[Folksprak/Lexicon/ᛞᛟᛖ\|ᛞᛟᛖ døe]] | [[умрети]] | ܡܘܬ | — | [[kúwa]] |
+| 110 | to kill | <ruby>殺<rt>ㄙㄚㄊ</rt></ruby> | [[occidar]] | [[Folksprak/Lexicon/ᛞᛟᛞᛖ\|ᛞᛟᛞᛖ døde]] | [[убити]] | — | — | [[búda]] |
+| 111 | to fight (physically) | <ruby>闘争<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby> | [[luctar]] | [[Folksprak/Lexicon/ᚠᛖᛉᛏᛖ\|ᚠᛖᛉᛏᛖ fexte]] | [[воєвати]] | — | — | [[duwa]] |
+| 112 | to hunt (transitive) | <ruby>獵<rt>ㄌㄛㄆ</rt></ruby> | [[chassar]] | [[Folksprak/Lexicon/ᛄᚪᚷᛖ\|ᛄᚪᚷᛖ jage]] | [[ловити]] | ܨܝܕ | — | [[binda]] |
+| 113 | to hit | <ruby>打撃<rt>ㄉㄚㄍㄝㄎ</rt></ruby> | [[colpar]] | [[Folksprak/Lexicon/ᛋᛚᚪᛄᛖ\|ᛋᛚᚪᛄᛖ slaje]] | [[бити]] | — | — | [[beta]] |
+| 114 | to cut | <ruby>切<rt>ㄑㄝㄊ</rt></ruby> | [[secar]] | [[Folksprak/Lexicon/ᚳᛖᚱᛖ\|ᚳᛖᚱᛖ cere]] | [[резати]] | — | — | [[kata]] |
+| 115 | to split | <ruby>破裂<rt>ㄆㄜㄌㄝㄊ</rt></ruby> | [[finder]] | [[Folksprak/Lexicon/ᛞᛖᛚᛖ\|ᛞᛖᛚᛖ dele]] | [[разделити]] | — | — | [[badula]] / [[baduka]] |
+| 116 | to stab (or stick) | <ruby>刺<rt>ㄑㄧㄎ</rt></ruby> | [[dagar]] | [[Folksprak/Lexicon/ᛋᛏᛖᛣᛖ\|ᛋᛏᛖᛣᛖ steke]] | [[бодати]] | — | — | [[túma]] |
+| 117 | to scratch (an itch) | <ruby>掻<rt>ㄙㄚㄨ</rt></ruby> | [[grattar]] | [[Folksprak/Lexicon/ᛣᛚᛟᚱᛖ\|ᛣᛚᛟᚱᛖ kløre]] | [[драпати]] | — | — | [[páda]] |
+| 118 | to dig | <ruby>掘<rt>ㄍㄨㄊ</rt></ruby> | [[foder]] | [[Folksprak/Lexicon/ᚷᚱᚪᚹᛖ\|ᚷᚱᚪᚹᛖ grave]] | [[копати]] | ܚܦܪ | — | [[simba]] |
+| 119 | to swim | <ruby>泳<rt>ㄨㄧㄫ</rt></ruby> | [[natar]] | [[Folksprak/Lexicon/ᛋᚹᛁᛗᛗᛖ\|ᛋᚹᛁᛗᛗᛖ svimme]] | [[плавати]] | — | — | [[jóga]] |
+| 120 | to fly | <ruby>飛<rt>ㄈㄝㄧ</rt></ruby> | [[volar]] | [[Folksprak/Lexicon/ᚠᛚᚣᚷᛖ\|ᚠᛚᚣᚷᛖ flyge]] | [[летати]] | — | — | [[guluka]] |
+| 121 | to walk | <ruby>行<rt>ㄏㄚㄫ</rt></ruby> | [[ambular]], [[promenar]] se]] | [[Folksprak/Lexicon/ᚷᚪᛖ\|ᚷᚪᛖ gae]] | [[ходити]] | — | — | [[genda]] |
+| 122 | to come | <ruby>来<rt>ㄌㄚㄧ</rt></ruby> | [[venir]] | [[Folksprak/Lexicon/ᛣᚩᛗᛖ\|ᛣᚩᛗᛖ kome]] | [[приходити]] | ܐܬܝ | — | [[búja]] |
+| 123 | to lie (down) (as on one's side) | <ruby>臥<rt>⺢</rt></ruby> | [[jacer]] | [[Folksprak/Lexicon/ᛚᛁᚷᛖ\|ᛚᛁᚷᛖ lige]] | [[лежати]] | — | — | [[dáda]] |
+| 124 | to sit | <ruby>坐<rt>ㄐ⺢</rt></ruby> | [[seder]] | [[Folksprak/Lexicon/ᛋᛁᛏᛏᛖ\|ᛋᛁᛏᛏᛖ sitte]] | [[седети]] | — | — | [[butama]] |
+| 125 | to stand | <ruby>立<rt>ㄌㄧㄆ</rt></ruby> | [[star]] | [[Folksprak/Lexicon/ᛋᛏᚪᛖ\|ᛋᛏᚪᛖ stae]] | [[стояти]] | — | — | [[jíma]] |
 
 ### 126–146 Handling, speech and change
 

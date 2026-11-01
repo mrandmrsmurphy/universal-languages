@@ -8,52 +8,84 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 
 ## Entries
 
+- [[Kintu/Roots/bad|bad]] — split
 - [[Kintu/Roots/bawa|bawa]] — wing
 - [[Kintu/Roots/bá|bá]] — enclosure, house, yard
 - [[Kintu/Roots/béde|béde]] — breast, udder
 - [[Kintu/Roots/bégu|bégu]] — seed
+- [[Kintu/Roots/bet|bet]] — hit
 - [[Kintu/Roots/bindi|bindi]] — liver
+- [[Kintu/Roots/bind|bind]] — hunt
 - [[Kintu/Roots/bi|bi]] — knee
 - [[Kintu/Roots/bóko|bóko]] — arm, hand
 - [[Kintu/Roots/bón|bón]] — see
 - [[Kintu/Roots/búa|búa]] — dog
 - [[Kintu/Roots/budi|budi]] — hair
+- [[Kintu/Roots/búd|búd]] — kill, break
+- [[Kintu/Roots/búj|búj]] — come
 - [[Kintu/Roots/buma|buma]] — fruit
 - [[Kintu/Roots/bungú|bungú]] — worm, caterpillar
+- [[Kintu/Roots/butam|butam]] — sit
+- [[Kintu/Roots/dád|dád]] — sleep
 - [[Kintu/Roots/dá|dá]] — louse
 - [[Kintu/Roots/denge|denge]] — foot, hoof
 - [[Kintu/Roots/dími|dími]] — tongue; language
+- [[Kintu/Roots/dí|dí]] — eat
 - [[Kintu/Roots/di|di]] — root, fibre
 - [[Kintu/Roots/domo|domo]] — lip, mouth
 - [[Kintu/Roots/dopa|dopa]] — blood
 - [[Kintu/Roots/duba|duba]] — flower
+- [[Kintu/Roots/dúk|dúk]] — vomit
+- [[Kintu/Roots/dumb|dumb]] — smell
 - [[Kintu/Roots/dúme|dúme]] — male, husband
+- [[Kintu/Roots/dúm|dúm]] — bite
+- [[Kintu/Roots/du|du]] — fight
+- [[Kintu/Roots/fíp|fíp]] — suck
+- [[Kintu/Roots/gaŋgan|gaŋgan]] — think
+- [[Kintu/Roots/gend|gend]] — walk, go
 - [[Kintu/Roots/gí|gí]] — egg
 - [[Kintu/Roots/gongo|gongo]] — back, backbone
 - [[Kintu/Roots/gudu|gudu]] — leg
+- [[Kintu/Roots/guluk|guluk]] — fly, run fast
 - [[Kintu/Roots/jáda|jáda]] — fingernail, claw
 - [[Kintu/Roots/jána|jána]] — child
 - [[Kintu/Roots/jáni|jáni]] — leaf; grass
 - [[Kintu/Roots/jila|jila]] — road, way
+- [[Kintu/Roots/jím|jím]] — stand, stop
 - [[Kintu/Roots/jino|jino]] — tooth
 - [[Kintu/Roots/jíso|jíso]] — eye
+- [[Kintu/Roots/jóg|jóg]] — swim, bathe
 - [[Kintu/Roots/jóka|jóka]] — snake
 - [[Kintu/Roots/julu|julu]] — nose
+- [[Kintu/Roots/júm|júm]] — live; life
 - [[Kintu/Roots/juni|juni]] — bird
 - [[Kintu/Roots/káli|káli]] — woman, wife
 - [[Kintu/Roots/kánda|kánda]] — skin; cloth
+- [[Kintu/Roots/kat|kat]] — cut
 - [[Kintu/Roots/kupa|kupa]] — bone
 - [[Kintu/Roots/kutu|kutu]] — ear
+- [[Kintu/Roots/kú|kú]] — die
+- [[Kintu/Roots/many|many]] — know
 - [[Kintu/Roots/ntu|ntu]] — person, human
 - [[Kintu/Roots/nyáma|nyáma]] — animal, meat
+- [[Kintu/Roots/nyú|nyú]] — drink
+- [[Kintu/Roots/pád|pád]] — scratch, scrape
 - [[Kintu/Roots/pembe|pembe]] — horn
+- [[Kintu/Roots/pep|pep]] — blow
+- [[Kintu/Roots/pulík|pulík]] — hear
+- [[Kintu/Roots/púm|púm]] — breathe
 - [[Kintu/Roots/puta|puta]] — fat, grease
 - [[Kintu/Roots/sáda|sáda]] — feather
+- [[Kintu/Roots/sek|sek]] — laugh
 - [[Kintu/Roots/síla|síla]] — tail
+- [[Kintu/Roots/simb|simb]] — dig
 - [[Kintu/Roots/síngo|síngo]] — neck
 - [[Kintu/Roots/sómba|sómba]] — fish
 - [[Kintu/Roots/tambo|tambo]] — rope
 - [[Kintu/Roots/tíma|tíma]] — heart
+- [[Kintu/Roots/tín|tín]] — fear
 - [[Kintu/Roots/ti|ti]] — tree
 - [[Kintu/Roots/tumbo|tumbo]] — belly
+- [[Kintu/Roots/túm|túm]] — stab
+- [[Kintu/Roots/tú|tú]] — spit
 - [[Kintu/Roots/twe|twe]] — head

@@ -26,27 +26,49 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 ## Entries
 
 - [[Kintu/Lexicon/babá|babá]] — father (№43)
+- [[Kintu/Lexicon/baduka|baduka]] — to be split — intr.
+- [[Kintu/Lexicon/badula|badula]] — to split — tr. (№115)
 - [[Kintu/Lexicon/balí|-balí]] — two (№23)
+- [[Kintu/Lexicon/beta|beta]] — to hit (№113)
+- [[Kintu/Lexicon/binda|binda]] — to hunt (№112)
 - [[Kintu/Lexicon/biputa|biputa]] — fat, grease (№66) †
 - [[Kintu/Lexicon/bitumbo|bitumbo]] — guts (№86)
 - [[Kintu/Lexicon/bóna|bóna]] — to see (№101)
 - [[Kintu/Lexicon/bubóno|bubóno]] — vision, eyesight
 - [[Kintu/Lexicon/bubudi|bubudi]] — hair (№71) †
+- [[Kintu/Lexicon/búda|búda]] — to kill (№110)
 - [[Kintu/Lexicon/budími|budími]] — tongue; language (№78)
 - [[Kintu/Lexicon/bujáni|bujáni]] — grass (№60) †
+- [[Kintu/Lexicon/búja|búja]] — to come (№122)
+- [[Kintu/Lexicon/bujúmi|bujúmi]] — life
 - [[Kintu/Lexicon/buntu|buntu]] — humanity
 - [[Kintu/Lexicon/bunyáma|bunyáma]] — animality
+- [[Kintu/Lexicon/butama|butama]] — to sit (№124)
 - [[Kintu/Lexicon/buti|buti]] — forest (№52) †
+- [[Kintu/Lexicon/dáda|dáda]] — to sleep; lie down (№107, 123)
 - [[Kintu/Lexicon/de|-de]] — long (№28)
 - [[Kintu/Lexicon/dito|-dito]] — heavy (№31)
+- [[Kintu/Lexicon/dúka|dúka]] — to vomit (№97)
+- [[Kintu/Lexicon/dúma|dúma]] — to bite (№94)
+- [[Kintu/Lexicon/dumba|dumba]] — to smell (№105)
+- [[Kintu/Lexicon/duwa|duwa]] — to fight (№111)
+- [[Kintu/Lexicon/dyá|dyá]] — to eat (№93)
 - [[Kintu/Lexicon/eye|eye]] — he, she (№3)
+- [[Kintu/Lexicon/fípa|fípa]] — to suck (№95)
 - [[Kintu/Lexicon/gáli|-gáli]] — wide (№29) †
+- [[Kintu/Lexicon/gaŋgana|gaŋgana]] — to think (№104)
+- [[Kintu/Lexicon/genda|genda]] — to walk, go (№121)
 - [[Kintu/Lexicon/gini|-gini]] — thick (№30)
+- [[Kintu/Lexicon/guluka|guluka]] — to fly (№120)
 - [[Kintu/Lexicon/ibo|ibo]] — they (№6)
 - [[Kintu/Lexicon/imu|imu]] — you plural (№5)
 - [[Kintu/Lexicon/íngi|-íngi]] — many (№18)
 - [[Kintu/Lexicon/ini|ini]] — I (№1)
 - [[Kintu/Lexicon/itu|itu]] — we (№4)
+- [[Kintu/Lexicon/jíma|jíma]] — to stand (№125)
+- [[Kintu/Lexicon/jóga|jóga]] — to swim (№119)
+- [[Kintu/Lexicon/júma|júma]] — to live (№108)
+- [[Kintu/Lexicon/kata|kata]] — to cut (№114)
 - [[Kintu/Lexicon/ka|ka]] — no, not (№16)
 - [[Kintu/Lexicon/ké|-ké]] — few (№20)
 - [[Kintu/Lexicon/kibéde|kibéde]] — breast (№89)
@@ -75,9 +97,11 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/kugudu|kugudu]] — leg (№81)
 - [[Kintu/Lexicon/kúlu|-kúlu]] — big (№27)
 - [[Kintu/Lexicon/kunu|kunu]] — here (№9)
+- [[Kintu/Lexicon/kúwa|kúwa]] — to die (№109)
 - [[Kintu/Lexicon/kwí|kwí]] — where (№13)
 - [[Kintu/Lexicon/lini|lini]] — when (№14)
 - [[Kintu/Lexicon/máma|máma]] — mother (№42)
+- [[Kintu/Lexicon/manya|manya]] — to know (№103)
 - [[Kintu/Lexicon/mbawa|mbawa]] — wing (№84) †
 - [[Kintu/Lexicon/mbá|mbá]] — house
 - [[Kintu/Lexicon/mbégu|mbégu]] — seed (№55)
@@ -114,10 +138,20 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/nsómba|nsómba]] — fish (№45)
 - [[Kintu/Lexicon/ntambo|ntambo]] — rope (№61) †
 - [[Kintu/Lexicon/nyáma|nyáma]] — animal; meat (№44, 63)
+- [[Kintu/Lexicon/nyúwa|nyúwa]] — to drink (№92) †
 - [[Kintu/Lexicon/onse|-onse]] — all (№17)
+- [[Kintu/Lexicon/páda|páda]] — to scratch (№117)
+- [[Kintu/Lexicon/pepa|pepa]] — to blow (№98)
+- [[Kintu/Lexicon/pulíka|pulíka]] — to hear (№102)
+- [[Kintu/Lexicon/púma|púma]] — to breathe (№99)
 - [[Kintu/Lexicon/sánu|-sánu]] — five (№26)
+- [[Kintu/Lexicon/seka|seka]] — to laugh (№100)
+- [[Kintu/Lexicon/simba|simba]] — to dig (№118)
 - [[Kintu/Lexicon/tatu|-tatu]] — three (№24)
+- [[Kintu/Lexicon/tína|tína]] — to fear (№106)
 - [[Kintu/Lexicon/to|-to]] — small (№32)
+- [[Kintu/Lexicon/túma|túma]] — to stab (№116)
+- [[Kintu/Lexicon/túwa|túwa]] — to spit (№96)
 - [[Kintu/Lexicon/udyá|udyá]] — that (№8)
 - [[Kintu/Lexicon/unu|unu]] — this (№7)
 - [[Kintu/Lexicon/uwe|uwe]] — thou (№2)
