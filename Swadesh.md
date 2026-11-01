@@ -16,7 +16,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
-| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–33 coined (34–35 open) |
+| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–50 coined (34–35 open) |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |
 
 ## The 207 in 13 sets
@@ -70,21 +70,21 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 36 | woman | <ruby>女人<rt>ㄋㄜ·ㄋㄧㄋ</rt></ruby> | [[femina]] | [[Folksprak/Lexicon/ᛣᚹᛁᚾ\|ᛣᚹᛁᚾ kvin]] | [[жена]] | ܢܝܣܐ | — | — |
-| 37 | adult male | <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> | [[viro]] | [[Folksprak/Lexicon/ᚹᛖᚱ\|ᚹᛖᚱ ver]] | [[муж]] | ܓܒܪܐ | — | — |
-| 38 | human being | <ruby>人<rt>ㄋㄧㄋ</rt></ruby> | [[homine]] | [[Folksprak/Lexicon/ᛗᚪᚾᚾ\|ᛗᚪᚾᚾ mann]] | [[человек]] | ܐܝܢܐܣܐ | — | — |
-| 39 | child (a youth) | <ruby>児子<rt>ㄝㄧㄐㄜ</rt></ruby> | [[infante]] | [[Folksprak/Lexicon/ᛒᚪᚱᚾ\|ᛒᚪᚱᚾ barn]] | [[дете]] | ܘܠܕܐ | — | — |
-| 40 | wife | <ruby>妻<rt>ㄑㄝㄧ</rt></ruby> | [[marita]], [[sposa]] | [[Folksprak/Lexicon/ᚻᚢᛋᛏᚱᚢ\|ᚻᚢᛋᛏᚱᚢ hustru]] | [[жена]] | ܒܥܠܬܐ | — | — |
-| 41 | husband | <ruby>丈夫<rt>ㄑㄚㄫㄈㄜ</rt></ruby> | [[marito]], [[sposo]] | [[Folksprak/Lexicon/ᛗᚪᛣᛖ\|ᛗᚪᛣᛖ make]] | [[муж]] | ܒܥܠܐ | — | — |
-| 42 | mother | <ruby>母親<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby> | [[matre]] | [[Folksprak/Lexicon/ᛗᛟᛞᛖᚱ\|ᛗᛟᛞᛖᚱ møder]] | [[матка]] | ܐܡܐ | — | — |
-| 43 | father | <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby> | [[patre]] | [[Folksprak/Lexicon/ᚠᚪᛞᛖᚱ\|ᚠᚪᛞᛖᚱ fader]] | [[отец]] | ܐܒܐ | — | — |
-| 44 | animal | <ruby>動物<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> | [[animal]] | [[Folksprak/Lexicon/ᛞᚣᚱ\|ᛞᚣᚱ dyr]] | [[звер]] | ܒܗܝܡܐ | — | — |
-| 45 | fish | <ruby>魚<rt>⼄</rt></ruby> | [[pisce]] | [[Folksprak/Lexicon/ᚠᛁᚳᚳ\|ᚠᛁᚳᚳ ficc]] | [[рыба]] | ܚܘܬܐ | — | — |
-| 46 | bird (fowl) | <ruby>鳥<rt>ㄑㄛㄨ</rt></ruby> | [[ave]] | [[Folksprak/Lexicon/ᚠᚩᚷᛖᛚ\|ᚠᚩᚷᛖᛚ fogel]] | [[птак]] | — | — | — |
-| 47 | dog (hound) | <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> | [[can]] | [[Folksprak/Lexicon/ᚻᚢᚾᛞ\|ᚻᚢᚾᛞ hund]] | [[пес]] | ܟܠܒܐ | — | — |
-| 48 | louse | <ruby>虱<rt>ㄙㄛㄊ</rt></ruby> | [[pediculo]] | [[Folksprak/Lexicon/ᛚᚢᛋ\|ᛚᚢᛋ lus]] | [[вош]] | — | — | — |
-| 49 | snake | <ruby>蛇<rt>ㄊㄚ</rt></ruby> | [[serpente]] | [[Folksprak/Lexicon/ᛋᛚᚪᚾᚷ\|ᛋᛚᚪᚾᚷ slang]] | [[змия]] | ܢܚܣܐ | — | — |
-| 50 | worm | <ruby>蠕虫<rt>ㄋㄨㄐㄨㄫ</rt></ruby> | [[verme]] | [[Folksprak/Lexicon/ᚹᚢᚱᛗ\|ᚹᚢᚱᛗ vurm]] | [[червяк]] | — | — | — |
+| 36 | woman | <ruby>女人<rt>ㄋㄜ·ㄋㄧㄋ</rt></ruby> | [[femina]] | [[Folksprak/Lexicon/ᛣᚹᛁᚾ\|ᛣᚹᛁᚾ kvin]] | [[жена]] | ܢܝܣܐ | — | [[mukáli]] |
+| 37 | adult male | <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> | [[viro]] | [[Folksprak/Lexicon/ᚹᛖᚱ\|ᚹᛖᚱ ver]] | [[муж]] | ܓܒܪܐ | — | [[mudúme]] |
+| 38 | human being | <ruby>人<rt>ㄋㄧㄋ</rt></ruby> | [[homine]] | [[Folksprak/Lexicon/ᛗᚪᚾᚾ\|ᛗᚪᚾᚾ mann]] | [[человек]] | ܐܝܢܐܣܐ | — | [[muntu]] |
+| 39 | child (a youth) | <ruby>児子<rt>ㄝㄧㄐㄜ</rt></ruby> | [[infante]] | [[Folksprak/Lexicon/ᛒᚪᚱᚾ\|ᛒᚪᚱᚾ barn]] | [[дете]] | ܘܠܕܐ | — | [[mujána]] † |
+| 40 | wife | <ruby>妻<rt>ㄑㄝㄧ</rt></ruby> | [[marita]], [[sposa]] | [[Folksprak/Lexicon/ᚻᚢᛋᛏᚱᚢ\|ᚻᚢᛋᛏᚱᚢ hustru]] | [[жена]] | ܒܥܠܬܐ | — | [[mukáli]] |
+| 41 | husband | <ruby>丈夫<rt>ㄑㄚㄫㄈㄜ</rt></ruby> | [[marito]], [[sposo]] | [[Folksprak/Lexicon/ᛗᚪᛣᛖ\|ᛗᚪᛣᛖ make]] | [[муж]] | ܒܥܠܐ | — | [[mudúme]] |
+| 42 | mother | <ruby>母親<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby> | [[matre]] | [[Folksprak/Lexicon/ᛗᛟᛞᛖᚱ\|ᛗᛟᛞᛖᚱ møder]] | [[матка]] | ܐܡܐ | — | [[máma]] |
+| 43 | father | <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby> | [[patre]] | [[Folksprak/Lexicon/ᚠᚪᛞᛖᚱ\|ᚠᚪᛞᛖᚱ fader]] | [[отец]] | ܐܒܐ | — | [[babá]] |
+| 44 | animal | <ruby>動物<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> | [[animal]] | [[Folksprak/Lexicon/ᛞᚣᚱ\|ᛞᚣᚱ dyr]] | [[звер]] | ܒܗܝܡܐ | — | [[nyáma]] |
+| 45 | fish | <ruby>魚<rt>⼄</rt></ruby> | [[pisce]] | [[Folksprak/Lexicon/ᚠᛁᚳᚳ\|ᚠᛁᚳᚳ ficc]] | [[рыба]] | ܚܘܬܐ | — | [[nsómba]] |
+| 46 | bird (fowl) | <ruby>鳥<rt>ㄑㄛㄨ</rt></ruby> | [[ave]] | [[Folksprak/Lexicon/ᚠᚩᚷᛖᛚ\|ᚠᚩᚷᛖᛚ fogel]] | [[птак]] | — | — | [[njuni]] † |
+| 47 | dog (hound) | <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> | [[can]] | [[Folksprak/Lexicon/ᚻᚢᚾᛞ\|ᚻᚢᚾᛞ hund]] | [[пес]] | ܟܠܒܐ | — | [[mbúwa]] |
+| 48 | louse | <ruby>虱<rt>ㄙㄛㄊ</rt></ruby> | [[pediculo]] | [[Folksprak/Lexicon/ᛚᚢᛋ\|ᛚᚢᛋ lus]] | [[вош]] | — | — | [[ndá]] |
+| 49 | snake | <ruby>蛇<rt>ㄊㄚ</rt></ruby> | [[serpente]] | [[Folksprak/Lexicon/ᛋᛚᚪᚾᚷ\|ᛋᛚᚪᚾᚷ slang]] | [[змия]] | ܢܚܣܐ | — | [[njóka]] |
+| 50 | worm | <ruby>蠕虫<rt>ㄋㄨㄐㄨㄫ</rt></ruby> | [[verme]] | [[Folksprak/Lexicon/ᚹᚢᚱᛗ\|ᚹᚢᚱᛗ vurm]] | [[червяк]] | — | — | [[kibungú]] |
 
 ### 51–71 Plants and animal parts
 

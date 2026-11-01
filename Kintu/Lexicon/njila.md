@@ -11,4 +11,4 @@
 | Root | [[Kintu/Roots/jila\|-jila]] |
 | Proto-Bantu | \*jɪla |
 | Cognates | Swahili *njia*, Kikongo *nzila* |
-| Swadesh | [[Swadesh]] № 170 |
+| Swadesh | [[Kintu/Swadesh]] № 170 |

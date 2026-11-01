@@ -133,7 +133,7 @@ out.append("| [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexi
 out.append(f"| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); {ms_filled} of 207 Middle Semitic cells filled |")
 out.append("| [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |")
 out.append("| [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |")
-out.append("| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–33 coined (34–35 open) |")
+out.append("| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–50 coined (34–35 open) |")
 out.append("| [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |\n")
 out.append("## The 207 in 13 sets\n")
 

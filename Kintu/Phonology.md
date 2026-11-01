@@ -33,7 +33,7 @@ Five vowels, with no height contrast among the mid vowels and no length contrast
 
 ## Phonotactics
 
-Syllables are (N)C(G)V: an optional homorganic nasal, one consonant, an optional glide (y/w), one vowel. There are no consonant clusters beyond prenasalization, and no final consonants. Vowel hiatus is resolved by glide insertion.
+Syllables are (N)C(G)V: an optional homorganic nasal, one consonant, an optional glide (y/w), one vowel. There are no consonant clusters beyond prenasalization — the nasal may also precede the fricative *s* (ns, as in *nsómba* “fish”) — and no final consonants. Vowel hiatus is resolved by glide insertion.
 
 ## From Proto-Bantu
 

@@ -26,6 +26,7 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 ## Entries
 
 - [[Kintu/Lexicon/balí|-balí]] — two (№23)
+- [[Kintu/Lexicon/babá|babá]] — father (№43)
 - [[Kintu/Lexicon/bóna|bóna]] — to see (№101)
 - [[Kintu/Lexicon/bubóno|bubóno]] — vision, eyesight
 - [[Kintu/Lexicon/buntu|buntu]] — humanity
@@ -44,6 +45,7 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/ka|ka]] — no, not (№16)
 - [[Kintu/Lexicon/ké|-ké]] — few (№20)
 - [[Kintu/Lexicon/kí|kí]] — what (№12)
+- [[Kintu/Lexicon/kibungú|kibungú]] — worm (№50)
 - [[Kintu/Lexicon/kintu|kintu]] — thing
 - [[Kintu/Lexicon/kiti|kiti]] — stool, seat
 - [[Kintu/Lexicon/kubá|kubá]] — home (class 17)
@@ -54,18 +56,27 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/kudyá|kudyá]] — there (№10)
 - [[Kintu/Lexicon/kwí|kwí]] — where (№13)
 - [[Kintu/Lexicon/lini|lini]] — when (№14)
+- [[Kintu/Lexicon/máma|máma]] — mother (№42)
 - [[Kintu/Lexicon/mbá|mbá]] — house
+- [[Kintu/Lexicon/mbúwa|mbúwa]] — dog (№47)
 - [[Kintu/Lexicon/moja|-moja]] — one (№22) †
 - [[Kintu/Lexicon/mubóni|mubóni]] — seer, witness
 - [[Kintu/Lexicon/mubóno|mubóno]] — sight, view
+- [[Kintu/Lexicon/mudúme|mudúme]] — man; husband (№37, 41)
+- [[Kintu/Lexicon/mujána|mujána]] — child (№39) †
+- [[Kintu/Lexicon/mukáli|mukáli]] — woman; wife (№36, 40)
 - [[Kintu/Lexicon/muntu|muntu]] — person (№38)
 - [[Kintu/Lexicon/muti|muti]] — tree (№51)
 - [[Kintu/Lexicon/mwe|-mwe]] — some (№19) †
 - [[Kintu/Lexicon/nani|nani]] — who (№11)
+- [[Kintu/Lexicon/ndá|ndá]] — louse (№48)
 - [[Kintu/Lexicon/ndíngi|-ndíngi]] — other (№21)
 - [[Kintu/Lexicon/ne|-ne]] — four (№25)
 - [[Kintu/Lexicon/njani|njani]] — how (№15)
 - [[Kintu/Lexicon/njila|njila]] — road, way (№170)
+- [[Kintu/Lexicon/njóka|njóka]] — snake (№49)
+- [[Kintu/Lexicon/njuni|njuni]] — bird (№46) †
+- [[Kintu/Lexicon/nsómba|nsómba]] — fish (№45)
 - [[Kintu/Lexicon/nyáma|nyáma]] — animal (№44)
 - [[Kintu/Lexicon/onse|-onse]] — all (№17)
 - [[Kintu/Lexicon/sánu|-sánu]] — five (№26)

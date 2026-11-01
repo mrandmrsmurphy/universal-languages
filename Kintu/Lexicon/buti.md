@@ -10,3 +10,4 @@
 | Class | 14 (collective) |
 | Root | [[Kintu/Roots/ti\|-ti]] |
 | Composition | class-14 **bu-** + **-ti** (see [[Kintu/Lexicon/muti\|muti]]) |
+| Swadesh | [[Kintu/Swadesh]] № 52 |

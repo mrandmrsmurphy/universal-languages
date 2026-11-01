@@ -11,4 +11,4 @@
 | Root | [[Kintu/Roots/ntu\|-ntu]] |
 | Proto-Bantu | \*mʊ̀ntʊ̀ |
 | Cognates | Swahili *mtu*, Zulu *umuntu*, Luganda *omuntu*, Kinyarwanda *umuntu*, Tswana *motho* |
-| Swadesh | [[Swadesh]] № 38 |
+| Swadesh | [[Kintu/Swadesh]] № 38 |

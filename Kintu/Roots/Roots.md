@@ -10,7 +10,16 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 
 - [[Kintu/Roots/bá|bá]] — enclosure, house, yard
 - [[Kintu/Roots/bón|bón]] — see
+- [[Kintu/Roots/búa|búa]] — dog
+- [[Kintu/Roots/bungú|bungú]] — worm, caterpillar
+- [[Kintu/Roots/dá|dá]] — louse
+- [[Kintu/Roots/dúme|dúme]] — male, husband
+- [[Kintu/Roots/jána|jána]] — child
 - [[Kintu/Roots/jila|jila]] — road, way
+- [[Kintu/Roots/jóka|jóka]] — snake
+- [[Kintu/Roots/juni|juni]] — bird
+- [[Kintu/Roots/káli|káli]] — woman, wife
 - [[Kintu/Roots/ntu|ntu]] — person, human
 - [[Kintu/Roots/nyáma|nyáma]] — animal, meat
+- [[Kintu/Roots/sómba|sómba]] — fish
 - [[Kintu/Roots/ti|ti]] — tree

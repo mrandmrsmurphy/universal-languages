@@ -11,4 +11,4 @@
 | Root | [[Kintu/Roots/nyáma\|-nyáma]] |
 | Proto-Bantu | \*ɲáma |
 | Cognates | Swahili *nyama*, Zulu *inyama*, Shona *nyama*, Lingala *nyama* |
-| Swadesh | [[Swadesh]] № 44 |
+| Swadesh | [[Kintu/Swadesh]] № 44, 63 |

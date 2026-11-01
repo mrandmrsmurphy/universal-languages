@@ -55,47 +55,47 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 36 | woman | | | | | | | | — |
-| 37 | adult male | | | | | | | | — |
-| 38 | human being | | | | | | | | — |
-| 39 | child (a youth) | | | | | | | | — |
-| 40 | wife | | | | | | | | — |
-| 41 | husband | | | | | | | | — |
-| 42 | mother | | | | | | | | — |
-| 43 | father | | | | | | | | — |
-| 44 | animal | | | | | | | | — |
-| 45 | fish | | | | | | | | — |
-| 46 | bird (fowl) | | | | | | | | — |
-| 47 | dog (hound) | | | | | | | | — |
-| 48 | louse | | | | | | | | — |
-| 49 | snake | | | | | | | | — |
-| 50 | worm | | | | | | | | — |
+| 36 | woman | *kádɪ́ | mwanamke | umugore | mwasi | umfazi | mukadzi |  | [[mukáli]] |
+| 37 | adult male | *dʊ́mè | mwanamume | umugabo | mobali | indoda | murume |  | [[mudúme]] |
+| 38 | human being | *mʊ̀ntʊ̀ | mtu | umuntu | moto | umuntu | munhu |  | [[muntu]] |
+| 39 | child (a youth) |  | mtoto | umwana | mwana | umntwana | mwana |  | [[mujána]] † |
+| 40 | wife | *kádɪ́ | mke | umugore | mwasi | umkakho | mukadzi |  | [[mukáli]] |
+| 41 | husband | *dʊ́mè | mume | umugabo | mobali | umkakho | murume |  | [[mudúme]] |
+| 42 | mother | *máá | mama | umama | mama | umama | amai |  | [[máma]] |
+| 43 | father | *bààbá | baba | data | papa | ubaba | baba |  | [[babá]] |
+| 44 | animal | *ɲáma | nyama | inyamaswa | nyama | inyama | mhuka |  | [[nyáma]] |
+| 45 | fish | *cómbá | samaki | ifi |  | inhlanzi | hove |  | [[nsómba]] |
+| 46 | bird (fowl) |  | ndege | inyoni | ndeke | inyoni | shiri |  | [[njuni]] † |
+| 47 | dog (hound) | *bʊ́à | mbwa | imbwa | mbwa | inja | imbwa |  | [[mbúwa]] |
+| 48 | louse | *dá | chawa |  |  | intwala | nhata |  | [[ndá]] |
+| 49 | snake | *jókà | nyoka | inzoka | nyoka | inyoka | nyoka |  | [[njóka]] |
+| 50 | worm | *bʊ̀ŋgʊ́ | funza |  |  |  |  |  | [[kibungú]] |
 
 ## 51–71 Plants and animal parts
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | tree | | | | | | | | — |
-| 52 | forest | | | | | | | | — |
-| 53 | stick (of wood) | | | | | | | | — |
-| 54 | fruit | | | | | | | | — |
-| 55 | seed | | | | | | | | — |
-| 56 | leaf | | | | | | | | — |
-| 57 | root | | | | | | | | — |
-| 58 | bark (of tree) | | | | | | | | — |
-| 59 | flower, blossom, (bloom) | | | | | | | | — |
-| 60 | grass | | | | | | | | — |
-| 61 | rope | | | | | | | | — |
-| 62 | skin (hide) | | | | | | | | — |
-| 63 | meat, flesh (as in flesh) | | | | | | | | — |
-| 64 | blood | | | | | | | | — |
-| 65 | bone | | | | | | | | — |
-| 66 | fat (noun) | | | | | | | | — |
-| 67 | egg | | | | | | | | — |
-| 68 | horn | | | | | | | | — |
-| 69 | tail | | | | | | | | — |
-| 70 | feather (rather not down) | | | | | | | | — |
-| 71 | hair | | | | | | | | — |
+| 51 | tree | *mʊtɪ́ | mti | igiti | muti | umuthi | muti |  | [[muti]] |
+| 52 | forest |  | msitu | ishyamba |  | ihlathi | sango |  | [[buti]] † |
+| 53 | stick (of wood) |  | fimbo | inkoni |  | induku | tsvimbo |  | — |
+| 54 | fruit | *bùmá | tunda | ifumbu | mbuma | isiqhamo |  |  | [[kibuma]] |
+| 55 | seed | *bégʊ́ | mbegu | imbuto |  | imbewu | mbeu |  | [[mbégu]] |
+| 56 | leaf | *jánɪ̀ | jani | ikibabi |  | iqabunga | shizha |  | [[kijáni]] |
+| 57 | root | *dɪ̀ | mzizi | umuzi |  | impande | mudzi |  | [[mudi]] |
+| 58 | bark (of tree) |  | gamba |  |  |  |  |  | — |
+| 59 | flower, blossom, (bloom) | *dʊ̀bà | ua | indabo |  | imbali | ruva |  | [[kiduba]] |
+| 60 | grass | *jánɪ̀ “leaf; grass” | nyasi |  |  | utshani | sora |  | [[bujáni]] † |
+| 61 | rope |  | kamba | umugozi |  | intambo | tambo |  | [[ntambo]] † |
+| 62 | skin (hide) | *kándà | ngozi | uruhu |  | isikhumba | ganda |  | [[nkánda]] |
+| 63 | meat, flesh (as in flesh) | *ɲáma | nyama | inyama | nyama | inyama | nyama |  | [[nyáma]] |
+| 64 | blood | *dòpà | damu | amaraso | makila | igazi | ropa |  | [[mudopa]] |
+| 65 | bone |  | mfupa | igufwa |  | ithambo | bhowa |  | [[mukupa]] † |
+| 66 | fat (noun) |  | mafuta |  | mafuta | amafutha | mafuta |  | [[biputa]] † |
+| 67 | egg | *gɪ́ | yai | igi |  | iqanda | zai |  | [[kigí]] |
+| 68 | horn |  | pembe | ihembe |  | upondo | nyanga |  | [[mpembe]] † |
+| 69 | tail | *kɪ́dà | mkia |  |  | umsila | muswe |  | [[musíla]] |
+| 70 | feather (rather not down) | *cádá | unyoya |  |  | uphapha |  |  | [[kisáda]] |
+| 71 | hair | *bʊ̀dɪ̀ | nywele |  |  | izinwele | vhudzi |  | [[bubudi]] † |
 
 ## 72–91 Body
 

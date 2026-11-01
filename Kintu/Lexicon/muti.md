@@ -11,4 +11,4 @@
 | Root | [[Kintu/Roots/ti\|-ti]] |
 | Proto-Bantu | \*mʊtɪ |
 | Cognates | Swahili *mti*, Shona *muti*, Zulu *umuthi*, Bemba *umuti* |
-| Swadesh | [[Swadesh]] № 51 |
+| Swadesh | [[Kintu/Swadesh]] № 51 |
