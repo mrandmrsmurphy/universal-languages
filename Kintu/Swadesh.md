@@ -126,22 +126,22 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 92 | to drink | | | | | | | | — |
-| 93 | to eat | | | | | | | | — |
-| 94 | to bite | | | | | | | | — |
-| 95 | to suck | | | | | | | | — |
-| 96 | to spit | | | | | | | | — |
-| 97 | to vomit | | | | | | | | — |
-| 98 | to blow | | | | | | | | — |
-| 99 | to breathe | | | | | | | | — |
-| 100 | to laugh | | | | | | | | — |
-| 101 | to see | | | | | | | | — |
-| 102 | to hear | | | | | | | | — |
-| 103 | to know | | | | | | | | — |
-| 104 | to think | | | | | | | | — |
-| 105 | to smell (sense odor) | | | | | | | | — |
-| 106 | to fear | | | | | | | | — |
-| 107 | to sleep | | | | | | | | — |
+| 92 | to drink |  | -nywa | -nywa |  | -phuza | -nwa |  | [[nyúwa]] † |
+| 93 | to eat | *dɪ́- | -la | -rya | -lya | -dla | -dya |  | [[dyá]] |
+| 94 | to bite | *dʊ́m- | -uma | -ruma |  | -lum- | -ruma |  | [[dúma]] |
+| 95 | to suck | *pɪ́p- | -nyonya |  |  | -ncela |  |  | [[fípa]] |
+| 96 | to spit | *tú- | -tema |  |  |  |  |  | [[túwa]] |
+| 97 | to vomit | *dʊ́k- | -tapika |  |  |  | -rudza |  | [[dúka]] |
+| 98 | to blow | *pèèp- |  |  |  |  |  |  | [[pepa]] |
+| 99 | to breathe | *pʊ́ʊ́m- | -pumua |  |  |  | -fema |  | [[púma]] |
+| 100 | to laugh | *cèk- | -cheka | -seka |  | -hleka | -seka |  | [[seka]] |
+| 101 | to see | *-bón- | -ona | -bona | -mona | -bona | -ona |  | [[bóna]] |
+| 102 | to hear | *pʊ́dɪ́k- | -sikia | -umva |  | -zwa | -nzwa |  | [[pulíka]] |
+| 103 | to know | *màny- | -jua | -zi | -yeba | -azi | -ziva |  | [[manya]] |
+| 104 | to think | *gàŋgàn- | -fikiri |  |  | -cabanga | -funga |  | [[gaŋgana]] |
+| 105 | to smell (sense odor) | *dʊ̀mb- | -nusa |  |  | -nuka |  |  | [[dumba]] |
+| 106 | to fear | *tɪ́ɪ̀n- | -ogopa | -tinya |  | -esaba |  |  | [[tína]] |
+| 107 | to sleep | *dáàd- | -lala |  |  | -lala | -rara |  | [[dáda]] |
 
 ## 108–125 Life, conflict, motion and posture
 
