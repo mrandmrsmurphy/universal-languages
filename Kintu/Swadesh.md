@@ -101,26 +101,26 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 72 | head | | | | | | | | — |
-| 73 | ear | | | | | | | | — |
-| 74 | eye | | | | | | | | — |
-| 75 | nose | | | | | | | | — |
-| 76 | mouth | | | | | | | | — |
-| 77 | tooth (rather not molar) | | | | | | | | — |
-| 78 | tongue | | | | | | | | — |
-| 79 | fingernail, nail | | | | | | | | — |
-| 80 | foot | | | | | | | | — |
-| 81 | leg | | | | | | | | — |
-| 82 | knee | | | | | | | | — |
-| 83 | hand | | | | | | | | — |
-| 84 | wing | | | | | | | | — |
-| 85 | belly, stomach (medical) | | | | | | | | — |
-| 86 | guts, intestines (medical), entrails | | | | | | | | — |
-| 87 | neck | | | | | | | | — |
-| 88 | back | | | | | | | | — |
-| 89 | breast | | | | | | | | — |
-| 90 | heart | | | | | | | | — |
-| 91 | liver | | | | | | | | — |
+| 72 | head | *tʊ́è | kichwa | umutwe |  | ikhanda | musoro |  | [[mútwe]] |
+| 73 | ear | *kʊ́tʊ̀(tʊɪ) | sikio | ugutwi |  | indlebe | nzeve |  | [[kikútu]] † |
+| 74 | eye |  | jicho | ijisho |  | iso | ziso |  | [[kijíso]] † |
+| 75 | nose | *jʊ́dʊ̀ | pua | izuru |  | impumulo | mhuno |  | [[mujúlu]] |
+| 76 | mouth | *dòmò | mdomo | umunwa |  | umlomo | mukano |  | [[mudomo]] |
+| 77 | tooth (rather not molar) | *jɪ̀nò | jino | iryinyo |  | izinyo | zino |  | [[kijino]] |
+| 78 | tongue | *dɪ́mɪ̀ | ulimi | ururimi |  | ulwimi | rurimi |  | [[budími]] |
+| 79 | fingernail, nail | *jádà | kucha | inzara |  | izipho | nzara |  | [[kijáda]] |
+| 80 | foot | *dèŋgè | mguu | ikirenge |  | unyawo | tsoka |  | [[kidenge]] † |
+| 81 | leg | *gʊ̀dʊ̀ | mguu | ukuguru |  | ulenze | gumbo |  | [[kugudu]] |
+| 82 | knee |  | goti | ivi |  | idolo | ibvi |  | [[kibi]] † |
+| 83 | hand | *bókò | mkono | ukuboko |  | isandla | ruoko |  | [[kubóko]] |
+| 84 | wing |  | mbawa |  |  | iphiko |  |  | [[mbawa]] † |
+| 85 | belly, stomach (medical) | *tʊ̀mbò | tumbo | inda |  | isisu | dumbu |  | [[kitumbo]] |
+| 86 | guts, intestines (medical), entrails |  | matumbo |  |  | amathumbo |  |  | [[bitumbo]] |
+| 87 | neck | *kɪ́ŋgò | shingo | ijosi |  | intamo | motsi |  | [[nsíngo]] |
+| 88 | back | *gòŋgò | mgongo | umugongo |  | umqolo | musana |  | [[mugongo]] |
+| 89 | breast | *béèdè | ziwa |  |  | ibele |  |  | [[kibéde]] |
+| 90 | heart | *tɪ́mà | moyo | umutima |  | inhliziyo | mwoyo |  | [[mutíma]] |
+| 91 | liver |  | ini | ikibindi |  | isibindi |  |  | [[kibindi]] † |
 
 ## 92–107 Body functions and senses
 

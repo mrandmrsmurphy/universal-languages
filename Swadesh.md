@@ -16,7 +16,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
-| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–71 coined (34–35, 53, 58 open) |
+| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–91 coined (34–35, 53, 58 open) |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |
 
 ## The 207 in 13 sets
@@ -116,26 +116,26 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 72 | head | <ruby>頭<rt>ㄊㄛㄨ</rt></ruby> | [[capite]] | [[Folksprak/Lexicon/ᚻᛟᚹᛞ\|ᚻᛟᚹᛞ høvd]] | [[глава]] | ܪܐܣܐ | — | — |
-| 73 | ear | <ruby>耳<rt>ㄋㄧ</rt></ruby> | [[aure]] | [[Folksprak/Lexicon/ᛟᚱ\|ᛟᚱ ør]] | [[ухо]] | ܐܘܙܢܐ | — | — |
-| 74 | eye | <ruby>目<rt>ㄇㄨㄎ</rt></ruby> | [[oculo]] | [[Folksprak/Lexicon/ᛟᚷ\|ᛟᚷ øg]] | [[око]] | ܥܝܢܐ | — | — |
-| 75 | nose | <ruby>鼻<rt>ㄅㄧ</rt></ruby> | [[naso]] | [[Folksprak/Lexicon/ᚾᛖᛋ\|ᚾᛖᛋ nes]] | [[нос]] | ܐܢܦܐ | — | — |
-| 76 | mouth | <ruby>口<rt>ㄎㄛㄨ</rt></ruby> | [[bucca]], [[ore]] | [[Folksprak/Lexicon/ᛗᚢᚾᛞ\|ᛗᚢᚾᛞ mund]] | [[уста]] | ܦܘܡܐ | — | — |
-| 77 | tooth (rather not molar) | <ruby>歯<rt>ㄑㄧ</rt></ruby> | [[dente]] | [[Folksprak/Lexicon/ᛏᚪᚾᛞ\|ᛏᚪᚾᛞ tand]] | [[зуб]] | ܣܝܢܐ | — | — |
-| 78 | tongue | <ruby>舌<rt>ㄙㄝㄊ</rt></ruby> | [[lingua]] | [[Folksprak/Lexicon/ᛏᚢᚾᚷ\|ᛏᚢᚾᚷ tung]] | [[єзык]] | ܠܣܢܐ | — | — |
-| 79 | fingernail, nail | <ruby>指甲<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> | [[ungula]] | [[Folksprak/Lexicon/ᚾᚪᚷᛖᛚ\|ᚾᚪᚷᛖᛚ nagel]] | [[ногот]] | ܛܘܦܪܐ | — | — |
-| 80 | foot | <ruby>足<rt>ㄐㄛㄎ</rt></ruby> | [[pede]] | [[Folksprak/Lexicon/ᚠᛟᛏ\|ᚠᛟᛏ føt]] | [[стопа]] | ܪܝܓܠܐ | — | — |
-| 81 | leg | <ruby>脚<rt>ㄍ⼘ㄎ</rt></ruby> | [[gamba]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | [[нога]] | ܪܝܓܠܐ | — | — |
-| 82 | knee | <ruby>膝蓋<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby> | [[genu]] | [[Folksprak/Lexicon/ᛣᚾᛖ\|ᛣᚾᛖ kne]] | [[колено]] | ܒܪܟܐ | — | — |
-| 83 | hand | <ruby>手<rt>ㄙ⼜</rt></ruby> | [[mano]] | [[Folksprak/Lexicon/ᚻᚪᚾᛞ\|ᚻᚪᚾᛞ hand]] | [[рука]] | ܝܕܐ | — | — |
-| 84 | wing | <ruby>羽翼<rt>ㄨㄧㄎ</rt></ruby> | [[ala]] | [[Folksprak/Lexicon/ᚹᛁᚾᚷ\|ᚹᛁᚾᚷ ving]] | [[крило]] | ܟܢܦܐ | — | — |
-| 85 | belly, stomach (medical) | <ruby>腹<rt>ㄈㄨㄎ</rt></ruby> | [[ventre]] | [[Folksprak/Lexicon/ᛒᚢᛣ\|ᛒᚢᛣ buk]], [[Folksprak/Lexicon/ᛗᚪᚷᛖ\|ᛗᚪᚷᛖ mage]] | [[брюхо]] | ܟܪܫܐ | — | — |
-| 86 | guts, intestines (medical), entrails | <ruby>腸管<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby> | [[tripas]] | [[Folksprak/Lexicon/ᛞᚪᚱᛗ\|ᛞᚪᚱᛗ darm]] | [[внутрности]] | ܡܥܝ | — | — |
-| 87 | neck | <ruby>頚<rt>ㄍㄧㄫ</rt></ruby> | [[collo]] | [[Folksprak/Lexicon/ᚻᚪᛚᛋ\|ᚻᚪᛚᛋ hals]] | [[шия]] | — | — | — |
-| 88 | back | <ruby>背<rt>ㄅㄛㄧ</rt></ruby> | [[dorso]] | [[Folksprak/Lexicon/ᚱᚣᚷ\|ᚱᚣᚷ ryg]] | [[зад]] | — | — | — |
-| 89 | breast | <ruby>胸部<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby> | [[pectore]] | [[Folksprak/Lexicon/ᛒᚱᚣᛋᛏ\|ᛒᚱᚣᛋᛏ bryst]] | [[прс]] | ܚܝܨܢܐ | — | — |
-| 90 | heart | <ruby>心臓<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> | [[corde]] | [[Folksprak/Lexicon/ᚻᛖᚱᛏ\|ᚻᛖᚱᛏ hert]] | [[срдце]] | ܠܝܒܐ | — | — |
-| 91 | liver | <ruby>肝臓<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby> | [[ficato]], [[hepato]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖᚱ\|ᛚᛖᚹᛖᚱ lever]] | [[єтра]] | ܠܒܕܐ | — | — |
+| 72 | head | <ruby>頭<rt>ㄊㄛㄨ</rt></ruby> | [[capite]] | [[Folksprak/Lexicon/ᚻᛟᚹᛞ\|ᚻᛟᚹᛞ høvd]] | [[глава]] | ܪܐܣܐ | — | [[mútwe]] |
+| 73 | ear | <ruby>耳<rt>ㄋㄧ</rt></ruby> | [[aure]] | [[Folksprak/Lexicon/ᛟᚱ\|ᛟᚱ ør]] | [[ухо]] | ܐܘܙܢܐ | — | [[kikútu]] † |
+| 74 | eye | <ruby>目<rt>ㄇㄨㄎ</rt></ruby> | [[oculo]] | [[Folksprak/Lexicon/ᛟᚷ\|ᛟᚷ øg]] | [[око]] | ܥܝܢܐ | — | [[kijíso]] † |
+| 75 | nose | <ruby>鼻<rt>ㄅㄧ</rt></ruby> | [[naso]] | [[Folksprak/Lexicon/ᚾᛖᛋ\|ᚾᛖᛋ nes]] | [[нос]] | ܐܢܦܐ | — | [[mujúlu]] |
+| 76 | mouth | <ruby>口<rt>ㄎㄛㄨ</rt></ruby> | [[bucca]], [[ore]] | [[Folksprak/Lexicon/ᛗᚢᚾᛞ\|ᛗᚢᚾᛞ mund]] | [[уста]] | ܦܘܡܐ | — | [[mudomo]] |
+| 77 | tooth (rather not molar) | <ruby>歯<rt>ㄑㄧ</rt></ruby> | [[dente]] | [[Folksprak/Lexicon/ᛏᚪᚾᛞ\|ᛏᚪᚾᛞ tand]] | [[зуб]] | ܣܝܢܐ | — | [[kijino]] |
+| 78 | tongue | <ruby>舌<rt>ㄙㄝㄊ</rt></ruby> | [[lingua]] | [[Folksprak/Lexicon/ᛏᚢᚾᚷ\|ᛏᚢᚾᚷ tung]] | [[єзык]] | ܠܣܢܐ | — | [[budími]] |
+| 79 | fingernail, nail | <ruby>指甲<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> | [[ungula]] | [[Folksprak/Lexicon/ᚾᚪᚷᛖᛚ\|ᚾᚪᚷᛖᛚ nagel]] | [[ногот]] | ܛܘܦܪܐ | — | [[kijáda]] |
+| 80 | foot | <ruby>足<rt>ㄐㄛㄎ</rt></ruby> | [[pede]] | [[Folksprak/Lexicon/ᚠᛟᛏ\|ᚠᛟᛏ føt]] | [[стопа]] | ܪܝܓܠܐ | — | [[kidenge]] † |
+| 81 | leg | <ruby>脚<rt>ㄍ⼘ㄎ</rt></ruby> | [[gamba]] | [[Folksprak/Lexicon/ᛒᛖᚾ\|ᛒᛖᚾ ben]] | [[нога]] | ܪܝܓܠܐ | — | [[kugudu]] |
+| 82 | knee | <ruby>膝蓋<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby> | [[genu]] | [[Folksprak/Lexicon/ᛣᚾᛖ\|ᛣᚾᛖ kne]] | [[колено]] | ܒܪܟܐ | — | [[kibi]] † |
+| 83 | hand | <ruby>手<rt>ㄙ⼜</rt></ruby> | [[mano]] | [[Folksprak/Lexicon/ᚻᚪᚾᛞ\|ᚻᚪᚾᛞ hand]] | [[рука]] | ܝܕܐ | — | [[kubóko]] |
+| 84 | wing | <ruby>羽翼<rt>ㄨㄧㄎ</rt></ruby> | [[ala]] | [[Folksprak/Lexicon/ᚹᛁᚾᚷ\|ᚹᛁᚾᚷ ving]] | [[крило]] | ܟܢܦܐ | — | [[mbawa]] † |
+| 85 | belly, stomach (medical) | <ruby>腹<rt>ㄈㄨㄎ</rt></ruby> | [[ventre]] | [[Folksprak/Lexicon/ᛒᚢᛣ\|ᛒᚢᛣ buk]], [[Folksprak/Lexicon/ᛗᚪᚷᛖ\|ᛗᚪᚷᛖ mage]] | [[брюхо]] | ܟܪܫܐ | — | [[kitumbo]] |
+| 86 | guts, intestines (medical), entrails | <ruby>腸管<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby> | [[tripas]] | [[Folksprak/Lexicon/ᛞᚪᚱᛗ\|ᛞᚪᚱᛗ darm]] | [[внутрности]] | ܡܥܝ | — | [[bitumbo]] |
+| 87 | neck | <ruby>頚<rt>ㄍㄧㄫ</rt></ruby> | [[collo]] | [[Folksprak/Lexicon/ᚻᚪᛚᛋ\|ᚻᚪᛚᛋ hals]] | [[шия]] | — | — | [[nsíngo]] |
+| 88 | back | <ruby>背<rt>ㄅㄛㄧ</rt></ruby> | [[dorso]] | [[Folksprak/Lexicon/ᚱᚣᚷ\|ᚱᚣᚷ ryg]] | [[зад]] | — | — | [[mugongo]] |
+| 89 | breast | <ruby>胸部<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby> | [[pectore]] | [[Folksprak/Lexicon/ᛒᚱᚣᛋᛏ\|ᛒᚱᚣᛋᛏ bryst]] | [[прс]] | ܚܝܨܢܐ | — | [[kibéde]] |
+| 90 | heart | <ruby>心臓<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> | [[corde]] | [[Folksprak/Lexicon/ᚻᛖᚱᛏ\|ᚻᛖᚱᛏ hert]] | [[срдце]] | ܠܝܒܐ | — | [[mutíma]] |
+| 91 | liver | <ruby>肝臓<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby> | [[ficato]], [[hepato]] | [[Folksprak/Lexicon/ᛚᛖᚹᛖᚱ\|ᛚᛖᚹᛖᚱ lever]] | [[єтра]] | ܠܒܕܐ | — | [[kibindi]] † |
 
 ### 92–107 Body functions and senses
 

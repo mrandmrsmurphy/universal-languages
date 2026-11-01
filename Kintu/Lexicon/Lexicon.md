@@ -25,12 +25,14 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 
 ## Entries
 
-- [[Kintu/Lexicon/balí|-balí]] — two (№23)
 - [[Kintu/Lexicon/babá|babá]] — father (№43)
+- [[Kintu/Lexicon/balí|-balí]] — two (№23)
 - [[Kintu/Lexicon/biputa|biputa]] — fat, grease (№66) †
+- [[Kintu/Lexicon/bitumbo|bitumbo]] — guts (№86)
 - [[Kintu/Lexicon/bóna|bóna]] — to see (№101)
-- [[Kintu/Lexicon/bubudi|bubudi]] — hair (№71) †
 - [[Kintu/Lexicon/bubóno|bubóno]] — vision, eyesight
+- [[Kintu/Lexicon/bubudi|bubudi]] — hair (№71) †
+- [[Kintu/Lexicon/budími|budími]] — tongue; language (№78)
 - [[Kintu/Lexicon/bujáni|bujáni]] — grass (№60) †
 - [[Kintu/Lexicon/buntu|buntu]] — humanity
 - [[Kintu/Lexicon/bunyáma|bunyáma]] — animality
@@ -47,24 +49,36 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/itu|itu]] — we (№4)
 - [[Kintu/Lexicon/ka|ka]] — no, not (№16)
 - [[Kintu/Lexicon/ké|-ké]] — few (№20)
-- [[Kintu/Lexicon/kí|kí]] — what (№12)
+- [[Kintu/Lexicon/kibéde|kibéde]] — breast (№89)
+- [[Kintu/Lexicon/kibindi|kibindi]] — liver (№91) †
+- [[Kintu/Lexicon/kibi|kibi]] — knee (№82) †
 - [[Kintu/Lexicon/kibuma|kibuma]] — fruit (№54)
 - [[Kintu/Lexicon/kibungú|kibungú]] — worm (№50)
+- [[Kintu/Lexicon/kidenge|kidenge]] — foot (№80) †
 - [[Kintu/Lexicon/kiduba|kiduba]] — flower (№59)
 - [[Kintu/Lexicon/kigí|kigí]] — egg (№67)
+- [[Kintu/Lexicon/kijáda|kijáda]] — fingernail (№79)
 - [[Kintu/Lexicon/kijáni|kijáni]] — leaf (№56)
+- [[Kintu/Lexicon/kijino|kijino]] — tooth (№77)
+- [[Kintu/Lexicon/kijíso|kijíso]] — eye (№74) †
+- [[Kintu/Lexicon/kikútu|kikútu]] — ear (№73) †
 - [[Kintu/Lexicon/kintu|kintu]] — thing
 - [[Kintu/Lexicon/kisáda|kisáda]] — feather (№70)
 - [[Kintu/Lexicon/kiti|kiti]] — stool, seat
+- [[Kintu/Lexicon/kitumbo|kitumbo]] — belly (№85)
+- [[Kintu/Lexicon/kí|kí]] — what (№12)
 - [[Kintu/Lexicon/kubá|kubá]] — home (class 17)
+- [[Kintu/Lexicon/kubóko|kubóko]] — hand, arm (№83)
 - [[Kintu/Lexicon/kubóna|kubóna]] — seeing (class 15)
+- [[Kintu/Lexicon/kudyá|kudyá]] — there (№10)
 - [[Kintu/Lexicon/kúfi|-kúfi]] — short (№33)
+- [[Kintu/Lexicon/kugudu|kugudu]] — leg (№81)
 - [[Kintu/Lexicon/kúlu|-kúlu]] — big (№27)
 - [[Kintu/Lexicon/kunu|kunu]] — here (№9)
-- [[Kintu/Lexicon/kudyá|kudyá]] — there (№10)
 - [[Kintu/Lexicon/kwí|kwí]] — where (№13)
 - [[Kintu/Lexicon/lini|lini]] — when (№14)
 - [[Kintu/Lexicon/máma|máma]] — mother (№42)
+- [[Kintu/Lexicon/mbawa|mbawa]] — wing (№84) †
 - [[Kintu/Lexicon/mbá|mbá]] — house
 - [[Kintu/Lexicon/mbégu|mbégu]] — seed (№55)
 - [[Kintu/Lexicon/mbúwa|mbúwa]] — dog (№47)
@@ -73,14 +87,19 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/mubóni|mubóni]] — seer, witness
 - [[Kintu/Lexicon/mubóno|mubóno]] — sight, view
 - [[Kintu/Lexicon/mudi|mudi]] — root (№57)
+- [[Kintu/Lexicon/mudomo|mudomo]] — mouth (№76)
 - [[Kintu/Lexicon/mudopa|mudopa]] — blood (№64)
 - [[Kintu/Lexicon/mudúme|mudúme]] — man; husband (№37, 41)
+- [[Kintu/Lexicon/mugongo|mugongo]] — back (№88)
 - [[Kintu/Lexicon/mujána|mujána]] — child (№39) †
+- [[Kintu/Lexicon/mujúlu|mujúlu]] — nose (№75)
 - [[Kintu/Lexicon/mukáli|mukáli]] — woman; wife (№36, 40)
 - [[Kintu/Lexicon/mukupa|mukupa]] — bone (№65) †
 - [[Kintu/Lexicon/muntu|muntu]] — person (№38)
 - [[Kintu/Lexicon/musíla|musíla]] — tail (№69)
+- [[Kintu/Lexicon/mutíma|mutíma]] — heart (№90)
 - [[Kintu/Lexicon/muti|muti]] — tree (№51)
+- [[Kintu/Lexicon/mútwe|mútwe]] — head (№72)
 - [[Kintu/Lexicon/mwe|-mwe]] — some (№19) †
 - [[Kintu/Lexicon/nani|nani]] — who (№11)
 - [[Kintu/Lexicon/ndá|ndá]] — louse (№48)
@@ -91,6 +110,7 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/njóka|njóka]] — snake (№49)
 - [[Kintu/Lexicon/njuni|njuni]] — bird (№46) †
 - [[Kintu/Lexicon/nkánda|nkánda]] — skin (№62)
+- [[Kintu/Lexicon/nsíngo|nsíngo]] — neck (№87)
 - [[Kintu/Lexicon/nsómba|nsómba]] — fish (№45)
 - [[Kintu/Lexicon/ntambo|ntambo]] — rope (№61) †
 - [[Kintu/Lexicon/nyáma|nyáma]] — animal; meat (№44, 63)
