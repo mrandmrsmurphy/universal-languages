@@ -36,18 +36,18 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 22 | one | | | | | | | | — |
-| 23 | two | | | | | | | | — |
-| 24 | three | | | | | | | | — |
-| 25 | four | | | | | | | | — |
-| 26 | five | | | | | | | | — |
-| 27 | big, great | | | | | | | | — |
-| 28 | long | | | | | | | | — |
-| 29 | wide (broad) | | | | | | | | — |
-| 30 | thick | | | | | | | | — |
-| 31 | heavy | | | | | | | | — |
-| 32 | small (little) | | | | | | | | — |
-| 33 | short | | | | | | | | — |
+| 22 | one |  | -moja | -mwe | moko | -nye | -mwe |  | [[moja\|-moja]] † |
+| 23 | two | *bɪ̀dɪ́ | -wili | -biri | -balé | -bili | -piri |  | [[balí\|-balí]] |
+| 24 | three | *tàtʊ̀ | -tatu | -tatu | -sátu | -thathu | -tatu |  | [[tatu\|-tatu]] |
+| 25 | four | *nènai | -nne | -ne | -né | -ne | -na |  | [[ne\|-ne]] |
+| 26 | five | *cáànʊ̀ | -tano | -tanu | -tánu | -hlanu | -shanu |  | [[sánu\|-sánu]] |
+| 27 | big, great | *kʊ́dʊ́ | -kubwa | -kuru | -nene | -khulu | -kuru |  | [[kúlu\|-kúlu]] |
+| 28 | long | *dàɪp- “be long” | -refu | -re-re |  | -de | -refu |  | [[de\|-de]] |
+| 29 | wide (broad) | *gádɪ̀ | -pana |  |  | -banzi |  |  | [[gáli\|-gáli]] † |
+| 30 | thick | *gɪ̀n- “be fat, be thick” | -nene |  |  |  |  |  | [[gini\|-gini]] |
+| 31 | heavy | *dìtò | -zito |  |  | -nzima | -rema |  | [[dito\|-dito]] |
+| 32 | small (little) | *tòò | -dogo | -to | -moke | -ncane | -diki |  | [[to\|-to]] |
+| 33 | short | *kʊ́pɪ́ | -fupi | -gufi |  | -fushane | -pfupi |  | [[kúpi\|-kúpi]] |
 | 34 | narrow | | | | | | | | — |
 | 35 | thin | | | | | | | | — |
 

@@ -64,6 +64,7 @@ pages = {
     "Interslavic":     f"{UL}/Interslavic/Swadesh.md",
     "Middle Semitic":  MS,  # external: the middle-semitic vault
     "SEDES":           f"{UL}/SEDES/Swadesh.md",
+    "Kintu":           f"{UL}/Kintu/Swadesh.md",
 }
 
 data = {}
@@ -99,7 +100,7 @@ def cell(lang, n):
         c = c.replace('[[', '').replace(']]', '')  # links would be dead here; the lexicon is in the other vault
     return c
 
-ORDER = ["Dan'a'yo", "Interlingua", "Folksprak", "Interslavic", "Middle Semitic", "SEDES"]
+ORDER = ["Dan'a'yo", "Interlingua", "Folksprak", "Interslavic", "Middle Semitic", "SEDES", "Kintu"]
 
 SECTIONS = [
     (1, 21, "Pronouns, deixis and quantifiers"),
@@ -121,7 +122,7 @@ out = []
 out.append("# Swadesh\n")
 out.append("> Cross-UL basic vocabulary. Hub: [[Universal Languages]] · Compare: [[Language Comparisons]]\n")
 out.append("The comparative Swadesh 207 list is the vault's standard core-vocabulary benchmark — filling it is milestone 5 on the [[Development Roadmap]]. Every language's own Swadesh page uses the same layout (Interslavic style): the 207 items in the 13 fixed sets, comparison-language columns first and the target language last, with target forms linked to their lexicon files.\n")
-out.append("Below, the six ULs with any coined forms are shown side by side, one table per set. **—** marks an item not yet coined in that language. Folksprak, Interslavic, Interlingua and SEDES forms are live links to their in-vault lexicon pages. Dan'a'yo forms carry their Bopomofo reading in ruby annotation (renders stacked in Reading view) and are unlinked — its completed comparative list lives in its own vault at `lexipedia/Swadesh.md`; Middle Semitic forms are likewise unlinked — its lexicon lives in its own vault at `../middle-semitic`.\n")
+out.append("Below, the seven ULs with any coined forms are shown side by side, one table per set. **—** marks an item not yet coined in that language. Folksprak, Interslavic, Interlingua, SEDES and Kintu forms are live links to their in-vault lexicon pages. Dan'a'yo forms carry their Bopomofo reading in ruby annotation (renders stacked in Reading view) and are unlinked — its completed comparative list lives in its own vault at `lexipedia/Swadesh.md`; Middle Semitic forms are likewise unlinked — its lexicon lives in its own vault at `../middle-semitic`.\n")
 out.append("## Where each language stands\n")
 out.append("| UL | Page | Status |")
 out.append("| --- | --- | --- |")
@@ -132,7 +133,8 @@ out.append("| [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexi
 out.append(f"| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); {ms_filled} of 207 Middle Semitic cells filled |")
 out.append("| [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |")
 out.append("| [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |")
-out.append("| [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] · [[Kintu]] | — | Not started |\n")
+out.append("| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–33 coined (34–35 open) |")
+out.append("| [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |\n")
 out.append("## The 207 in 13 sets\n")
 
 for lo, hi, label in SECTIONS:

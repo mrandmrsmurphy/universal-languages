@@ -3,13 +3,13 @@ vault: UL
 project: Universal Languages
 hub: Universal Languages.md
 counts:
-  markdown_pages: 683
+  markdown_pages: 709
   languages_with_subtree: 13
 lexicon_entries_in_vault:
   Folksprak: 162
   Interlingua: 219
   Interslavic: 160
-  Kintu: 13
+  Kintu: 37
 sibling_vaults:
   danayo: https://github.com/mrandmrsmurphy/danayo
   middle-semitic: https://github.com/mrandmrsmurphy/middle-semitic
@@ -22,4 +22,4 @@ key_pages:
   site_map: AIOS/site-map.md
   memory_index: AIOS/memory-index.md
 source_record: none
-generated: 2026-10-31
+generated: 2026-11-01
