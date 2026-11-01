@@ -9,7 +9,7 @@
 | Population | ~450 million |
 | Foundation | Proto-Bantu, with modifications |
 | Zone | Bantusphere (southern / central / eastern Africa) |
-| Script (eventual) | [Ditema tsa Dinoko](https://en.wikipedia.org/wiki/Ditema_tsa_Dinoko) (not yet in Unicode) |
+| Script | Latin (interim); [Ditema tsa Dinoko](https://en.wikipedia.org/wiki/Ditema_tsa_Dinoko) (eventual; not yet in Unicode) |
 | Word order | SVO |
 | Typology | Agglutinative, heavily prefixing |
 | Alignment | Nominative–accusative |
@@ -30,8 +30,9 @@
 
 - [[Kintu/Anthropology]]
 - [[Kintu/Phonology]]
+- [[Kintu/Orthography]]
 - [[Kintu/Morphosyntax]]
 
 ## Lexicography
 
-Cross-UL basic list: [[Swadesh]]. Language-specific Swadesh page TBD.
+Cross-UL basic list: [[Swadesh]]. Language-specific Swadesh page TBD; Proto-Bantu roots to be drawn from the BLR3 reconstruction database.
