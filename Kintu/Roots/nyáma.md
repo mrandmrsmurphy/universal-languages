@@ -7,4 +7,4 @@
 | IPA | /ɲáma/ |
 | Gloss | animal, meat |
 | Proto-Bantu | \*-ɲáma |
-| Words | [[Kintu/Lexicon/nyáma\|nyáma]] (cl 9, animal), ninyama (cl 10, animals) |
+| Words | [[Kintu/Lexicon/nyáma\|nyáma]] (cl 9, animal), ninyama (cl 10, animals), [[Kintu/Lexicon/bunyáma\|bunyáma]] (cl 14, animality) |

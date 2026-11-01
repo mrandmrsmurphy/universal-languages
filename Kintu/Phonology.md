@@ -10,6 +10,7 @@
 | Plain obstruent | voiced | b | d | dʒ | g | |
 | | unvoiced | p | t | tʃ | k | |
 | Prenasalized | voiced | ᵐb | ⁿd | ᶮdʒ | ᵑɡ | |
+| | unvoiced | ᵐp | ⁿt | | ᵑk | |
 | Fricative | voiced | v | z | | | |
 | | unvoiced | f | s | | ʃ | h |
 | Approximant | | | r l | j | w | |

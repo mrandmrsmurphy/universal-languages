@@ -36,7 +36,7 @@ Kintu is written in the Latin alphabet as an interim orthography. The eventual s
 | y | j | |
 | z | z | |
 
-The prenasalized stops are written **mb, nd, nj, ng** and count as single consonants; the nasal is always homorganic with the stop. Since the lone velar nasal is ŋ, the digraph ng always means /ᵑɡ/.
+The prenasalized stops are written **mb, nd, nj, ng, mp, nt, nk** and count as single consonants; the nasal is always homorganic with the stop. Since the lone velar nasal is ŋ, the digraph ng always means /ᵑɡ/.
 
 The digraphs ch, sh, ny, ng can never be ambiguous: Kintu syllables are (N)C(G)V, so no other consonant clusters exist for the letter pairs to be misread as.
 

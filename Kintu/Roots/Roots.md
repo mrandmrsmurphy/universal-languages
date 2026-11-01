@@ -13,4 +13,3 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 - [[Kintu/Roots/ntu|ntu]] — person, human
 - [[Kintu/Roots/nyáma|nyáma]] — animal, meat
 - [[Kintu/Roots/ti|ti]] — tree
-- [[Kintu/Roots/tu|tu]] — thing

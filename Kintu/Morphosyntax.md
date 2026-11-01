@@ -14,13 +14,22 @@ Old Proto-Bantu 12–13 (diminutives etc.) differ too much across the region to 
 | 2 | Plural human | ba- | **bantu** “people” | |
 | 3 | Singular plant | mu- | **muti** “tree” | |
 | 4 | Plural plant | mi- | **miti** “trees” | |
-| 7 | Singular object | ki- | **kitu** “thing” | Assimilates old class 5 |
-| 8 | Plural object | bi- | **bitu** “things” | Assimilates old class 6 |
+| 7 | Singular object | ki- | **kintu** “thing” | Assimilates old class 5 |
+| 8 | Plural object | bi- | **bintu** “things” | Assimilates old class 6 |
 | 9 | Animal singular | n(i)- | **nyama** “animal” | |
 | 10 | Animal plural | ni- | **ninyama** “animals” | |
 | 14 | Abstract / collective | bu- | **buntu** “humanity” | Assimilates old class 11 |
 | 15 | Infinitives | ku- | **kubóna** “to see” | |
 | 17 | Locatives | ku- | **kunjila** “on the road” | Assimilates old 16 and 18 |
+
+## Nominal derivation
+
+Two productive suffixes, both Proto-Bantu, form nouns from verb roots:
+
+- **Agentive -i** (class 1/2): *mu-bón-i* “seer, witness”, plural *ba-bón-i*.
+- **Deverbal -o** (class 3/4 for an instance or result, class 14 for the abstract): *mu-bón-o* “sight, view”, *bu-bón-o* “vision, eyesight”.
+
+Roots also move between noun classes for related meanings: *-ntu* “person” gives *muntu* (1), *buntu* “humanity” (14) and *kintu* “thing” (7); *-ti* “tree” gives *muti* (3) and *kiti* “stool, wooden thing” (7).
 
 ## Verbs
 
@@ -63,14 +72,14 @@ Third-person subject and object markers otherwise agree with the noun class of t
 
 ### Extensions
 
-Derivational suffixes sit between the root and the final vowel, and stack. All seven continue the Proto-Bantu set, with the *d → l* sound change applied where the PB form had intervocalic *d*.
+Derivational suffixes sit between the root and the final vowel, and stack. All seven continue the Proto-Bantu set, with the *d → l* sound change applied where the PB form had intervocalic *d*. They apply where the resulting meaning is natural.
 
 | Function | PB | Kintu | Example |
 | --- | --- | --- | --- |
 | Causative | *-ici- | **-is-** | *bónisa* — make see, show |
 | Applicative | *-id- | **-il-** | *bónila* — see for/on behalf of |
-| Reciprocal | *-an- | **-an-** | *bónana* — see each other |
+| Reciprocal | *-an- | **-an-** | *bónana* — see each other, meet |
 | Passive | *-u- | **-w-** | *bónwa* — be seen |
-| Potential / stative | *-ik- | **-ik-** | *bónika* — be visible |
+| Potential / stative | *-ik- | **-ik-** | *bónika* — be visible, seem |
 | Reversive (transitive) | *-ud- | **-ul-** | *bónula* — un-see, render unseen |
 | Reversive (intransitive) | *-uk- | **-uk-** | *bónuka* — become unseen |
