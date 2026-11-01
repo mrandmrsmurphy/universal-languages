@@ -21,6 +21,8 @@ The zone follows Guthrie's regional groupings. A representative set is consulted
 - **Southern:** Shona, Nyanja (Chichewa), Zulu, Xhosa, Sotho, Tswana
 - **Southwest:** Umbundu, Herero
 
+The working check set — the columns of the Swadesh table and the languages every coinage is tested against — is six: **Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu**. They cover all four regions, include the family's largest second-language networks, and keep two seven-vowel languages (Lingala, Umbundu) in the set so the vowel-merger and spirantization decisions are always checked against daughters that never made them. Kinyarwanda stands in for Kirundi; the others in the full list remain background sources.
+
 Swahili is far larger than any of its neighbours and would dominate any simple vote, so the border regions are kept well clear of its weight: the Bantu languages of the Somali coast and the Comoros, and the Bantu languages of Cameroon, Gabon and the West African borderlands, are not consulted.
 
 ## Weighting
