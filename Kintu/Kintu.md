@@ -33,6 +33,7 @@
 - [[Kintu/Orthography]]
 - [[Kintu/Morphosyntax]]
 - [[Kintu/Lexicon/Lexicon]]
+- [[Kintu/Roots/Roots]]
 
 ## Lexicography
 

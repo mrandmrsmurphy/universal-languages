@@ -8,6 +8,7 @@
 | Part of speech | noun |
 | Gloss | animal; meat |
 | Class | 9/10; plural **ninyama** |
+| Root | [[Kintu/Roots/nyáma\|-nyáma]] |
 | Proto-Bantu | \*ɲáma |
 | Cognates | Swahili *nyama*, Zulu *inyama*, Shona *nyama*, Lingala *nyama* |
 | Swadesh | [[Swadesh]] № 44 |
