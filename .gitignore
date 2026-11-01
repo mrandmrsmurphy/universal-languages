@@ -13,3 +13,5 @@ __pycache__/
 files/ortaturk_karimov_mutalov_1992.pdf
 files/ortaturk_karimov_mutalov_1992_ocr.txt
 files/maps/Main-qimg-f956903f62e1ab12e9c06e400c4c1f0a.png  # superseded SEDES map (Britannica copyright)
+AIOS/data/BLR3/*.USR
+AIOS/data/BLR3/*.strings.txt
