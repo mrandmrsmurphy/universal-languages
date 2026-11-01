@@ -32,7 +32,8 @@
 - [[Kintu/Phonology]]
 - [[Kintu/Orthography]]
 - [[Kintu/Morphosyntax]]
+- [[Kintu/Lexicon/Lexicon]]
 
 ## Lexicography
 
-Cross-UL basic list: [[Swadesh]]. Language-specific Swadesh page TBD; Proto-Bantu roots to be drawn from the BLR3 reconstruction database.
+Cross-UL basic list: [[Swadesh]]; language-specific Swadesh page TBD, Proto-Bantu roots to be drawn from the BLR3 reconstruction database. Lexicon: [[Kintu/Lexicon/Lexicon]] (7 entries).

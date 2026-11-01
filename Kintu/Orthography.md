@@ -44,4 +44,4 @@ The letters c, q, x have no value of their own: c appears only inside ch, and q 
 
 ## Vowels and tone
 
-Five vowels, written as above; there is no length contrast, so vowels are never doubled. High tone is marked with an acute (´); low tone is unwritten: *muntu* “person”, *nyáma* “animal”.
+Five vowels, written as above; there is no length contrast, so vowels are never doubled. High tone is written with an acute, low tone with nothing: á é í ó ú against a e i o u — *muntu* “person”, *nyáma* “animal”.

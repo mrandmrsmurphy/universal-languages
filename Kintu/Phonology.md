@@ -28,7 +28,7 @@ Five vowels, with no height contrast among the mid vowels and no length contrast
 
 **Stress:** penultimate.
 
-**Tone:** low (unmarked) and high (´). Two tones only, to keep the system simple for speakers of both tonal and non-tonal languages. Tone is lexical and lives on roots: each root is specified high or low (a noun stem carries one high syllable at most), and all affixes — class prefixes, the negative *ka-*, subject and object markers, tense–aspect markers, extensions, final vowels — are toneless and surface low. Since every grammatical distinction in Kintu is affixal, tone never carries grammar.
+**Tone:** high tone is written with an acute (á é í ó ú); low tone is unmarked (a e i o u). Tone is lexical and lives on roots: each root is specified high or low (a noun stem carries one high syllable at most), and all affixes — class prefixes, the negative *ka-*, subject and object markers, tense–aspect markers, extensions, final vowels — are toneless and surface low. Since every grammatical distinction in Kintu is affixal, tone never carries grammar, and the language stays simple for speakers of both tonal and non-tonal languages.
 
 ## Phonotactics
 

@@ -19,8 +19,8 @@ Old Proto-Bantu 12–13 (diminutives etc.) differ too much across the region to 
 | 9 | Animal singular | n(i)- | **nyama** “animal” | |
 | 10 | Animal plural | ni- | **ninyama** “animals” | |
 | 14 | Abstract / collective | bu- | **buntu** “humanity” | Assimilates old class 11 |
-| 15 | Infinitives | ku- | **kubona** “to see” | |
-| 17 | Locatives | ku- | **kunzila** “on the road” | Assimilates old 16 and 18 |
+| 15 | Infinitives | ku- | **kubóna** “to see” | |
+| 17 | Locatives | ku- | **kunjila** “on the road” | Assimilates old 16 and 18 |
 
 ## Verbs
 
@@ -28,11 +28,11 @@ The verb follows the standard Bantu template:
 
 **NEG – SUBJ – TAM – OBJ – ROOT – EXT – FV**
 
-Example root **-bon-** “see”.
+Example root **-bón-** “see”.
 
 ### Negation
 
-**ka-**, the first slot, invariant regardless of person, tense or anything else: *ka-ni-na-bon-a* “I am not seeing”. With the subjunctive final vowel it covers negative commands: *ka-mu-bon-e* “he must not see”.
+**ka-**, the first slot, invariant regardless of person, tense or anything else: *ka-ni-na-bón-a* “I am not seeing”. With the subjunctive final vowel it covers negative commands: *ka-mu-bón-e* “he must not see”.
 
 ### Tense and aspect
 
@@ -40,13 +40,13 @@ One slot, filled by a tense marker and optionally an aspect marker after it. Ten
 
 | | Unmarked | Progressive | Habitual | Anterior |
 | --- | --- | --- | --- | --- |
-| **Non-past** | *nibona* — I see | *ninabona* — I am seeing | *nisabona* — I (habitually) see | *nimebona* — I have seen |
-| **Past** | *nilibona* — I saw | *nilinabona* — I was seeing | *nilisabona* — I used to see | *nilimebona* — I had seen |
-| **Future** | *nitabona* — I will see | *nitanabona* — I will be seeing | *nitasabona* — I will (habitually) see | *nitamebona* — I will have seen |
+| **Non-past** | *nibóna* — I see | *ninabóna* — I am seeing | *nisabóna* — I (habitually) see | *nimebóna* — I have seen |
+| **Past** | *nilibóna* — I saw | *nilinabóna* — I was seeing | *nilisabóna* — I used to see | *nilimebóna* — I had seen |
+| **Future** | *nitabóna* — I will see | *nitanabóna* — I will be seeing | *nitasabóna* — I will (habitually) see | *nitamebóna* — I will have seen |
 
 ### Mood
 
-The final vowel carries mood: **-a** indicative, **-e** subjunctive/jussive (*nibone* “let me see”). The imperative is the bare stem with final **-a**, plural **-ni**: *bona!* “see!”, *bonani!* “see! (pl.)”.
+The final vowel carries mood: **-a** indicative, **-e** subjunctive/jussive (*nibóne* “let me see”). The imperative is the bare stem with final **-a**, plural **-ni**: *bóna!* “see!”, *bónani!* “see! (pl.)”.
 
 ### Person markers
 
@@ -67,10 +67,10 @@ Derivational suffixes sit between the root and the final vowel, and stack. All s
 
 | Function | PB | Kintu | Example |
 | --- | --- | --- | --- |
-| Causative | *-ici- | **-is-** | *bonisa* — make see, show |
-| Applicative | *-id- | **-il-** | *bonila* — see for/on behalf of |
-| Reciprocal | *-an- | **-an-** | *bonana* — see each other |
-| Passive | *-u- | **-w-** | *bonwa* — be seen |
-| Potential / stative | *-ik- | **-ik-** | *bonika* — be visible |
-| Reversive (transitive) | *-ud- | **-ul-** | *bonula* — un-see, render unseen |
-| Reversive (intransitive) | *-uk- | **-uk-** | *bonuka* — become unseen |
+| Causative | *-ici- | **-is-** | *bónisa* — make see, show |
+| Applicative | *-id- | **-il-** | *bónila* — see for/on behalf of |
+| Reciprocal | *-an- | **-an-** | *bónana* — see each other |
+| Passive | *-u- | **-w-** | *bónwa* — be seen |
+| Potential / stative | *-ik- | **-ik-** | *bónika* — be visible |
+| Reversive (transitive) | *-ud- | **-ul-** | *bónula* — un-see, render unseen |
+| Reversive (intransitive) | *-uk- | **-uk-** | *bónuka* — become unseen |
