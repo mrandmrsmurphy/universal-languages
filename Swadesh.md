@@ -13,7 +13,7 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
 | [[Folksprak]] | [[Folksprak/Swadesh]] | №1–143 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
-| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 129 of 207 Middle Semitic cells filled |
+| [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 130 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] · [[Kintu]] | — | Not started |
@@ -175,7 +175,7 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 | 119 | to swim | <ruby>泳<rt>ㄨㄧㄫ</rt></ruby> | [[natar]] | [[Folksprak/Lexicon/ᛋᚹᛁᛗᛗᛖ\|ᛋᚹᛁᛗᛗᛖ svimme]] | [[плавати]] | — | — |
 | 120 | to fly | <ruby>飛<rt>ㄈㄝㄧ</rt></ruby> | [[volar]] | [[Folksprak/Lexicon/ᚠᛚᚣᚷᛖ\|ᚠᛚᚣᚷᛖ flyge]] | [[летати]] | — | — |
 | 121 | to walk | <ruby>行<rt>ㄏㄚㄫ</rt></ruby> | [[ambular]], [[promenar]] se]] | [[Folksprak/Lexicon/ᚷᚪᛖ\|ᚷᚪᛖ gae]] | [[ходити]] | — | — |
-| 122 | to come | <ruby>来<rt>ㄌㄚㄧ</rt></ruby> | [[venir]] | [[Folksprak/Lexicon/ᛣᚩᛗᛖ\|ᛣᚩᛗᛖ kome]] | [[приходити]] | — | — |
+| 122 | to come | <ruby>来<rt>ㄌㄚㄧ</rt></ruby> | [[venir]] | [[Folksprak/Lexicon/ᛣᚩᛗᛖ\|ᛣᚩᛗᛖ kome]] | [[приходити]] | ܐܬܝ | — |
 | 123 | to lie (down) (as on one's side) | <ruby>臥<rt>⺢</rt></ruby> | [[jacer]] | [[Folksprak/Lexicon/ᛚᛁᚷᛖ\|ᛚᛁᚷᛖ lige]] | [[лежати]] | — | — |
 | 124 | to sit | <ruby>坐<rt>ㄐ⺢</rt></ruby> | [[seder]] | [[Folksprak/Lexicon/ᛋᛁᛏᛏᛖ\|ᛋᛁᛏᛏᛖ sitte]] | [[седети]] | — | — |
 | 125 | to stand | <ruby>立<rt>ㄌㄧㄆ</rt></ruby> | [[star]] | [[Folksprak/Lexicon/ᛋᛏᚪᛖ\|ᛋᛏᚪᛖ stae]] | [[стояти]] | — | — |
@@ -210,19 +210,19 @@ Below, the six ULs with any coined forms are shown side by side, one table per s
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 147 | sun | <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> | [[sol]] | — | — | ܫܡܣܐ | — |
-| 148 | moon | <ruby>月<rt>⼔ㄊ</rt></ruby> | [[luna]] | — | — | ܘܪܚܐ | — |
-| 149 | star | <ruby>星<rt>ㄙㄝㄫ</rt></ruby> | [[stella]] | — | — | ܟܘܟܒܐ | — |
-| 150 | water | <ruby>水<rt>ㄙㄨ</rt></ruby> | [[aqua]] | — | — | ܡܝܐ | — |
-| 151 | rain | <ruby>雨<rt>ㄨ</rt></ruby> | [[pluvia]] | — | — | ܡܛܪܐ | — |
-| 152 | river | <ruby>川<rt>ㄑ⺢ㄋ</rt></ruby> | [[fluvio]] | — | — | ܢܗܪܐ | — |
-| 153 | lake | <ruby>湖水<rt>ㄏㄛㄨㄙㄨ</rt></ruby> | [[laco]] | — | — | — | — |
-| 154 | sea | <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> | [[mar]] | — | — | ܒܚܪܐ | — |
-| 155 | salt | <ruby>塩<rt>⼶ㄇ</rt></ruby> | [[sal]] | — | — | ܡܝܠܚܐ | — |
-| 156 | stone | <ruby>石<rt>ㄙㄝㄎ</rt></ruby> | [[petra]] | — | — | ܐܒܢܐ | — |
-| 157 | sand | <ruby>沙<rt>ㄙㄚ</rt></ruby> | [[arena]], [[sablo]] | — | — | — | — |
-| 158 | dust | <ruby>灰塵<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby> | [[pulvere]] | — | — | ܥܦܪܐ | — |
-| 159 | earth | <ruby>土<rt>ㄊㄛ</rt></ruby> | [[terra]] | ᛖᚱᛞ **erd** | — | ܐܪܨܐ | — |
+| 147 | sun | <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> | [[sol]] | — | [[солнце]] | ܫܡܣܐ | — |
+| 148 | moon | <ruby>月<rt>⼔ㄊ</rt></ruby> | [[luna]] | — | [[месец]] | ܘܪܚܐ | — |
+| 149 | star | <ruby>星<rt>ㄙㄝㄫ</rt></ruby> | [[stella]] | — | [[звезда]] | ܟܘܟܒܐ | — |
+| 150 | water | <ruby>水<rt>ㄙㄨ</rt></ruby> | [[aqua]] | — | [[вода]] | ܡܝܐ | — |
+| 151 | rain | <ruby>雨<rt>ㄨ</rt></ruby> | [[pluvia]] | — | [[дожд]] | ܡܛܪܐ | — |
+| 152 | river | <ruby>川<rt>ㄑ⺢ㄋ</rt></ruby> | [[fluvio]] | — | [[река]] | ܢܗܪܐ | — |
+| 153 | lake | <ruby>湖水<rt>ㄏㄛㄨㄙㄨ</rt></ruby> | [[laco]] | — | [[єзеро]] | — | — |
+| 154 | sea | <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> | [[mar]] | — | [[морє]] | ܒܚܪܐ | — |
+| 155 | salt | <ruby>塩<rt>⼶ㄇ</rt></ruby> | [[sal]] | — | [[сољ]] | ܡܝܠܚܐ | — |
+| 156 | stone | <ruby>石<rt>ㄙㄝㄎ</rt></ruby> | [[petra]] | — | [[камењ]] | ܐܒܢܐ | — |
+| 157 | sand | <ruby>沙<rt>ㄙㄚ</rt></ruby> | [[arena]], [[sablo]] | — | [[песок]] | — | — |
+| 158 | dust | <ruby>灰塵<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby> | [[pulvere]] | — | [[прах]] | ܥܦܪܐ | — |
+| 159 | earth | <ruby>土<rt>ㄊㄛ</rt></ruby> | [[terra]] | ᛖᚱᛞ **erd** | [[земя]] | ܐܪܨܐ | — |
 
 ### 160–171 Weather, fire and landscape
 

@@ -171,3 +171,16 @@ Pronouns and other inflected words get a Forms table.
 - [[Interslavic/Lexicon/плывти|плывти]] (plyvti) — to float, to swim
 - [[Interslavic/Lexicon/текти|текти]] (tekti) — to flow
 - [[Interslavic/Lexicon/пухнути|пухнути]] (puhnuti) — to swell
+- [[Interslavic/Lexicon/солнце|солнце]] (solnce) — sun
+- [[Interslavic/Lexicon/месец|месец]] (mesec) — moon; month
+- [[Interslavic/Lexicon/звезда|звезда]] (zvezda) — star
+- [[Interslavic/Lexicon/вода|вода]] (voda) — water
+- [[Interslavic/Lexicon/дожд|дожд]] (dožd) — rain
+- [[Interslavic/Lexicon/река|река]] (reka) — river
+- [[Interslavic/Lexicon/єзеро|єзеро]] (jezero) — lake
+- [[Interslavic/Lexicon/морє|морє]] (morje) — sea
+- [[Interslavic/Lexicon/сољ|сољ]] (solj) — salt
+- [[Interslavic/Lexicon/камењ|камењ]] (kamenj) — stone
+- [[Interslavic/Lexicon/песок|песок]] (pesok) — sand
+- [[Interslavic/Lexicon/прах|прах]] (prah) — dust
+- [[Interslavic/Lexicon/земя|земя]] (zemja) — earth, soil, ground, land

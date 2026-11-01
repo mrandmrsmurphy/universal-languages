@@ -196,19 +196,19 @@ List source: https://en.wiktionary.org/wiki/Appendix:Slavic_Swadesh_lists
 
 | № | English | OCS | Czech | Polish | Upper Sorbian | Russian | Interslavic |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 147 | sun | слъньцє | slunce | słońce | słónco, słónčko | солнце | — |
-| 148 | moon | мѣсѧць, лоуна | měsíc, luna | księżyc, miesiąc | měsačk | луна, месяц | — |
-| 149 | star | звѣзда | hvězda | gwiazda | hwězda | звезда | — |
-| 150 | water | вода | voda | woda | woda | вода | — |
-| 151 | rain | дъждь | déšť | deszcz | dešć | дождь | — |
-| 152 | river | рѣка | řeka | rzeka | rěka | река | — |
-| 153 | lake | ѥзєръ | jezero | jezioro | jězor | озеро | — |
-| 154 | sea | морѥ | moře | morze | morjo | море | — |
-| 155 | salt | соль | sůl | sól | sól | соль | — |
-| 156 | stone | камꙑ | kámen | kamień | kamjeń | камень | — |
-| 157 | sand | пѣсъкъ | písek | piasek | pěsk | песок | — |
-| 158 | dust | прахъ | prach | kurz, pył, proch | proch | пыль, прах | — |
-| 159 | earth | зємлꙗ | země | ziemia | zemja | земля | — |
+| 147 | sun | слъньцє | slunce | słońce | słónco, słónčko | солнце | [[солнце]] |
+| 148 | moon | мѣсѧць, лоуна | měsíc, luna | księżyc, miesiąc | měsačk | луна, месяц | [[месец]] |
+| 149 | star | звѣзда | hvězda | gwiazda | hwězda | звезда | [[звезда]] |
+| 150 | water | вода | voda | woda | woda | вода | [[вода]] |
+| 151 | rain | дъждь | déšť | deszcz | dešć | дождь | [[дожд]] |
+| 152 | river | рѣка | řeka | rzeka | rěka | река | [[река]] |
+| 153 | lake | ѥзєръ | jezero | jezioro | jězor | озеро | [[єзеро]] |
+| 154 | sea | морѥ | moře | morze | morjo | море | [[морє]] |
+| 155 | salt | соль | sůl | sól | sól | соль | [[сољ]] |
+| 156 | stone | камꙑ | kámen | kamień | kamjeń | камень | [[камењ]] |
+| 157 | sand | пѣсъкъ | písek | piasek | pěsk | песок | [[песок]] |
+| 158 | dust | прахъ | prach | kurz, pył, proch | proch | пыль, прах | [[прах]] |
+| 159 | earth | зємлꙗ | země | ziemia | zemja | земля | [[земя]] |
 
 ## 160–171 Weather, fire and landscape
 
