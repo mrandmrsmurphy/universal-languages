@@ -15,7 +15,7 @@
 | | unvoiced | f | s | | ʃ | h |
 | Approximant | | | r l | j | w | |
 
-*r* is a loan phoneme; see the *d~l* split below. *ŋ* is marginal outside the prenasalized series.
+*r* is a loan phoneme, as are *v* and *z*; see the notes below. *ŋ* is marginal outside the prenasalized series.
 
 ## Vowels
 
@@ -39,12 +39,12 @@ Syllables are (N)C(G)V: an optional homorganic nasal, one consonant, an optional
 
 Proto-Bantu had eleven consonants (*p t c k, b d j g, m n ɲ*), seven vowels — first-degree *i *u, second-degree (“super-close”) *ɪ *ʊ, and *e a o* — with a length contrast, and high/low tone. The changes from Proto-Bantu to Kintu apply in historical order:
 
-1. **Spirantization before the second-degree vowels.** Stops became fricatives before *ɪ and *ʊ, the close-vowel trigger shared across the family: *p → f, *b → v, *t → s, *d → z, *k → s. This produces most of the fricative series.
+1. **Partial spirantization before second-degree \*ɪ.** The voiceless stops \*p and \*k spirantize to *f* and *s* before the super-close front vowel \*ɪ — root-internally only. Voiced stops, \*t, prenasalized clusters, and grammatical prefixes are unaffected (compare Zulu *umuthi*, which likewise keeps \*t). This is the one native source of *f*, and a second source of *s*. The stronger spirantizations of the daughters (Swahili *-fupi*, Kinyarwanda *-gufi* < \*kʊ́pɪ́) did not generalize.
 2. **Palatalization after first-degree \*i** (the “preceding-I effects” of the southern languages): a close front vowel palatalized a following consonant (*n → ɲ, s → ʃ-type outcomes). This supplies part of the ɲ and ʃ material.
 3. **PB \*c → s** — the eastern reflex (Swahili, Luganda, Kinyarwanda).
 4. **PB \*d → d / l:** *d* word-initially and after nasals, *l* between vowels.
 5. **Vowel merger: \*ɪ → i, \*ʊ → u** (7 → 5) — the majority merger across the zone. It is ordered after the consonant changes so their close-vowel conditioning is still in force; the merger then erases the trigger.
 6. **Vowel length dropped.**
-7. **Loans** add *h* and *r* and reinforce the fricatives.
+7. **Loans** add *h*, *r*, *v* and *z*.
 
 Throughout, the PB high/low tone contrast is preserved on roots; only high is written.

@@ -48,10 +48,10 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/kiti|kiti]] — stool, seat
 - [[Kintu/Lexicon/kubá|kubá]] — home (class 17)
 - [[Kintu/Lexicon/kubóna|kubóna]] — seeing (class 15)
+- [[Kintu/Lexicon/kúfi|-kúfi]] — short (№33)
 - [[Kintu/Lexicon/kúlu|-kúlu]] — big (№27)
 - [[Kintu/Lexicon/kunu|kunu]] — here (№9)
 - [[Kintu/Lexicon/kudyá|kudyá]] — there (№10)
-- [[Kintu/Lexicon/kúpi|-kúpi]] — short (№33)
 - [[Kintu/Lexicon/kwí|kwí]] — where (№13)
 - [[Kintu/Lexicon/lini|lini]] — when (№14)
 - [[Kintu/Lexicon/mbá|mbá]] — house

@@ -62,7 +62,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 30 | thick | <ruby>厚<rt>ㄏㄛㄨ</rt></ruby> | [[spisse]] | [[Folksprak/Lexicon/ᛞᛁᛣ\|ᛞᛁᛣ dik]] | [[толсты]] | ܥܒܝ 2 | — | [[gini\|-gini]] |
 | 31 | heavy | <ruby>重<rt>ㄑㄛㄫ</rt></ruby> | [[pesante]] | [[Folksprak/Lexicon/ᛋᚹᛖᚱ\|ᛋᚹᛖᚱ sver]] | [[тежкы]] | ܟܒܝܕܐ | — | [[dito\|-dito]] |
 | 32 | small (little) | <ruby>小<rt>ㄙㄛ</rt></ruby> | [[parve]] | [[Folksprak/Lexicon/ᛚᛁᛏᛏ\|ᛚᛁᛏᛏ litt]] | [[малы]] | ܨܥܝܪܐ | — | [[to\|-to]] |
-| 33 | short | <ruby>短<rt>ㄉ⺢ㄋ</rt></ruby> | [[curte]] | [[Folksprak/Lexicon/ᛣᚢᚱᛏ\|ᛣᚢᚱᛏ kurt]] | [[краткы]] | ܩܨܪܐ | — | [[kúpi\|-kúpi]] |
+| 33 | short | <ruby>短<rt>ㄉ⺢ㄋ</rt></ruby> | [[curte]] | [[Folksprak/Lexicon/ᛣᚢᚱᛏ\|ᛣᚢᚱᛏ kurt]] | [[краткы]] | ܩܨܪܐ | — | [[kúfi\|-kúfi]] |
 | 34 | narrow | <ruby>狭窄<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby> | [[stricte]] | [[Folksprak/Lexicon/ᛋᛗᚪᛚ\|ᛋᛗᚪᛚ smal]] | [[вузкы]] | ܨܪܪܐ | — | — |
 | 35 | thin | <ruby>希薄<rt>ㄏㄧㄜㄅㄚㄎ</rt></ruby> | [[tenue]] | [[Folksprak/Lexicon/ᛞᚢᚾᚾ\|ᛞᚢᚾᚾ dunn]] | [[тенкы]] | ܪܩܝܩܐ | — | — |
 

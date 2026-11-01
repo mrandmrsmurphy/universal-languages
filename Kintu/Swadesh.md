@@ -47,7 +47,7 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 | 30 | thick | *gɪ̀n- “be fat, be thick” | -nene |  |  |  |  |  | [[gini\|-gini]] |
 | 31 | heavy | *dìtò | -zito |  |  | -nzima | -rema |  | [[dito\|-dito]] |
 | 32 | small (little) | *tòò | -dogo | -to | -moke | -ncane | -diki |  | [[to\|-to]] |
-| 33 | short | *kʊ́pɪ́ | -fupi | -gufi |  | -fushane | -pfupi |  | [[kúpi\|-kúpi]] |
+| 33 | short | *kʊ́pɪ́ | -fupi | -gufi |  | -fushane | -pfupi |  | [[kúfi\|-kúfi]] |
 | 34 | narrow | | | | | | | | — |
 | 35 | thin | | | | | | | | — |
 
