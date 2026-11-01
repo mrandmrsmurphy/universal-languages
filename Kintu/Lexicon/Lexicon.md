@@ -27,11 +27,14 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 
 - [[Kintu/Lexicon/balí|-balí]] — two (№23)
 - [[Kintu/Lexicon/babá|babá]] — father (№43)
+- [[Kintu/Lexicon/biputa|biputa]] — fat, grease (№66) †
 - [[Kintu/Lexicon/bóna|bóna]] — to see (№101)
+- [[Kintu/Lexicon/bubudi|bubudi]] — hair (№71) †
 - [[Kintu/Lexicon/bubóno|bubóno]] — vision, eyesight
+- [[Kintu/Lexicon/bujáni|bujáni]] — grass (№60) †
 - [[Kintu/Lexicon/buntu|buntu]] — humanity
 - [[Kintu/Lexicon/bunyáma|bunyáma]] — animality
-- [[Kintu/Lexicon/buti|buti]] — forest, woods
+- [[Kintu/Lexicon/buti|buti]] — forest (№52) †
 - [[Kintu/Lexicon/de|-de]] — long (№28)
 - [[Kintu/Lexicon/dito|-dito]] — heavy (№31)
 - [[Kintu/Lexicon/eye|eye]] — he, she (№3)
@@ -45,8 +48,13 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/ka|ka]] — no, not (№16)
 - [[Kintu/Lexicon/ké|-ké]] — few (№20)
 - [[Kintu/Lexicon/kí|kí]] — what (№12)
+- [[Kintu/Lexicon/kibuma|kibuma]] — fruit (№54)
 - [[Kintu/Lexicon/kibungú|kibungú]] — worm (№50)
+- [[Kintu/Lexicon/kiduba|kiduba]] — flower (№59)
+- [[Kintu/Lexicon/kigí|kigí]] — egg (№67)
+- [[Kintu/Lexicon/kijáni|kijáni]] — leaf (№56)
 - [[Kintu/Lexicon/kintu|kintu]] — thing
+- [[Kintu/Lexicon/kisáda|kisáda]] — feather (№70)
 - [[Kintu/Lexicon/kiti|kiti]] — stool, seat
 - [[Kintu/Lexicon/kubá|kubá]] — home (class 17)
 - [[Kintu/Lexicon/kubóna|kubóna]] — seeing (class 15)
@@ -58,14 +66,20 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/lini|lini]] — when (№14)
 - [[Kintu/Lexicon/máma|máma]] — mother (№42)
 - [[Kintu/Lexicon/mbá|mbá]] — house
+- [[Kintu/Lexicon/mbégu|mbégu]] — seed (№55)
 - [[Kintu/Lexicon/mbúwa|mbúwa]] — dog (№47)
 - [[Kintu/Lexicon/moja|-moja]] — one (№22) †
+- [[Kintu/Lexicon/mpembe|mpembe]] — horn (№68) †
 - [[Kintu/Lexicon/mubóni|mubóni]] — seer, witness
 - [[Kintu/Lexicon/mubóno|mubóno]] — sight, view
+- [[Kintu/Lexicon/mudi|mudi]] — root (№57)
+- [[Kintu/Lexicon/mudopa|mudopa]] — blood (№64)
 - [[Kintu/Lexicon/mudúme|mudúme]] — man; husband (№37, 41)
 - [[Kintu/Lexicon/mujána|mujána]] — child (№39) †
 - [[Kintu/Lexicon/mukáli|mukáli]] — woman; wife (№36, 40)
+- [[Kintu/Lexicon/mukupa|mukupa]] — bone (№65) †
 - [[Kintu/Lexicon/muntu|muntu]] — person (№38)
+- [[Kintu/Lexicon/musíla|musíla]] — tail (№69)
 - [[Kintu/Lexicon/muti|muti]] — tree (№51)
 - [[Kintu/Lexicon/mwe|-mwe]] — some (№19) †
 - [[Kintu/Lexicon/nani|nani]] — who (№11)
@@ -76,8 +90,10 @@ Title is the tone-marked form, followed by a table with these rows (omit a row t
 - [[Kintu/Lexicon/njila|njila]] — road, way (№170)
 - [[Kintu/Lexicon/njóka|njóka]] — snake (№49)
 - [[Kintu/Lexicon/njuni|njuni]] — bird (№46) †
+- [[Kintu/Lexicon/nkánda|nkánda]] — skin (№62)
 - [[Kintu/Lexicon/nsómba|nsómba]] — fish (№45)
-- [[Kintu/Lexicon/nyáma|nyáma]] — animal (№44)
+- [[Kintu/Lexicon/ntambo|ntambo]] — rope (№61) †
+- [[Kintu/Lexicon/nyáma|nyáma]] — animal; meat (№44, 63)
 - [[Kintu/Lexicon/onse|-onse]] — all (№17)
 - [[Kintu/Lexicon/sánu|-sánu]] — five (№26)
 - [[Kintu/Lexicon/tatu|-tatu]] — three (№24)
