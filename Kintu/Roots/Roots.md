@@ -8,14 +8,16 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 
 ## Entries
 
-- [[Kintu/Roots/bad|bad]] — split
+- [[Kintu/Roots/bad|bad]] — split; count
 - [[Kintu/Roots/bawa|bawa]] — wing
 - [[Kintu/Roots/bá|bá]] — enclosure, house, yard
 - [[Kintu/Roots/béde|béde]] — breast, udder
 - [[Kintu/Roots/bégu|bégu]] — seed
 - [[Kintu/Roots/bet|bet]] — hit
+- [[Kintu/Roots/bímb|bímb]] — swell
 - [[Kintu/Roots/bindi|bindi]] — liver
 - [[Kintu/Roots/bind|bind]] — hunt
+- [[Kintu/Roots/bín|bín]] — sing, dance
 - [[Kintu/Roots/bi|bi]] — knee
 - [[Kintu/Roots/bóko|bóko]] — arm, hand
 - [[Kintu/Roots/bón|bón]] — see
@@ -27,9 +29,12 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 - [[Kintu/Roots/bungú|bungú]] — worm, caterpillar
 - [[Kintu/Roots/butam|butam]] — sit
 - [[Kintu/Roots/dád|dád]] — sleep
+- [[Kintu/Roots/dás|dás]] — throw, shoot
 - [[Kintu/Roots/dá|dá]] — louse
+- [[Kintu/Roots/déd|déd]] — float, glide
 - [[Kintu/Roots/denge|denge]] — foot, hoof
 - [[Kintu/Roots/dími|dími]] — tongue; language
+- [[Kintu/Roots/dítik|dítik]] — tie a knot
 - [[Kintu/Roots/dí|dí]] — eat
 - [[Kintu/Roots/di|di]] — root, fibre
 - [[Kintu/Roots/domo|domo]] — lip, mouth
@@ -39,14 +44,18 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 - [[Kintu/Roots/dumb|dumb]] — smell
 - [[Kintu/Roots/dúme|dúme]] — male, husband
 - [[Kintu/Roots/dúm|dúm]] — bite
+- [[Kintu/Roots/dut|dut]] — pull, drag
 - [[Kintu/Roots/du|du]] — fight
 - [[Kintu/Roots/fíp|fíp]] — suck
+- [[Kintu/Roots/gab|gab]] — give
 - [[Kintu/Roots/gaŋgan|gaŋgan]] — think
+- [[Kintu/Roots/ged|ged]] — flow
 - [[Kintu/Roots/gend|gend]] — walk, go
 - [[Kintu/Roots/gí|gí]] — egg
 - [[Kintu/Roots/gongo|gongo]] — back, backbone
 - [[Kintu/Roots/gudu|gudu]] — leg
 - [[Kintu/Roots/guluk|guluk]] — fly, run fast
+- [[Kintu/Roots/gu|gu]] — fall
 - [[Kintu/Roots/jáda|jáda]] — fingernail, claw
 - [[Kintu/Roots/jána|jána]] — child
 - [[Kintu/Roots/jáni|jáni]] — leaf; grass
@@ -60,8 +69,10 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 - [[Kintu/Roots/júm|júm]] — live; life
 - [[Kintu/Roots/juni|juni]] — bird
 - [[Kintu/Roots/káli|káli]] — woman, wife
+- [[Kintu/Roots/kám|kám]] — squeeze, wring
 - [[Kintu/Roots/kánda|kánda]] — skin; cloth
 - [[Kintu/Roots/kat|kat]] — cut
+- [[Kintu/Roots/kumbat|kumbat]] — hold
 - [[Kintu/Roots/kupa|kupa]] — bone
 - [[Kintu/Roots/kutu|kutu]] — ear
 - [[Kintu/Roots/kú|kú]] — die
@@ -76,13 +87,19 @@ Words built on each root are listed in the root's entry and live in [[Kintu/Lexi
 - [[Kintu/Roots/púm|púm]] — breathe
 - [[Kintu/Roots/puta|puta]] — fat, grease
 - [[Kintu/Roots/sáda|sáda]] — feather
+- [[Kintu/Roots/sand|sand]] — turn over
 - [[Kintu/Roots/sek|sek]] — laugh
 - [[Kintu/Roots/síla|síla]] — tail
 - [[Kintu/Roots/simb|simb]] — dig
 - [[Kintu/Roots/síngo|síngo]] — neck
+- [[Kintu/Roots/sín|sín]] — play, dance
+- [[Kintu/Roots/siŋg|siŋg]] — rub, smear
 - [[Kintu/Roots/sómba|sómba]] — fish
+- [[Kintu/Roots/son|son]] — sew
+- [[Kintu/Roots/suk|suk]] — wash
 - [[Kintu/Roots/tambo|tambo]] — rope
 - [[Kintu/Roots/tíma|tíma]] — heart
+- [[Kintu/Roots/tínd|tínd]] — push
 - [[Kintu/Roots/tín|tín]] — fear
 - [[Kintu/Roots/ti|ti]] — tree
 - [[Kintu/Roots/tumbo|tumbo]] — belly

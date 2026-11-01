@@ -170,27 +170,27 @@ List source: the vault-standard 207 ([[Swadesh]]); Proto-Bantu from BLR3 (Bastin
 
 | № | English | Proto-Bantu | Swahili | Kinyarwanda | Lingala | Zulu | Shona | Umbundu | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 126 | to turn | | | | | | | | — |
-| 127 | to fall | | | | | | | | — |
-| 128 | to give | | | | | | | | — |
-| 129 | to hold | | | | | | | | — |
-| 130 | to squeeze | | | | | | | | — |
-| 131 | to rub | | | | | | | | — |
-| 132 | to wash | | | | | | | | — |
-| 133 | to wipe | | | | | | | | — |
-| 134 | to pull (drag) | | | | | | | | — |
-| 135 | to push | | | | | | | | — |
-| 136 | to throw | | | | | | | | — |
-| 137 | to tie (bind) | | | | | | | | — |
-| 138 | to sew | | | | | | | | — |
-| 139 | to count | | | | | | | | — |
-| 140 | to say | | | | | | | | — |
-| 141 | to sing | | | | | | | | — |
-| 142 | to play | | | | | | | | — |
-| 143 | to float | | | | | | | | — |
-| 144 | to flow, to run | | | | | | | | — |
-| 145 | to freeze | | | | | | | | — |
-| 146 | to swell | | | | | | | | — |
+| 126 | to turn | *càndʊ̀d- | -geuka | -hindura |  | -guqula |  |  | [[sandula]] / [[sanduka]] † |
+| 127 | to fall | *gʊ̀- | -anguka | -gwa |  | -wa | -wa |  | [[guwa]] |
+| 128 | to give | *gàb- | -pa | -ha |  | -nika | -pa |  | [[gaba]] |
+| 129 | to hold | *kʊ́mbàt- | -shika | -fata |  | -bamba | -bata |  | [[kumbata]] |
+| 130 | to squeeze | *kám- | -kama |  |  | -cindezela |  |  | [[káma]] |
+| 131 | to rub | *cɪ̀ŋg- |  |  |  |  |  |  | [[siŋga]] |
+| 132 | to wash | *cʊ̀k- | -osha |  |  | -geza | -suka |  | [[suka]] |
+| 133 | to wipe |  | -futa |  |  | -sula | -pukuta |  | — |
+| 134 | to pull (drag) | *dʊ̀t- | -vuta |  |  | -donsa |  |  | [[duta]] |
+| 135 | to push | *tɪ́nd- | -sukuma |  |  |  |  | [[tínda]] |
+| 136 | to throw | *dác- | -tupa |  |  |  |  | [[dása]] |
+| 137 | to tie (bind) | *dɪ́tɪk- | -funga |  |  | -bopha |  |  | [[dítika]] |
+| 138 | to sew | *còn- | -shona |  |  | -thunga | -sona |  | [[sona]] |
+| 139 | to count | *bàd- | -hesabu | -bara |  | -bala | -verenga |  | [[bada]] |
+| 140 | to say | *tɪ̀ | -sema |  |  | -thi |  |  | [[tya]] |
+| 141 | to sing | *bɪ́n- | -imba |  |  |  |  | [[bína]] |
+| 142 | to play | *kɪ́n- | -cheza |  |  | -dlala |  |  | [[sína]] |
+| 143 | to float | *déd- |  |  |  |  |  |  | [[déda]] |
+| 144 | to flow, to run | *gèd- | -tiririka |  |  |  |  | [[geda]] |
+| 145 | to freeze |  | -ganda |  |  |  |  | — |
+| 146 | to swell | *bɪ́mb- | -vimba |  |  |  |  | [[bímba]] |
 
 ## 147–159 Sun, water and ground
 

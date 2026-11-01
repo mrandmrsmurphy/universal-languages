@@ -16,7 +16,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
 | [[SEDES]] | [[SEDES/Swadesh]] | Comparative table (Amharic, Somali, Oromo, Beja); SEDES column begun |
-| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–125 coined (34–35, 53, 58 open) |
+| [[Kintu]] | [[Kintu/Swadesh]] | Comparative table (Proto-Bantu, Swahili, Kinyarwanda, Lingala, Zulu, Shona, Umbundu); №1–146 coined (34–35, 53, 58, 133, 145 open) |
 | [[Neo-Sanskrit]] · [[MSEAL]] · [[Indo-Malay]] · [[Guosa]] · [[Ortatürk]] · [[Zens]] · [[Balkan]] · [[Dravindian]] | — | Not started |
 
 ## The 207 in 13 sets
@@ -185,27 +185,27 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 126 | to turn | <ruby>転化<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby> | [[tornar]] | [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ\|ᚹᛖᚾᛞᛖ vende]] | — | — | — | — |
-| 127 | to fall | <ruby>落下<rt>ㄌㄚㄎㄏㄚ</rt></ruby> | [[cader]] | [[Folksprak/Lexicon/ᚠᚪᛚᛖ\|ᚠᚪᛚᛖ fale]] | [[падати]] | — | — | — |
-| 128 | to give | <ruby>贈与<rt>ㄐㄜㄫ⼄</rt></ruby> | [[dar]] | [[Folksprak/Lexicon/ᚷᛖᚹᛖ\|ᚷᛖᚹᛖ geve]] | [[дати]] | — | — | — |
-| 129 | to hold | <ruby>持<rt>ㄉㄧ</rt></ruby> | [[tener]] | [[Folksprak/Lexicon/ᚻᚪᛚᛞᛖ\|ᚻᚪᛚᛞᛖ halde]] | [[држати]] | — | — | — |
-| 130 | to squeeze | <ruby>絞捻<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby> | [[premer]] | [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ\|ᛣᛚᛖᛗᛗᛖ klemme]] | [[тискати]] | — | — | — |
-| 131 | to rub | <ruby>擦<rt>ㄑㄚㄊ</rt></ruby> | [[fricar]] | [[Folksprak/Lexicon/ᚷᚾᛁᛞᛖ\|ᚷᚾᛁᛞᛖ gnide]] | [[трети]] | — | — | — |
-| 132 | to wash | <ruby>洗<rt>ㄙㄝㄋ</rt></ruby> | [[lavar]] | [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ\|ᚹᚪᛋᛣᛖ vaske]] | [[мыти]] | — | — | — |
+| 126 | to turn | <ruby>転化<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby> | [[tornar]] | [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ\|ᚹᛖᚾᛞᛖ vende]] | — | — | — | [[sandula]] / [[sanduka]] † |
+| 127 | to fall | <ruby>落下<rt>ㄌㄚㄎㄏㄚ</rt></ruby> | [[cader]] | [[Folksprak/Lexicon/ᚠᚪᛚᛖ\|ᚠᚪᛚᛖ fale]] | [[падати]] | — | — | [[guwa]] |
+| 128 | to give | <ruby>贈与<rt>ㄐㄜㄫ⼄</rt></ruby> | [[dar]] | [[Folksprak/Lexicon/ᚷᛖᚹᛖ\|ᚷᛖᚹᛖ geve]] | [[дати]] | — | — | [[gaba]] |
+| 129 | to hold | <ruby>持<rt>ㄉㄧ</rt></ruby> | [[tener]] | [[Folksprak/Lexicon/ᚻᚪᛚᛞᛖ\|ᚻᚪᛚᛞᛖ halde]] | [[држати]] | — | — | [[kumbata]] |
+| 130 | to squeeze | <ruby>絞捻<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby> | [[premer]] | [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ\|ᛣᛚᛖᛗᛗᛖ klemme]] | [[тискати]] | — | — | [[káma]] |
+| 131 | to rub | <ruby>擦<rt>ㄑㄚㄊ</rt></ruby> | [[fricar]] | [[Folksprak/Lexicon/ᚷᚾᛁᛞᛖ\|ᚷᚾᛁᛞᛖ gnide]] | [[трети]] | — | — | [[siŋga]] |
+| 132 | to wash | <ruby>洗<rt>ㄙㄝㄋ</rt></ruby> | [[lavar]] | [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ\|ᚹᚪᛋᛣᛖ vaske]] | [[мыти]] | — | — | [[suka]] |
 | 133 | to wipe | <ruby>擦拭<rt>ㄑㄚㄊㄙㄧㄎ</rt></ruby> | [[essugar]] | [[Folksprak/Lexicon/ᚹᛁᛈᛖ\|ᚹᛁᛈᛖ vipe]] | [[утрети]] | — | — | — |
-| 134 | to pull (drag) | <ruby>引<rt>ㄧㄋ</rt></ruby> | [[tirar]] | [[Folksprak/Lexicon/ᛏᚣᛄᛖ\|ᛏᚣᛄᛖ tyje]] | [[тегнути]] | — | — | — |
-| 135 | to push | <ruby>推<rt>ㄑㄨㄧ</rt></ruby> | [[pulsar]] | [[Folksprak/Lexicon/ᛞᚱᚢᛣᛖ\|ᛞᚱᚢᛣᛖ druke]] | [[пхати]] | — | — | — |
-| 136 | to throw | <ruby>投<rt>ㄉㄛㄨ</rt></ruby> | [[jectar]] | [[Folksprak/Lexicon/ᚹᛖᚱᛈᛖ\|ᚹᛖᚱᛈᛖ verpe]] | [[метати]] | ܪܡܝ | — | — |
-| 137 | to tie (bind) | <ruby>繋辞<rt>ㄏㄝㄧㄑㄧ</rt></ruby> | [[ligar]] | [[Folksprak/Lexicon/ᛒᛁᚾᛞᛖ\|ᛒᛁᚾᛞᛖ binde]] | — | ܐܣܪ | — | — |
-| 138 | to sew | <ruby>縫製<rt>ㄅㄛㄫㄐㄝ</rt></ruby> | [[suer]] | [[Folksprak/Lexicon/ᚾᛖᛄᛖ\|ᚾᛖᛄᛖ neje]] | [[шити]] | — | — | — |
-| 139 | to count | <ruby>計数<rt>ㄍㄝㄧㄙㄨ</rt></ruby> | [[contar]] | [[Folksprak/Lexicon/ᛏᛖᛚᛚᛖ\|ᛏᛖᛚᛚᛖ telle]] | [[числити]] | — | — | — |
-| 140 | to say | <ruby>言<rt>ㄝㄋ</rt></ruby> | [[dicer]] | [[Folksprak/Lexicon/ᛋᛖᚷᛖ\|ᛋᛖᚷᛖ sege]] | [[говорити]] | — | — | — |
-| 141 | to sing | <ruby>唱歌<rt>ㄑ⺢ㄫㄍㄜ</rt></ruby> | [[cantar]] | [[Folksprak/Lexicon/ᛋᛁᚾᚷᛖ\|ᛋᛁᚾᚷᛖ singe]] | [[спевати]] | ܙܡܪ | — | — |
-| 142 | to play | <ruby>遊戯<rt>⼜ㄛㄏㄨㄧ</rt></ruby> | [[jocar]] | [[Folksprak/Lexicon/ᛋᛈᛁᛚᛖ\|ᛋᛈᛁᛚᛖ spile]] | [[играти]] | — | — | — |
-| 143 | to float | <ruby>浮<rt>ㄅㄨㄛ</rt></ruby> | [[flottar]] | [[Folksprak/Lexicon/ᚠᛚᚣᛏᛖ\|ᚠᛚᚣᛏᛖ flyte]] | [[плывти]] | — | — | — |
-| 144 | to flow, to run | <ruby>流動<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> | [[fluer]] | — | [[текти]] | — | — | — |
+| 134 | to pull (drag) | <ruby>引<rt>ㄧㄋ</rt></ruby> | [[tirar]] | [[Folksprak/Lexicon/ᛏᚣᛄᛖ\|ᛏᚣᛄᛖ tyje]] | [[тегнути]] | — | — | [[duta]] |
+| 135 | to push | <ruby>推<rt>ㄑㄨㄧ</rt></ruby> | [[pulsar]] | [[Folksprak/Lexicon/ᛞᚱᚢᛣᛖ\|ᛞᚱᚢᛣᛖ druke]] | [[пхати]] | — | — | [[tínda]] |
+| 136 | to throw | <ruby>投<rt>ㄉㄛㄨ</rt></ruby> | [[jectar]] | [[Folksprak/Lexicon/ᚹᛖᚱᛈᛖ\|ᚹᛖᚱᛈᛖ verpe]] | [[метати]] | ܪܡܝ | — | [[dása]] |
+| 137 | to tie (bind) | <ruby>繋辞<rt>ㄏㄝㄧㄑㄧ</rt></ruby> | [[ligar]] | [[Folksprak/Lexicon/ᛒᛁᚾᛞᛖ\|ᛒᛁᚾᛞᛖ binde]] | — | ܐܣܪ | — | [[dítika]] |
+| 138 | to sew | <ruby>縫製<rt>ㄅㄛㄫㄐㄝ</rt></ruby> | [[suer]] | [[Folksprak/Lexicon/ᚾᛖᛄᛖ\|ᚾᛖᛄᛖ neje]] | [[шити]] | — | — | [[sona]] |
+| 139 | to count | <ruby>計数<rt>ㄍㄝㄧㄙㄨ</rt></ruby> | [[contar]] | [[Folksprak/Lexicon/ᛏᛖᛚᛚᛖ\|ᛏᛖᛚᛚᛖ telle]] | [[числити]] | — | — | [[bada]] |
+| 140 | to say | <ruby>言<rt>ㄝㄋ</rt></ruby> | [[dicer]] | [[Folksprak/Lexicon/ᛋᛖᚷᛖ\|ᛋᛖᚷᛖ sege]] | [[говорити]] | — | — | [[tya]] |
+| 141 | to sing | <ruby>唱歌<rt>ㄑ⺢ㄫㄍㄜ</rt></ruby> | [[cantar]] | [[Folksprak/Lexicon/ᛋᛁᚾᚷᛖ\|ᛋᛁᚾᚷᛖ singe]] | [[спевати]] | ܙܡܪ | — | [[bína]] |
+| 142 | to play | <ruby>遊戯<rt>⼜ㄛㄏㄨㄧ</rt></ruby> | [[jocar]] | [[Folksprak/Lexicon/ᛋᛈᛁᛚᛖ\|ᛋᛈᛁᛚᛖ spile]] | [[играти]] | — | — | [[sína]] |
+| 143 | to float | <ruby>浮<rt>ㄅㄨㄛ</rt></ruby> | [[flottar]] | [[Folksprak/Lexicon/ᚠᛚᚣᛏᛖ\|ᚠᛚᚣᛏᛖ flyte]] | [[плывти]] | — | — | [[déda]] |
+| 144 | to flow, to run | <ruby>流動<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> | [[fluer]] | — | [[текти]] | — | — | [[geda]] |
 | 145 | to freeze | <ruby>凍結<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby> | [[gelar]] | — | — | — | — | — |
-| 146 | to swell | <ruby>膨脹<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby> | [[tumer]] | — | [[пухнути]] | — | — | — |
+| 146 | to swell | <ruby>膨脹<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby> | [[tumer]] | — | [[пухнути]] | — | — | [[bímba]] |
 
 ### 147–159 Sun, water and ground
 
