@@ -28,7 +28,7 @@ Five vowels, with no height contrast among the mid vowels and no length contrast
 
 **Stress:** penultimate.
 
-**Tone:** low (unmarked) and high (´). Two tones only, to keep the system simple for speakers of both tonal and non-tonal languages.
+**Tone:** low (unmarked) and high (´). Two tones only, to keep the system simple for speakers of both tonal and non-tonal languages. Tone is lexical and lives on roots: each root is specified high or low (a noun stem carries one high syllable at most), and all affixes — class prefixes, the negative *ka-*, subject and object markers, tense–aspect markers, extensions, final vowels — are toneless and surface low. Since every grammatical distinction in Kintu is affixal, tone never carries grammar.
 
 ## Phonotactics
 
@@ -46,4 +46,4 @@ Proto-Bantu had eleven consonants (*p t c k, b d j g, m n ɲ*), seven vowels —
 6. **Vowel length dropped.**
 7. **Loans** add *h* and *r* and reinforce the fricatives.
 
-Throughout, the PB high/low tone contrast is preserved; only high is written.
+Throughout, the PB high/low tone contrast is preserved on roots; only high is written.
