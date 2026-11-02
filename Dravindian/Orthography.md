@@ -13,7 +13,7 @@ Dravindian is written in the Brāhmī script. The language's name: 𑀩𑁆𑀭�
 | Voiced stops | /b/ 𑀩 | /d/ 𑀤 | /ɖ/ 𑀟 | /dʒ~ɟ/ 𑀚 | /g/ 𑀕 |
 | Fricatives | /f~v~ʋ/ 𑀯 | /s~z/ 𑀲 | /ʂ/ 𑀱 | /ɕ/ 𑀰 | /h/ 𑀳 |
 | Laterals | | /l/ 𑀮 | /ɭ/ 𑀴 | | |
-| Approximants | | /r/ 𑀭 | /ɻ/ 𑀶 | /j/ 𑀬 | |
+| Approximants | | /r/ 𑀭 | /ɻ/ 𑀵 | /j/ 𑀬 | |
 
 The non-native loanword series keep their own letters:
 
@@ -27,7 +27,17 @@ The non-native loanword series keep their own letters:
 | | Front short | Front long | Back short | Back long |
 | --- | --- | --- | --- | --- |
 | High | /i/ 𑀇 | /iː/ 𑀈 | /u/ 𑀉 | /uː/ 𑀊 |
-| Mid | /e/ 𑀏 | /eː/ 𑀏𑁳 | /o/ 𑀑 | /oː/ 𑀑𑁰 |
+| Mid | /e/ 𑁱 | /eː/ 𑀏 | /o/ 𑁲 | /oː/ 𑀑 |
 | Low | | | /a/ 𑀅 | /aː/ 𑀆 |
 
-Long ē and ō are written with the signs 𑁳 and 𑁰 following the short-vowel letter.
+Diphthongs: /ai/ 𑀐 and /au/ 𑀒 (signs 𑁃 and 𑁅 after a consonant).
+
+Brāhmī 𑀏 and 𑀑 are the long vowels /eː/ and /oː/, as in Tamil-Brāhmī. The short vowels /e/ and /o/ use the Old Tamil letters 𑁱 and 𑁲 (signs 𑁳 and 𑁴 after a consonant).
+
+## Vowel signs
+
+After a consonant the inherent vowel is /a/; the other vowels are written with signs, and 𑁆 (virama) cancels the inherent vowel.
+
+| /a/ | /aː/ | /i/ | /iː/ | /u/ | /uː/ | /e/ | /eː/ | /o/ | /oː/ | virama |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (inherent) | 𑀸 | 𑀺 | 𑀻 | 𑀼 | 𑀽 | 𑁳 | 𑁂 | 𑁴 | 𑁄 | 𑁆 |

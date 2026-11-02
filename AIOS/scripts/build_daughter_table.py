@@ -64,8 +64,8 @@ CONFIG = {
     'Dravindian': dict(
         langs=[('tml', 'Tamil'), ('tel', 'Telugu'), ('knd', 'Kannada'), ('mym', 'Malayalam'),
                ('tul', 'Tulu'), ('gon', 'Gondi')],
-        ul={'81A': 'SOV', '78A': 'No', '49A': '8', '90A': 'post', '30A': '3', '13A': 'No', '37A': 'No',
-            '38A': 'No', '39A': 'Yes', '20A': 'A', '65A': 'Yes', '27A': 'Yes', '2A': '5', '14A': 'R',
+        ul={'81A': 'SOV', '78A': 'No', '49A': '8', '90A': 'ante', '30A': '3', '13A': 'No', '37A': 'No',
+            '38A': 'No', '39A': 'Yes', '20A': 'A', '65A': 'Yes', '27A': 'Yes', '2A': '5', '14A': 'L',
             '98A': 'NA', '45A': 'Yes', '116A': 'No (verb)', '67A': 'Yes', '112A': 'VA'}),
     'Balkan': dict(
         langs=[('grk', 'Greek'), ('tur', 'Turkish'), ('alb', 'Albanian'), ('scr', 'Serbo-Croatian'),

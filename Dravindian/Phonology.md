@@ -30,8 +30,14 @@ Five vowels, each short and long:
 | Mid | e | eː | o | oː |
 | Low | | | a | aː |
 
+Two diphthongs, /ai/ and /au/, behave as single long nuclei.
+
 No phonemic nasal vowels — like the source languages, nasality is at most allophonic before nasal consonants.
 
 ## Phonotactics
 
-CVN is the maximum syllable. Any consonant can geminate; a geminate straddles the syllable boundary and does not count as the previous syllable's coda.
+CVN is the maximum syllable, with a diphthong counting as one vowel. Any consonant can geminate; a geminate straddles the syllable boundary and does not count as the previous syllable's coda.
+
+## Stress
+
+Stress falls on the first syllable.
