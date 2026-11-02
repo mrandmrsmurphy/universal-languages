@@ -19,6 +19,10 @@ Settled design for the Dravidian UL (notes received 2026-10-26).
 - Orthography fix: 𑁳/𑁰 were actually Old Tamil short-e sign and Old Tamil virama, not long-vowel signs. Now: 𑀏/𑀑 = long ēː/ōː (Tamil-Brāhmī), short e/o = 𑁱/𑁲 (signs 𑁳/𑁴); ɻ = 𑀵 (Old Tamil LLLA), not 𑀶 (RRA, ṟ). Vowel-sign table added.
 - Rulings (user, same session): add diphthongs /ai/ /au/ (𑀐 𑀒, signs 𑁃 𑁅; one nucleus, so CVN holds). No alveolar ṟ/ṉ — only Tamil/Malayalam have it. Voiced/voiceless contrast in plosives only is kept; source is WALS 4A (all six source languages are "in plosives alone"), so the stop/fricative asymmetry is evidence-based, not loan-driven. Relative clause = ante (fixed in Anthropology, Language Comparisons, build script). Stress = first syllable (fixed; was R by mistake). Language name equal to script name (Brāhmī) agreed to be a problem — new name still to be chosen.
 
+## Name brainstorm (2026-11-02, pending)
+
+User brainstormed an endonym to replace 𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀻 (same as script name). Candidates: *nīr* 'water' (Nīraya/Nīrmakkal), *āḷ* 'person' (Alaru), *ten-* 'south' (Tenya), *ēḻ* 'seven', Sahyas, Tiraiyar, Trisamudra, Mahabali/Agastya. Assessment: only nīr/ēḻ/āḷ are plausible pan-family roots, all unverified against DEDR; every proposed name is a coinage, not an attested ethnonym; Telugu teṅkāya = coconut (not 'south'); Sahyadri = Western Ghats only; Dakṣiṇāpatha/Sahya/Agastya/Mahabali are Sanskrit-sourced. No pan-Dravidian mythological figure or kingdom exists. Claude's lean: speech-word name (māṭu 𑀫𑀸𑀝𑀼, or nā 'tongue'), with āḷ for the people. Needs DEDR check before adoption.
+
 ## Open
 
 - Which eight cases (the classic Dravidian eight — nominative, accusative, dative, genitive, instrumental, locative, ablative, sociative/vocative — is the natural candidate set; not yet decided).
