@@ -17,6 +17,12 @@ Settled design for the Balkan sprachbund UL (notes received 2026-10-26).
 - Fixed: υ=/u/ documented as novel; d~ð and g~ɣ added as allophones (user OK); r range corrected to r~ɾ; numerals now spelled in Balkan orthography (εν δυ τρη σταρ παν σο εφτ οκτο ηνια δες) with Claude's source guesses (9 = colloquial Greek ennía; 4–6 blends; 6 'so' collides with 3sg masc pronoun σο).
 - Pending: T–V system. Claude's suggestion: second-person plural (βη) as polite V — universal across Greek, Turkish, Albanian, Slavic; Romanian differs (dumneavoastră). Other flagged gaps (not yet actioned): evidentiality absent from the design though common in the sprachbund; genitive–dative merger and 'have'-perfect not listed; future built on 'want' (θα/do/ще) and subjunctive particle da (να would clash with 1pl clitic); stress rule needs a concrete form; /ɲ ʎ/ undecided; no source-language tiers (Romani, Aromanian, Gagauz, Judeo-Spanish absent); script rationale unrecorded.
 
+- Sprachbund additions (user, 2026-11-02): T–V = 2pl βη as polite (optional capital Βη); small evidentiality system (one marker for reported/inferred/unexpected); oblique named as genitive–dative merger; perfect with 'have' + invariable participle; teens 'one-on-ten' with na (en na des…); future = particle da reduced from 'want'. Open: subjunctive/subordinate-clause marker (da again, or another); να 'us' vs na 'on' homophony; actual verb forms.
+
+- Interview rulings (user, 2026-11-02): script rationale = every UL needs a unique script; Greek is a middle way between Latin and Cyrillic and an ancestor of both, missing only /b/ (hence Б). Members add Romani, Aromanian, Gagauz (Judeo-Spanish not added). Stress = fixed penult (name 'bal.kan consistent). /ɲ ʎ/ = sequences /nj lj/ (νι, λι), not phonemes. Consequence to watch: with fixed penult, unstressed reduction makes schwa largely predictable, so ω spelling policy (write reduced vowels or the underlying vowel) is unsettled.
+
+- Rulings (user, 2026-11-02): schwa is not written except where absolutely necessary (very rare ω); da also marks subordinate clauses (replacing infinitives), main-clause da before the verb = future; limited homophony (να/na) accepted. Verb-form suggestions pending (endings -m -s -Ø -mo -te -n; want = dua; have = ima; be = regular e-; perfect = ima + -t participle; evidential = bare participle; neg ne; question li).
+
 ## Open
 
 - Declension endings and verb conjugation not yet coined — including how the periphrastic future is built (which modal?) and how the infinitive-less subordinate clause is marked.

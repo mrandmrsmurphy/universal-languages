@@ -15,7 +15,7 @@
 | Alignment | Nominative–accusative |
 | Status | Work begun |
 
-A regional auxiliary language meant to codify the Balkan sprachbund — Greek, (Ottoman) Turkish, Albanian, Serbian, and other members of the small, diverse sprachbund, which over the centuries have formed a shared heritage despite being very distant languages. Absorbs South Slavic from the [[Interslavic]] split.
+A regional auxiliary language meant to codify the Balkan sprachbund — Greek, (Ottoman) Turkish, Albanian, Serbian, Romani, Aromanian, Gagauz, and other members of the small, diverse sprachbund, which over the centuries have formed a shared heritage despite being very distant languages. Absorbs South Slavic from the [[Interslavic]] split.
 
 ## Uniting features
 
@@ -23,9 +23,13 @@ A regional auxiliary language meant to codify the Balkan sprachbund — Greek, (
 - Loss of Slavic pitch accent
 - Prepositions and word order carry grammatical relations; case is reduced
 - Postposed definite article
-- Periphrastic future tense with a modal verb (no synthetic future)
+- Periphrastic future built on 'want', reduced to the particle *da* (no synthetic future)
 - Infinitives replaced by subordinate clauses
 - Analytic comparative construction
+- Genitive–dative merger
+- Perfect built with 'have'
+- Evidentiality (a small system)
+- Teens built 'one-on-ten'
 - Dative clitic doubling
 - Strong Ottoman Turkish influence on vocabulary
 

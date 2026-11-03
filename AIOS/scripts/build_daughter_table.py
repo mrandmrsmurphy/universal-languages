@@ -70,8 +70,8 @@ CONFIG = {
     'Balkan': dict(
         langs=[('grk', 'Greek'), ('tur', 'Turkish'), ('alb', 'Albanian'), ('scr', 'Serbo-Croatian'),
                ('bul', 'Bulgarian'), ('mcd', 'Macedonian'), ('rom', 'Romanian')],
-        ul={'81A': 'SVO', '78A': 'No', '49A': '3', '90A': 'post', '30A': '3', '13A': 'No', '37A': 'Yes',
-            '38A': 'Some', '39A': 'No', '20A': 'F', '65A': 'Yes', '27A': 'No', '2A': '6', '14A': 'R',
+        ul={'81A': 'SVO', '78A': 'Yes', '49A': '3', '90A': 'post', '30A': '3', '13A': 'No', '37A': 'Yes',
+            '38A': 'Some', '39A': 'No', '20A': 'F', '65A': 'Yes', '27A': 'No', '2A': '6', '14A': 'Penult.',
             '98A': 'NA', '45A': 'Yes', '116A': 'Yes', '67A': 'No', '112A': 'particle'}),
     'Guosa': dict(
         langs=[('yor', 'Yoruba'), ('igb', 'Igbo'), ('akn', 'Akan'), ('hau', 'Hausa'), ('wlf', 'Wolof')],

@@ -2,7 +2,7 @@
 
 > Parent: [[Balkan]]
 
-Balkan is written in the Greek alphabet plus the Cyrillic letter Б/б — needed because Greek Β/β stands for /v/. The result is a cross between Ancient and Modern Greek letter values, though iota as (only) an approximant is new. The language's name: Бαλκαν ('bal.kan).
+Balkan is written in the Greek alphabet plus the Cyrillic letter Б/б — needed because Greek Β/β stands for /v/. Every UL has its own script, and Greek is a middle way between the Latin and Cyrillic camps of the peninsula, as well as the ancestor of both; its one gap is /b/, filled by Б/б. The result is a cross between Ancient and Modern Greek letter values, though iota as (only) an approximant is new. The language's name: Бαλκαν ('bal.kan).
 
 ## Consonants
 
@@ -35,4 +35,4 @@ Letter values blend the two Greek eras: modern η = /i/, β = /v/, φ = /f/, χ 
 
 Upsilon is not an inherited /u/: in Classical Greek υ is /y/ and in Modern Greek /i/, while /u/ is ου. It is assigned to /u/ so that the five-vowel core is written with single letters.
 
-Omega is repurposed as schwa, the sixth vowel that unstressed reduction adds to the usual five.
+Omega is repurposed as schwa, the sixth vowel that unstressed reduction adds to the usual five. Reduced vowels are written with their underlying vowel; ω is used only where a schwa could not otherwise be recovered, which is very rare.
