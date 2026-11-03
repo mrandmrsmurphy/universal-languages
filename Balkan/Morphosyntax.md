@@ -51,9 +51,44 @@ Teens are built 'one-on-ten': the unit, the preposition *na* 'on', then *des*.
 
 ## Verbs
 
-- **Future:** the particle *da*, reduced from the verb 'want' (compare Greek *θα*, Albanian *do*, Bulgarian *ще*), before the verb. There is no synthetic future.
-- **Perfect:** the verb 'have' plus an invariable past participle.
-- **Evidentiality:** a single marking on the verb for information that is reported, inferred or unexpected, as in Turkish -miş, the Albanian admirative and the Bulgarian renarrative. The unmarked form claims direct knowledge.
-- **Infinitives:** replaced by subordinate clauses introduced by *da* (the same particle as the future: *da* directly before the verb in a main clause is future; after another verb or a conjunction it marks a subordinate clause).
+Verb stems end in a vowel. A finite verb is the stem plus a person ending; the third singular is the bare stem. Verbs have no tense endings: tense is built with particles and auxiliaries.
 
-*Verb forms (the 'want' and 'have' verbs, the participle, the evidential marker, the subordinate-clause marker) have not yet been coined.*
+| Person | Ending |
+| --- | --- |
+| 1 sg | -m |
+| 2 sg | -s |
+| 3 sg | (bare stem) |
+| 1 pl | -mo |
+| 2 pl / polite | -te |
+| 3 pl | -n |
+
+| | vida- 'see' | e- 'be' | ima- 'have' | dua- 'want' |
+| --- | --- | --- | --- | --- |
+| 1 sg | vidam βηδαμ | em εμ | imam ημαμ | duam δυαμ |
+| 2 sg | vidas βηδας | es ες | imas ημας | duas δυας |
+| 3 sg | vida βηδα | e ε | ima ημα | dua δυα |
+| 1 pl | vidamo βηδαμο | emo εμο | imamo ημαμο | duamo δυαμο |
+| 2 pl / polite | vidate βηδατε | ete ετε | imate ηματε | duate δυατε |
+| 3 pl | vidan βηδαν | en εν | iman ημαν | duan δυαν |
+
+The 'be' verb is regular. Imperative: the bare stem (singular) and -te (plural and polite).
+
+### Tense and mood
+
+| Form | Construction | Example |
+| --- | --- | --- |
+| Present | stem + person ending | vidam βηδαμ |
+| Future | *da* + present | δα βηδαμ (da vidam) |
+| Perfect (past) | *ima-* + participle | imam ημαμ βηδατ (imam vidat) |
+| Evidential | *e-* + participle | em εμ βηδατ (em vidat) |
+| Subordinate clause | *da* + finite verb | duam δυαμ δα βηδαμ |
+| Negation | *ne* before the verb | νε βηδαμ (ne vidam) |
+| Polar question | *li* after the first word | βηδαμ λη (vidam li) |
+
+- **Participle:** the stem plus -t, invariable (vidat).
+- **Past:** the perfect is the only past; there is no aorist or imperfect.
+- **Future:** *da* is the verb 'want' (*dua-*) reduced to a particle; it is the same particle that opens subordinate clauses, which replace infinitives.
+- **Evidential:** 'be' plus the participle marks information that is reported, inferred or unexpected, in contrast to the 'have' perfect, which claims direct knowledge. The unmarked present and perfect also claim direct knowledge.
+- **Aspect:** not yet settled.
+
+*The stem vida- is illustrative. Derivational morphology and noun declension endings have not been coined.*

@@ -23,6 +23,8 @@ Settled design for the Balkan sprachbund UL (notes received 2026-10-26).
 
 - Rulings (user, 2026-11-02): schwa is not written except where absolutely necessary (very rare ω); da also marks subordinate clauses (replacing infinitives), main-clause da before the verb = future; limited homophony (να/na) accepted. Verb-form suggestions pending (endings -m -s -Ø -mo -te -n; want = dua; have = ima; be = regular e-; perfect = ima + -t participle; evidential = bare participle; neg ne; question li).
 
+- Verb forms adopted (user, 2026-11-02): endings -m -s -∅ -mo -te -n; verbs vowel-final; want = dua, have = ima, be = regular e-; future = da + present; perfect = ima + invariable -t participle (only past, no aorist/imperfect); evidential = e- 'be' + participle (user's modification of Claude's 'bare participle' suggestion); da also opens subordinate clauses; negation ne before verb; polar question li after first word; imperative stem / -te. Aspect deferred by user.
+
 ## Open
 
 - Declension endings and verb conjugation not yet coined — including how the periphrastic future is built (which modal?) and how the infinitive-less subordinate clause is marked.
