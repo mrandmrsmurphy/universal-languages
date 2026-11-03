@@ -41,3 +41,39 @@ After a consonant the inherent vowel is /a/; the other vowels are written with s
 | /a/ | /aː/ | /i/ | /iː/ | /u/ | /uː/ | /e/ | /eː/ | /o/ | /oː/ | virama |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | (inherent) | 𑀸 | 𑀺 | 𑀻 | 𑀼 | 𑀽 | 𑁳 | 𑁂 | 𑁴 | 𑁄 | 𑁆 |
+
+## Nasals
+
+The velar, palatal and retroflex nasals (/ŋ/ 𑀗, /ɲ/ 𑀜, /ɳ/ 𑀡) each keep their own letter. The distinction is for spelling and roots only: no two words may differ in speech by these nasals alone.
+
+## Labial fricative
+
+/f/, /v/ and /ʋ/ are one phoneme, written 𑀯 in every case.
+
+## Digits
+
+Brāhmī decimal digits, positional with zero:
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 𑁦 | 𑁧 | 𑁨 | 𑁩 | 𑁪 | 𑁫 | 𑁬 | 𑁭 | 𑁮 | 𑁯 |
+
+## Spacing and punctuation
+
+Words are separated by spaces. The danda 𑁇 ends a sentence.
+
+## Romanization
+
+Used only where the script cannot be shown. It follows ISO 15919 / IAST habits:
+
+| Brāhmī | Romanization |
+| --- | --- |
+| /a aː i iː u uː/ | a ā i ī u ū |
+| /e eː o oː ai au/ | e ē o ō ai au |
+| /m n ɳ ɲ ŋ/ | m n ṇ ñ ṅ |
+| /p t ʈ c k/ | p t ṭ c k |
+| /b d ɖ ɟ g/ | b d ḍ j g |
+| aspirated /pʰ tʰ ʈʰ cʰ kʰ/ | ph th ṭh ch kh |
+| breathy /bʰ dʰ ɖʰ ɟʰ gʰ/ | bh dh ḍh jh gh |
+| /f~v~ʋ s ɕ ʂ h/ | v s ś ṣ h |
+| /l ɭ r ɻ j/ | l ḷ r ḻ y |

@@ -13,6 +13,8 @@
 | Laterals | | l | ɭ | | |
 | Approximants | | r | ɻ | j | |
 
+The three nasal places /ɳ/, /ɲ/ and /ŋ/ are distinct for spelling and roots only; there are no minimal pairs between them in speech.
+
 Two further series exist for Hindi/Sanskrit loanwords and are not native:
 
 | | Labial | Dental | Retroflex | Palatal | Velar |
