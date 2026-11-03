@@ -35,4 +35,7 @@ After the arrow: the reduced form the pronoun takes under unstressed vowel reduc
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| εν | δυ | τρη | σταρ | παν | σο | εφτ | οκτο | ηνια | δες |
 | en | du | tri | star | pan | so | eft | okto | inja | des |
+
+Sources (reconstructed; 4–6 are blends rather than direct borrowings): 1–3 pan-Balkan (Greek *en*/*dýo*, Albanian *dy*, Slavic *tri*); 7 and 8 Greek (*eftá*, *októ*); 9 colloquial Greek *ennía*; 10 Slavic *deset* / Latin–Greek *deka*; 4 a blend of Slavic *četiri*, Greek *téssera*, Albanian *katër*; 5 Greek *pénte* / Slavic *pętĭ*; 6 Slavic *šest* / Romanian *șase*, vowel uncertain.

@@ -10,12 +10,12 @@ By allowing individual differences of realization, Balkan keeps as coherent a se
 | --- | --- | --- | --- | --- |
 | Nasals | m | n | | |
 | Voiceless plosives | p | t | | k |
-| Voiced plosives | b | d | | g |
+| Voiced plosives | b | d~ð | | g~ɣ |
 | Voiceless affricate | | ts~tʃ~tɕ | | |
 | Voiced affricate | | dz~dʒ~dʑ | | |
 | Voiceless fricatives | f | s~ʃ | | x~h |
 | Voiced fricatives | v~ʋ | z~ʒ | | |
-| Approximants | | r~ɹ | j | |
+| Approximants | | r~ɾ | j | |
 | Lateral | | l~ɫ | | |
 
 The affricates and sibilants each cover an alveolar-to-palatal realization range (ts~tʃ~tɕ, dz~dʒ~dʑ, s~ʃ, z~ʒ); speakers use their local variant. /θ/ is marginal, appearing only in the transcription of foreign words. The sequences /ks/ and /ps/ are common enough to have their own letters.
