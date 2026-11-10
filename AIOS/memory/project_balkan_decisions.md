@@ -25,6 +25,8 @@ Settled design for the Balkan sprachbund UL (notes received 2026-10-26).
 
 - Verb forms adopted (user, 2026-11-02): endings -m -s -∅ -mo -te -n; verbs vowel-final; want = dua, have = ima, be = regular e-; future = da + present; perfect = ima + invariable -t participle (only past, no aorist/imperfect); evidential = e- 'be' + participle (user's modification of Claude's 'bare participle' suggestion); da also opens subordinate clauses; negation ne before verb; polar question li after first word; imperative stem / -te. Aspect deferred by user.
 
+- Noun declension (user chose merge, 2026-11-02): gender by final sound (masc consonant, fem -a, neut -o); nom = acc on nouns (contrast only in pronouns); oblique -u (genitive-dative; replaces -a/-o) after possession/recipient prepositions, other prepositions take the direct form; plural -i for all genders and cases; vocative = preposition o + direct form; definite article postposed -ot/-ta/-to/-te (Macedonian pattern), indefinite en/ena/eno. Lexical prepositions not yet coined.
+
 ## Open
 
 - Declension endings and verb conjugation not yet coined — including how the periphrastic future is built (which modal?) and how the infinitive-less subordinate clause is marked.

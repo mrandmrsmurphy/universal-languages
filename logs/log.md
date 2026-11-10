@@ -80,3 +80,4 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Balkan interview (user rulings): script rationale added to Orthography; Romani, Aromanian, Gagauz added as members; stress fixed on the penult (Phonology, Anthropology table, matrix, build script); /ɲ ʎ/ treated as sequences.
 - Balkan rulings (user): schwa unwritten except very rarely; da reused for subordinate clauses; να/na homophony accepted. Verb-form options proposed, not yet adopted.
 - Balkan verb forms adopted and written into `Balkan/Morphosyntax.md` (person endings, e-/ima-/dua-, future, perfect, evidential = 'be' + participle per user, subordinate da, ne, li). Aspect deferred. Development Roadmap Balkan row updated.
+- Balkan noun declension coined in `Balkan/Morphosyntax.md` (formal gender, merged nom/acc on nouns by user choice, oblique -u, plural -i, postposed article -ot/-ta/-to/-te, indefinite en/ena/eno).

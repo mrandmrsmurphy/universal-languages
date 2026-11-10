@@ -6,20 +6,29 @@ Balkan is SVO, fusional, and nominative–accusative. True to the sprachbund, gr
 
 ## Nouns and adjectives
 
-Nouns and adjectives inflect for three genders (masculine, feminine, neuter), three cases, and two numbers. Gender and case distinctions generally flatten in the plural.
+Nouns and adjectives inflect for three genders (masculine, feminine, neuter), three cases, and two numbers. Gender and case distinctions flatten in the plural.
 
-The cases:
+**Gender** follows the final sound of the noun: masculine ends in a consonant, feminine in -a, neuter in -o. Adjectives take the same endings and agree with their noun.
 
-- **Nominative**
-- **Accusative**
-- **Oblique** — the merged genitive and dative (as in Greek, Albanian and Romanian), always governed by a preposition
+**Cases:**
 
-The vocative is expressed with a dedicated preposition (compare Albanian *o*).
+- **Nominative** and **accusative** — identical on nouns and adjectives; the contrast shows in the pronouns.
+- **Oblique** — the merged genitive and dative (as in Greek, Albanian and Romanian). It takes the ending -u, which replaces a final -a or -o; the same ending serves all three genders. Oblique forms occur after the prepositions of possession ('of') and recipient ('to'); all other prepositions take the direct form.
+
+**Plural:** -i on every noun and adjective, in every gender and case.
+
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| Direct (nom. / acc.) | kot κοτ | zena ζενα | selo σελο |
+| Oblique | kotu κοτυ | zenu ζενυ | selu σελυ |
+| Plural | koti κοτη | zeni ζενη | seli σελη |
+
+(kot, zena and selo are illustrative stems.) The vocative is a dedicated preposition, *o* ο (compare Albanian *o*), followed by the direct form.
 
 ## Articles
 
-- The **definite article** is postposed, sprachbund-style.
-- The **indefinite article** is preposed, and is simply a form of *en* 'one'.
+- The **definite article** is postposed and agrees in gender and number: masculine -ot, feminine -ta, neuter -to, plural -te (all genders). It follows the case ending: kotot κοτοτ, zenata ζενατα, seloto σελοτο, kotite κοτητε, kotuot κοτυοτ (oblique).
+- The **indefinite article** is preposed and is a form of *en* 'one': masculine *en* εν, feminine *ena* ενα, neuter *eno* ενο; it has no plural.
 
 ## Pronouns
 
