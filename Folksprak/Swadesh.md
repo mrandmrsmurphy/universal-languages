@@ -253,17 +253,17 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 186 | bad                | slecht         | schlecht           | schlecht     | dålig               | vondur, slæmur          | ill, vond, dåleg | [[Folksprak/Lexicon/ᛋᛚᛖᛉᛏ\|ᛋᛚᛖᛉᛏ slext]]         |
 | 187 | rotten             | rot            | faul               | verrottet    | rutten              | fúinn, rotinn           | ròten            | [[Folksprak/Lexicon/ᚱᚩᛏᛏᛖᚾ\|ᚱᚩᛏᛏᛖᚾ rotten]]         |
 | 188 | dirty, filthy      | vuil, vies     | knaschteg, dreckeg | schmutzig    | smutsig             | skítugur, óhreinn       | møkut, skiten    | —         |
-| 189 | straight           | recht          | riicht             | gerade       | rak                 | beinn                   | rett, bein, rak  | —         |
+| 189 | straight           | recht          | riicht             | gerade       | rak                 | beinn                   | rett, bein, rak  | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]]         |
 | 190 | round              | rond           | ronn               | rund         | rund                | kringlóttur             | rund             | —         |
 | 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | —         |
 | 192 | dull, blunt        | stomp, bot     | stomp              | stumpf       | slö                 | bitlaus                 | slø              | —         |
 | 193 | smooth             | glad           | glat               | glatt        | len, slät           | sleipur, sléttur        | jamn, slett      | —         |
 | 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | —         |
 | 195 | dry                | droog          | dréchen            | trocken      | torr                | þurr                    | tørr, turr       | —         |
-| 196 | correct            | juist, correct | richteg            | richtig      | rätt, riktig        | réttur                  | rett             | —         |
+| 196 | correct            | juist, correct | richteg            | richtig      | rätt, riktig        | réttur                  | rett             | [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ\|ᚱᛁᛉᛏᛁᚷ rixtig]]         |
 | 197 | near               | dichtbij       | no, nobäi          | nah, nahe    | nära                | nálægur                 | nær, nære        | —         |
 | 198 | far                | ver            | wäit, wäit ewech   | weit, fern   | långt bort, fjärran | langt                   | langt            | —         |
-| 199 | right              | rechts         | riets              | rechts       | höger               | hægri                   | høgre            | —         |
+| 199 | right              | rechts         | riets              | rechts       | höger               | hægri                   | høgre            | [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ\|ᚻᛟᚷᚱᛖ høgre]]         |
 | 200 | left               | links          | lénks              | links        | vänster             | vinstri                 | venstre, vinstre | —         |
 
 ## 201–207 Particles and name

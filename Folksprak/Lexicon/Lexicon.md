@@ -229,3 +229,6 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛏᛖᚾ|ᛏᛖᚾ]] (ten) — ten
 - [[Folksprak/Lexicon/ᛖᛚᚹ|ᛖᛚᚹ]] (elv) — eleven
 - [[Folksprak/Lexicon/ᛏᚹᛖᛚᚹ|ᛏᚹᛖᛚᚹ]] (tvelv) — twelve
+- [[Folksprak/Lexicon/ᚱᛖᛉᛏ|ᚱᛖᛉᛏ]] (rext) — straight, unbent
+- [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ|ᚱᛁᛉᛏᛁᚷ]] (rixtig) — correct, right
+- [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ|ᚻᛟᚷᚱᛖ]] (høgre) — right (opposite of left)
