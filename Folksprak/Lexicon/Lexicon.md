@@ -167,6 +167,7 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᚱᛁᚾᚾᛖ|ᚱᛁᚾᚾᛖ]] (rinne) — to flow, to run (of a liquid)
 - [[Folksprak/Lexicon/ᚠᚱᚣᛋᛖ|ᚠᚱᚣᛋᛖ]] (fryse) — to freeze
 - [[Folksprak/Lexicon/ᛋᚹᛖᛚᛚᛖ|ᛋᚹᛖᛚᛚᛖ]] (svelle) — to swell
+- [[Folksprak/Lexicon/ᛋᚢᚾᚾ|ᛋᚢᚾᚾ]] (sunn) — sun
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

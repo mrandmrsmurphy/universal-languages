@@ -94,3 +94,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №145 adopted as ᚠᚱᚣᛋᛖ (fryse), “to freeze,” the inherited cognate of English *freeze* from Proto-Germanic *freusaną and attested in both Parke dictionaries. Added the lexicon entry and links. Coverage is 145 of 207 concepts and 164 lexicon entries.
 
 - Folksprak Swadesh №146 adopted as ᛋᚹᛖᛚᛚᛖ (svelle), “to swell,” from Proto-Germanic *swellaną. Parke’s swelle follows the same root and takes the vault’s regular *w → v. Added the entry, index and both Swadesh links. Coverage is 146 of 207 concepts and 165 lexicon entries.
+
+- Folksprak Swadesh №147 adopted as ᛋᚢᚾᚾ (sunn), “sun,” from the inherited n-stem, with Munin sun and Parke sonn as parallels. Added the entry, index and both Swadesh links. Coverage is 147 of 207 concepts and 166 lexicon entries.
