@@ -237,3 +237,6 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ|ᚹᛖᚾᛋᛏᚱᛖ]] (venstre) — left (opposite of right)
 - [[Folksprak/Lexicon/ᚾᚪᛗ|ᚾᚪᛗ]] (nam) — name
 - [[Folksprak/Lexicon/ᛗᛖᛞ|ᛗᛖᛞ]] (med) — with, together with
+- [[Folksprak/Lexicon/ᛁᚾ|ᛁᚾ]] (in) — in
+- [[Folksprak/Lexicon/ᚪᚾᛞ|ᚪᚾᛞ]] (and) — and
+- [[Folksprak/Lexicon/ᚩᚷ|ᚩᚷ]] (og) — also, too

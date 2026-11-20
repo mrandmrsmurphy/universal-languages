@@ -148,3 +148,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №207 filled with ᚾᚪᛗ (nam) “name,” matching Munin and Parke. Added the entry, index line and both Swadesh links. The lexicon has 214 entries.
 
 - Folksprak №203 adopted as ᛗᛖᛞ (med) “with, together with,” matching Munin and Parke and reflecting Proto-Germanic *miþ(i). Added the entry, index line and both Swadesh links. The lexicon has 215 entries.
+
+- Folksprak adopted ᚪᚾᛞ (and) “and” at Swadesh №204 and ᚩᚷ (og) “also, too” as a separate adverb. Created and cross-linked both entries, indexed them, and verified both Swadesh links for and. The lexicon has 217 entries.
+
+- Folksprak №202 adopted as ᛁᚾ (in) “in,” matching Parke. One n suffices because the preposition is proclitic and its vowel is short in ordinary use. Added the entry and verified both Swadesh links.

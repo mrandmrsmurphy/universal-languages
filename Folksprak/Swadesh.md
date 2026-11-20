@@ -271,9 +271,9 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | №   | English | Dutch        | Luxemb            | German          | Swedish      | Iceland        | Nynorsk               | Folksprak |
 | --- | ------- | ------------ | ----------------- | --------------- | ------------ | -------------- | --------------------- | --------- |
 | 201 | at, by  | aan, te, bij | an, bei, drun, op | bei, an         | hos, vid     | hjá            | hjå, hos, på          | —         |
-| 202 | in      | in           | an, dran          | in              | i            | í              | i                     | —         |
+| 202 | in      | in           | an, dran          | in              | i            | í              | i                     | [[Folksprak/Lexicon/ᛁᚾ\|ᛁᚾ in]]         |
 | 203 | with    | met          | mat               | mit             | med          | með            | med                   | [[Folksprak/Lexicon/ᛗᛖᛞ\|ᛗᛖᛞ med]]         |
-| 204 | and     | en           | an                | und             | och          | og             | og                    | —         |
+| 204 | and     | en           | an                | und             | och          | og             | og                    | [[Folksprak/Lexicon/ᚪᚾᛞ\|ᚪᚾᛞ and]]         |
 | 205 | if      | als, indien  | wann              | wenn, falls, ob | om           | ef             | om                    | —         |
 | 206 | because | omdat        | well              | weil            | eftersom, ty | því, af því að | av di, på grunn av at | —         |
 | 207 | name    | naam         | Numm              | Name            | namn         | nafn           | namn                  | [[Folksprak/Lexicon/ᚾᚪᛗ\|ᚾᚪᛗ nam]]         |
