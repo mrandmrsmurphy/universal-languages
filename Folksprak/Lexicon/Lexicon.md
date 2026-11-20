@@ -192,6 +192,18 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛒᚱᛖᚾᚾᛖ|ᛒᚱᛖᚾᚾᛖ]] (brenne) — to burn
 - [[Folksprak/Lexicon/ᚹᛖᚷ|ᚹᛖᚷ]] (veg) — road, way
 - [[Folksprak/Lexicon/ᛒᛖᚱᚷ|ᛒᛖᚱᚷ]] (berg) — mountain
+- [[Folksprak/Lexicon/ᚱᛟᛞ|ᚱᛟᛞ]] (rød) — red
+- [[Folksprak/Lexicon/ᚷᚱᛟᚾ|ᚷᚱᛟᚾ]] (grøn) — green
+- [[Folksprak/Lexicon/ᚷᛖᛚ|ᚷᛖᛚ]] (gel) — yellow
+- [[Folksprak/Lexicon/ᚹᛁᛏ|ᚹᛁᛏ]] (vit) — white
+- [[Folksprak/Lexicon/ᛋᚹᚪᚱᛏ|ᛋᚹᚪᚱᛏ]] (svart) — black
+- [[Folksprak/Lexicon/ᚾᚪᛉᛏ|ᚾᚪᛉᛏ]] (naxt) — night
+- [[Folksprak/Lexicon/ᛞᚪᚷ|ᛞᚪᚷ]] (dag) — day
+- [[Folksprak/Lexicon/ᛄᚪᚱ|ᛄᚪᚱ]] (jar) — year
+- [[Folksprak/Lexicon/ᚹᚪᚱᛗ|ᚹᚪᚱᛗ]] (varm) — warm
+- [[Folksprak/Lexicon/ᛣᚪᛚᛞ|ᛣᚪᛚᛞ]] (kald) — cold
+- [[Folksprak/Lexicon/ᚠᚢᛚᛚ|ᚠᚢᛚᛚ]] (full) — full
+- [[Folksprak/Lexicon/ᚾᚣ|ᚾᚣ]] (ny) — new
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

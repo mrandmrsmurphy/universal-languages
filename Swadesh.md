@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–171 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–183 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -246,23 +246,23 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 172 | red | <ruby>紅<rt>ㄏㄛㄫ</rt></ruby> | [[rubie]] | — | — | ܚܡܪܐ | — | — |
-| 173 | green | <ruby>緑<rt>ㄌㄛㄎ</rt></ruby> | [[verde]] | — | — | ܘܪܩܐ | — | — |
-| 174 | yellow | <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby> | [[jalne]] | — | — | ܨܗܒܐ | — | — |
-| 175 | white | <ruby>白<rt>ㄅㄚㄎ</rt></ruby> | [[blanc]] | — | — | ܠܒܐܢܐ | — | — |
-| 176 | black | <ruby>黒<rt>ㄏㄨㄎ</rt></ruby> | [[nigre]] | ᛋᚹᚪᚱᛏ **svart** | [[чрны]] | ܛܠܡܐ | — | — |
-| 177 | night | <ruby>夜<rt>⼘</rt></ruby> | [[nocte]] | — | — | ܠܝܠܐ | — | — |
-| 178 | day | <ruby>日<rt>ㄋㄧㄊ</rt></ruby> | [[die]] | — | — | ܝܘܡܐ | — | — |
-| 179 | year | <ruby>年<rt>ㄋㄝㄋ</rt></ruby> | [[anno]] | — | — | ܣܢܝ | — | — |
-| 180 | warm | <ruby>暖<rt>ㄋㄚㄋ</rt></ruby> | [[calide]] | — | — | — | — | — |
-| 181 | cold | <ruby>寒冷<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> | [[frigide]] | — | — | — | — | — |
+| 172 | red | <ruby>紅<rt>ㄏㄛㄫ</rt></ruby> | [[rubie]] | [[Folksprak/Lexicon/ᚱᛟᛞ\|ᚱᛟᛞ rød]] | — | ܚܡܪܐ | — | — |
+| 173 | green | <ruby>緑<rt>ㄌㄛㄎ</rt></ruby> | [[verde]] | [[Folksprak/Lexicon/ᚷᚱᛟᚾ\|ᚷᚱᛟᚾ grøn]] | — | ܘܪܩܐ | — | — |
+| 174 | yellow | <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby> | [[jalne]] | [[Folksprak/Lexicon/ᚷᛖᛚ\|ᚷᛖᛚ gel]] | — | ܨܗܒܐ | — | — |
+| 175 | white | <ruby>白<rt>ㄅㄚㄎ</rt></ruby> | [[blanc]] | [[Folksprak/Lexicon/ᚹᛁᛏ\|ᚹᛁᛏ vit]] | — | ܠܒܐܢܐ | — | — |
+| 176 | black | <ruby>黒<rt>ㄏㄨㄎ</rt></ruby> | [[nigre]] | [[Folksprak/Lexicon/ᛋᚹᚪᚱᛏ\|ᛋᚹᚪᚱᛏ svart]] | [[чрны]] | ܛܠܡܐ | — | — |
+| 177 | night | <ruby>夜<rt>⼘</rt></ruby> | [[nocte]] | [[Folksprak/Lexicon/ᚾᚪᛉᛏ\|ᚾᚪᛉᛏ naxt]] | — | ܠܝܠܐ | — | — |
+| 178 | day | <ruby>日<rt>ㄋㄧㄊ</rt></ruby> | [[die]] | [[Folksprak/Lexicon/ᛞᚪᚷ\|ᛞᚪᚷ dag]] | — | ܝܘܡܐ | — | — |
+| 179 | year | <ruby>年<rt>ㄋㄝㄋ</rt></ruby> | [[anno]] | [[Folksprak/Lexicon/ᛄᚪᚱ\|ᛄᚪᚱ jar]] | — | ܣܢܝ | — | — |
+| 180 | warm | <ruby>暖<rt>ㄋㄚㄋ</rt></ruby> | [[calide]] | [[Folksprak/Lexicon/ᚹᚪᚱᛗ\|ᚹᚪᚱᛗ varm]] | — | — | — | — |
+| 181 | cold | <ruby>寒冷<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> | [[frigide]] | [[Folksprak/Lexicon/ᛣᚪᛚᛞ\|ᛣᚪᛚᛞ kald]] | — | — | — | — |
 
 ### 182–200 Qualities
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 182 | full | <ruby>満<rt>ㄇㄚㄋ</rt></ruby> | [[plen]] | — | — | — | — | — |
-| 183 | new | <ruby>新<rt>ㄙㄧㄋ</rt></ruby> | [[nove]] | — | — | — | — | — |
+| 182 | full | <ruby>満<rt>ㄇㄚㄋ</rt></ruby> | [[plen]] | [[Folksprak/Lexicon/ᚠᚢᛚᛚ\|ᚠᚢᛚᛚ full]] | — | — | — | — |
+| 183 | new | <ruby>新<rt>ㄙㄧㄋ</rt></ruby> | [[nove]] | [[Folksprak/Lexicon/ᚾᚣ\|ᚾᚣ ny]] | — | — | — | — |
 | 184 | old | <ruby>老<rt>ㄌㄚㄨ</rt></ruby> | [[vetere]] | — | — | — | — | — |
 | 185 | good | <ruby>好<rt>ㄏㄚㄨ</rt></ruby> | [[bon]] | — | — | ܛܘܒܐ | — | — |
 | 186 | bad | <ruby>悪<rt>ㄚㄎ</rt></ruby> | [[mal]] | — | — | — | — | — |

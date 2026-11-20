@@ -124,3 +124,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №167 adopted as ᛖᛚᛞ (eld), “fire,” from Proto-Germanic *ailidaz via the Nordic form. This avoids the collision of upstream fyr “fire” with vault fyr “four.” Munin eld “old” is documented in Divergences. Added the lexicon entry, index line and both Swadesh links. Coverage is 167 of 207 concepts and 186 lexicon entries.
 
 - Folksprak Swadesh №168–171 filled with ᚪᛋᛣ (ask) “ash,” ᛒᚱᛖᚾᚾᛖ (brenne) “to burn,” ᚹᛖᚷ (veg) “road, way,” and ᛒᛖᚱᚷ (berg) “mountain.” Ask matches Munin’s material sense. Brenne and berg match Parke, and veg adapts Parke’s weg. Added all four entries, index lines and both Swadesh links. Coverage is 171 of 207 concepts and 190 lexicon entries.
+
+- Folksprak Swadesh №172–181 filled with rød, grøn, gel, vit, svart, naxt, dag, jar, varm and kald. Svart was already written in the tables and now has a lexicon entry and links. Added ten entries, index lines and both sets of Swadesh links. Coverage is 181 of 207 concepts and 200 lexicon entries.
+
+- Folksprak Swadesh №182–183 filled with ᚠᚢᛚᛚ (full) “full,” retaining inherited ll, and ᚾᚣ (ny) “new,” matching Parke and the vault spelling of Munin nü. Added both entries, index lines and both Swadesh links. Coverage is 183 of 207 concepts and 202 lexicon entries.

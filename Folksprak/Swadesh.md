@@ -231,23 +231,23 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 
 | №   | English | Dutch | Luxemb   | German  | Swedish | Iceland      | Nynorsk     | Folksprak       |
 | --- | ------- | ----- | -------- | ------- | ------- | ------------ | ----------- | --------------- |
-| 172 | red     | rood  | rout     | rot     | röd     | rauður       | raud        | —               |
-| 173 | green   | groen | gréng    | grün    | grön    | grænn        | grøn        | —               |
-| 174 | yellow  | geel  | giel     | gelb    | gul     | gulur        | gul         | —               |
-| 175 | white   | wit   | wäiss    | weiß    | vit     | hvítur       | kvit        | —               |
-| 176 | black   | zwart | schwaarz | schwarz | svart   | svartur      | svart       | ᛋᚹᚪᚱᛏ **svart** |
-| 177 | night   | nacht | Nuecht   | Nacht   | natt    | nótt         | natt        | —               |
-| 178 | day     | dag   | Dag      | Tag     | dag     | dagur        | dag         | —               |
-| 179 | year    | jaar  | Joer     | Jahr    | år      | ár           | år          | —               |
-| 180 | warm    | warm  | waarm    | warm    | varm    | hlýr, heitur | varm, logn  | —               |
-| 181 | cold    | koud  | kal      | kalt    | kall    | kaldur       | kald        | —               |
+| 172 | red     | rood  | rout     | rot     | röd     | rauður       | raud        | [[Folksprak/Lexicon/ᚱᛟᛞ\|ᚱᛟᛞ rød]] |
+| 173 | green   | groen | gréng    | grün    | grön    | grænn        | grøn        | [[Folksprak/Lexicon/ᚷᚱᛟᚾ\|ᚷᚱᛟᚾ grøn]] |
+| 174 | yellow  | geel  | giel     | gelb    | gul     | gulur        | gul         | [[Folksprak/Lexicon/ᚷᛖᛚ\|ᚷᛖᛚ gel]] |
+| 175 | white   | wit   | wäiss    | weiß    | vit     | hvítur       | kvit        | [[Folksprak/Lexicon/ᚹᛁᛏ\|ᚹᛁᛏ vit]] |
+| 176 | black   | zwart | schwaarz | schwarz | svart   | svartur      | svart       | [[Folksprak/Lexicon/ᛋᚹᚪᚱᛏ\|ᛋᚹᚪᚱᛏ svart]] |
+| 177 | night   | nacht | Nuecht   | Nacht   | natt    | nótt         | natt        | [[Folksprak/Lexicon/ᚾᚪᛉᛏ\|ᚾᚪᛉᛏ naxt]] |
+| 178 | day     | dag   | Dag      | Tag     | dag     | dagur        | dag         | [[Folksprak/Lexicon/ᛞᚪᚷ\|ᛞᚪᚷ dag]] |
+| 179 | year    | jaar  | Joer     | Jahr    | år      | ár           | år          | [[Folksprak/Lexicon/ᛄᚪᚱ\|ᛄᚪᚱ jar]] |
+| 180 | warm    | warm  | waarm    | warm    | varm    | hlýr, heitur | varm, logn  | [[Folksprak/Lexicon/ᚹᚪᚱᛗ\|ᚹᚪᚱᛗ varm]] |
+| 181 | cold    | koud  | kal      | kalt    | kall    | kaldur       | kald        | [[Folksprak/Lexicon/ᛣᚪᛚᛞ\|ᛣᚪᛚᛞ kald]] |
 
 ## 182–200 Qualities
 
 | №   | English            | Dutch          | Luxemb             | German       | Swedish             | Iceland                 | Nynorsk          | Folksprak |
 | --- | ------------------ | -------------- | ------------------ | ------------ | ------------------- | ----------------------- | ---------------- | --------- |
-| 182 | full               | vol            | voll               | voll         | full                | fullur                  | full             | —         |
-| 183 | new                | nieuw          | nei                | neu          | ny                  | nýr                     | ny               | —         |
+| 182 | full               | vol            | voll               | voll         | full                | fullur                  | full             | [[Folksprak/Lexicon/ᚠᚢᛚᛚ\|ᚠᚢᛚᛚ full]]         |
+| 183 | new                | nieuw          | nei                | neu          | ny                  | nýr                     | ny               | [[Folksprak/Lexicon/ᚾᚣ\|ᚾᚣ ny]]         |
 | 184 | old                | oud            | al                 | alt          | gammal              | gamall                  | gamal            | —         |
 | 185 | good               | goed           | gutt               | gut          | bra                 | góður                   | god, bra         | —         |
 | 186 | bad                | slecht         | schlecht           | schlecht     | dålig               | vondur, slæmur          | ill, vond, dåleg | —         |
