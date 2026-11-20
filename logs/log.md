@@ -116,3 +116,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №160 adopted as ᚹᚩᛚᛣ (volk), “cloud,” matching Munin and regular *w → v. Added the lexicon entry, index line and both Swadesh links. Coverage is 160 of 207 concepts and 179 lexicon entries.
 
 - Folksprak Swadesh №161 adopted as ᚾᛖᚹᛖᛚ (nevel), “fog, mist,” matching Parke and regular intervocalic *b → v. Added the lexicon entry, index line and both Swadesh links. Coverage is 161 of 207 concepts and 180 lexicon entries.
+
+- Folksprak Swadesh №162–165 filled with ᚻᛁᛗᛗᛖᛚ (himmel) “sky,” ᚹᛁᚾᛞ (vind) “wind,” ᛋᚾᛖ (sne) “snow,” and ᛁᛋ (is) “ice.” Himmel matches Parke and the user’s form. Vind, sne and is match Munin. Added all four lexicon entries, index lines and both sets of Swadesh links. Coverage is 165 of 207 concepts and 184 lexicon entries.
+
+- Folksprak Swadesh №166 adopted as ᚱᛟᛣ (røk), “smoke (from combustion),” matching Parke’s roek and regular *au → ø. Added the lexicon entry, index line and both Swadesh links. Coverage is 166 of 207 concepts and 185 lexicon entries.

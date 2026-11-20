@@ -216,11 +216,11 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | --- | ----------- | ------------ | ---------- | ------- | -------------------- | ----------- | ------------ | --------- |
 | 160 | cloud       | wolk         | Wollek     | Wolke   | moln                 | ský         | sky          | [[Folksprak/Lexicon/ᚹᚩᛚᛣ\|ᚹᚩᛚᛣ volk]]         |
 | 161 | fog, (mist) | mist, nevel  | Niwwel     | Nebel   | dimma                | þoka        | tåke, skodde | [[Folksprak/Lexicon/ᚾᛖᚹᛖᛚ\|ᚾᛖᚹᛖᛚ nevel]]         |
-| 162 | sky         | hemel, lucht | Himmel     | Himmel  | himmel, sky (poetic) | himinn      | himmel       | —         |
-| 163 | wind        | wind         | Wand, Loft | Wind    | vind                 | vindur      | vind         | —         |
-| 164 | snow        | sneeuw       | Schnéi     | Schnee  | snö                  | snjór       | snø          | —         |
-| 165 | ice         | ijs          | Äis        | Eis     | is                   | ís, klaki   | is           | —         |
-| 166 | smoke       | rook         | Damp       | Rauch   | rök                  | reykur      | røyk         | —         |
+| 162 | sky         | hemel, lucht | Himmel     | Himmel  | himmel, sky (poetic) | himinn      | himmel       | [[Folksprak/Lexicon/ᚻᛁᛗᛗᛖᛚ\|ᚻᛁᛗᛗᛖᛚ himmel]]         |
+| 163 | wind        | wind         | Wand, Loft | Wind    | vind                 | vindur      | vind         | [[Folksprak/Lexicon/ᚹᛁᚾᛞ\|ᚹᛁᚾᛞ vind]]         |
+| 164 | snow        | sneeuw       | Schnéi     | Schnee  | snö                  | snjór       | snø          | [[Folksprak/Lexicon/ᛋᚾᛖ\|ᛋᚾᛖ sne]]         |
+| 165 | ice         | ijs          | Äis        | Eis     | is                   | ís, klaki   | is           | [[Folksprak/Lexicon/ᛁᛋ\|ᛁᛋ is]]         |
+| 166 | smoke       | rook         | Damp       | Rauch   | rök                  | reykur      | røyk         | [[Folksprak/Lexicon/ᚱᛟᛣ\|ᚱᛟᛣ røk]]         |
 | 167 | fire        | vuur         | Feier      | Feuer   | eld                  | eldur       | eld          | —         |
 | 168 | ash         | as           | Äschen     | Asche   | aska                 | aska        | oske, oska   | —         |
 | 169 | to burn     | branden      | brennen    | brennen | brinna               | brenna      | brenna       | —         |

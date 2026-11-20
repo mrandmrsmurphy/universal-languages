@@ -182,6 +182,11 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛖᚱᛞ|ᛖᚱᛞ]] (erd) — earth, soil, ground
 - [[Folksprak/Lexicon/ᚹᚩᛚᛣ|ᚹᚩᛚᛣ]] (volk) — cloud
 - [[Folksprak/Lexicon/ᚾᛖᚹᛖᛚ|ᚾᛖᚹᛖᛚ]] (nevel) — fog, mist
+- [[Folksprak/Lexicon/ᚻᛁᛗᛗᛖᛚ|ᚻᛁᛗᛗᛖᛚ]] (himmel) — sky
+- [[Folksprak/Lexicon/ᚹᛁᚾᛞ|ᚹᛁᚾᛞ]] (vind) — wind
+- [[Folksprak/Lexicon/ᛋᚾᛖ|ᛋᚾᛖ]] (sne) — snow
+- [[Folksprak/Lexicon/ᛁᛋ|ᛁᛋ]] (is) — ice
+- [[Folksprak/Lexicon/ᚱᛟᛣ|ᚱᛟᛣ]] (røk) — smoke (from combustion)
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

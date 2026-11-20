@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–161 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–166 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -231,11 +231,11 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 160 | cloud | <ruby>雲<rt>ㄨㄋ</rt></ruby> | [[nube]] | [[Folksprak/Lexicon/ᚹᚩᛚᛣ\|ᚹᚩᛚᛣ volk]] | — | — | — | — |
 | 161 | fog, (mist) | <ruby>霧<rt>ㄇㄨ</rt></ruby> | [[nebula]] | [[Folksprak/Lexicon/ᚾᛖᚹᛖᛚ\|ᚾᛖᚹᛖᛚ nevel]] | — | — | — | — |
-| 162 | sky | <ruby>天<rt>ㄊㄝㄋ</rt></ruby> | [[celo]] | — | — | ܣܡܝ | — | — |
-| 163 | wind | <ruby>風<rt>ㄈㄨㄫ</rt></ruby> | [[vento]] | — | — | ܪܘܚܐ | — | — |
-| 164 | snow | <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> | [[nive]] | — | — | ܫܠܓܐ | — | — |
-| 165 | ice | <ruby>氷水<rt>ㄅㄧㄫㄙㄨ</rt></ruby> | [[glacie]] | — | — | — | — | — |
-| 166 | smoke | <ruby>煙気<rt>ㄝㄋㄎㄧㄜ</rt></ruby> | [[fumo]] | — | — | — | — | — |
+| 162 | sky | <ruby>天<rt>ㄊㄝㄋ</rt></ruby> | [[celo]] | [[Folksprak/Lexicon/ᚻᛁᛗᛗᛖᛚ\|ᚻᛁᛗᛗᛖᛚ himmel]] | — | ܣܡܝ | — | — |
+| 163 | wind | <ruby>風<rt>ㄈㄨㄫ</rt></ruby> | [[vento]] | [[Folksprak/Lexicon/ᚹᛁᚾᛞ\|ᚹᛁᚾᛞ vind]] | — | ܪܘܚܐ | — | — |
+| 164 | snow | <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> | [[nive]] | [[Folksprak/Lexicon/ᛋᚾᛖ\|ᛋᚾᛖ sne]] | — | ܫܠܓܐ | — | — |
+| 165 | ice | <ruby>氷水<rt>ㄅㄧㄫㄙㄨ</rt></ruby> | [[glacie]] | [[Folksprak/Lexicon/ᛁᛋ\|ᛁᛋ is]] | — | — | — | — |
+| 166 | smoke | <ruby>煙気<rt>ㄝㄋㄎㄧㄜ</rt></ruby> | [[fumo]] | [[Folksprak/Lexicon/ᚱᛟᛣ\|ᚱᛟᛣ røk]] | — | — | — | — |
 | 167 | fire | <ruby>火<rt>ㄏ⺢</rt></ruby> | [[foco]] | — | — | ܢܘܪܐ | — | — |
 | 168 | ash | <ruby>灰<rt>ㄏㄛㄧ</rt></ruby> | [[cinere]] | — | — | ܐܝܣܐ | — | — |
 | 169 | to burn | <ruby>燃焼<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | [[arder]] | — | — | — | — | — |
