@@ -128,3 +128,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №172–181 filled with rød, grøn, gel, vit, svart, naxt, dag, jar, varm and kald. Svart was already written in the tables and now has a lexicon entry and links. Added ten entries, index lines and both sets of Swadesh links. Coverage is 181 of 207 concepts and 200 lexicon entries.
 
 - Folksprak Swadesh №182–183 filled with ᚠᚢᛚᛚ (full) “full,” retaining inherited ll, and ᚾᚣ (ny) “new,” matching Parke and the vault spelling of Munin nü. Added both entries, index lines and both Swadesh links. Coverage is 183 of 207 concepts and 202 lexicon entries.
+
+- Folksprak Swadesh №184 filled with ᚪᛚᛞ (ald) “old,” from Proto-Germanic *aldaz and matching Parke. Munin’s eld “old” conflicts with the vault’s eld “fire”; Divergences records the two vault forms. Added the entry, index line and both Swadesh links. Coverage is 184 of 207 concepts and 203 lexicon entries.

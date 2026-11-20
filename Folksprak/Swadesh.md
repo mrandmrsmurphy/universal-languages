@@ -248,7 +248,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | --- | ------------------ | -------------- | ------------------ | ------------ | ------------------- | ----------------------- | ---------------- | --------- |
 | 182 | full               | vol            | voll               | voll         | full                | fullur                  | full             | [[Folksprak/Lexicon/ᚠᚢᛚᛚ\|ᚠᚢᛚᛚ full]]         |
 | 183 | new                | nieuw          | nei                | neu          | ny                  | nýr                     | ny               | [[Folksprak/Lexicon/ᚾᚣ\|ᚾᚣ ny]]         |
-| 184 | old                | oud            | al                 | alt          | gammal              | gamall                  | gamal            | —         |
+| 184 | old                | oud            | al                 | alt          | gammal              | gamall                  | gamal            | [[Folksprak/Lexicon/ᚪᛚᛞ\|ᚪᛚᛞ ald]]         |
 | 185 | good               | goed           | gutt               | gut          | bra                 | góður                   | god, bra         | —         |
 | 186 | bad                | slecht         | schlecht           | schlecht     | dålig               | vondur, slæmur          | ill, vond, dåleg | —         |
 | 187 | rotten             | rot            | faul               | verrottet    | rutten              | fúinn, rotinn           | ròten            | —         |

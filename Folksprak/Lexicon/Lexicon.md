@@ -204,6 +204,7 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛣᚪᛚᛞ|ᛣᚪᛚᛞ]] (kald) — cold
 - [[Folksprak/Lexicon/ᚠᚢᛚᛚ|ᚠᚢᛚᛚ]] (full) — full
 - [[Folksprak/Lexicon/ᚾᚣ|ᚾᚣ]] (ny) — new
+- [[Folksprak/Lexicon/ᚪᛚᛞ|ᚪᛚᛞ]] (ald) — old
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

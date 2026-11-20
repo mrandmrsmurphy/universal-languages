@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–183 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–184 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -263,7 +263,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 182 | full | <ruby>満<rt>ㄇㄚㄋ</rt></ruby> | [[plen]] | [[Folksprak/Lexicon/ᚠᚢᛚᛚ\|ᚠᚢᛚᛚ full]] | — | — | — | — |
 | 183 | new | <ruby>新<rt>ㄙㄧㄋ</rt></ruby> | [[nove]] | [[Folksprak/Lexicon/ᚾᚣ\|ᚾᚣ ny]] | — | — | — | — |
-| 184 | old | <ruby>老<rt>ㄌㄚㄨ</rt></ruby> | [[vetere]] | — | — | — | — | — |
+| 184 | old | <ruby>老<rt>ㄌㄚㄨ</rt></ruby> | [[vetere]] | [[Folksprak/Lexicon/ᚪᛚᛞ\|ᚪᛚᛞ ald]] | — | — | — | — |
 | 185 | good | <ruby>好<rt>ㄏㄚㄨ</rt></ruby> | [[bon]] | — | — | ܛܘܒܐ | — | — |
 | 186 | bad | <ruby>悪<rt>ㄚㄎ</rt></ruby> | [[mal]] | — | — | — | — | — |
 | 187 | rotten | <ruby>腐敗<rt>ㄆㄨㄅㄚㄧ</rt></ruby> | [[putride]] | — | — | — | — | — |

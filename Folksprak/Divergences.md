@@ -94,4 +94,4 @@ Upstream corroboration: du, vi (we), har, dar, ve, vat, var, hur (how), tve (two
 
 The remaining vault entries (tve, lus, bryst, fruxt, ficc, durfe, kunigdøm, kaffie) have no counterpart in draft.html.
 
-- **Fire** is [[Folksprak/Lexicon/ᛖᛚᛞ|eld]]. Munin has *für* and Parke has *fyr* for fire. Vault [[Folksprak/Lexicon/ᚠᚣᚱ|fyr]] means “four.” Munin uses *eld* for “old.”
+- **Fire** is [[Folksprak/Lexicon/ᛖᛚᛞ|eld]]. Munin has *für* and Parke has *fyr* for fire. Vault [[Folksprak/Lexicon/ᚠᚣᚱ|fyr]] means “four.” Munin uses *eld* for “old.” Vault [[Folksprak/Lexicon/ᚪᛚᛞ|ald]] “old” matches Parke.
