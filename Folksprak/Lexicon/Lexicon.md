@@ -180,6 +180,7 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛋᚪᚾᛞ|ᛋᚪᚾᛞ]] (sand) — sand
 - [[Folksprak/Lexicon/ᛋᛏᛟᚹ|ᛋᛏᛟᚹ]] (støv) — dust
 - [[Folksprak/Lexicon/ᛖᚱᛞ|ᛖᚱᛞ]] (erd) — earth, soil, ground
+- [[Folksprak/Lexicon/ᚹᚩᛚᛣ|ᚹᚩᛚᛣ]] (volk) — cloud
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

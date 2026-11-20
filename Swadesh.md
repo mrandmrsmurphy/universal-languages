@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–159 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–160 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -229,7 +229,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 160 | cloud | <ruby>雲<rt>ㄨㄋ</rt></ruby> | [[nube]] | — | — | — | — | — |
+| 160 | cloud | <ruby>雲<rt>ㄨㄋ</rt></ruby> | [[nube]] | [[Folksprak/Lexicon/ᚹᚩᛚᛣ\|ᚹᚩᛚᛣ volk]] | — | — | — | — |
 | 161 | fog, (mist) | <ruby>霧<rt>ㄇㄨ</rt></ruby> | [[nebula]] | — | — | — | — | — |
 | 162 | sky | <ruby>天<rt>ㄊㄝㄋ</rt></ruby> | [[celo]] | — | — | ܣܡܝ | — | — |
 | 163 | wind | <ruby>風<rt>ㄈㄨㄫ</rt></ruby> | [[vento]] | — | — | ܪܘܚܐ | — | — |

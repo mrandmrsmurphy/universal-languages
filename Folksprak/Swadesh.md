@@ -214,7 +214,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 
 | №   | English     | Dutch        | Luxemb     | German  | Swedish              | Iceland     | Nynorsk      | Folksprak |
 | --- | ----------- | ------------ | ---------- | ------- | -------------------- | ----------- | ------------ | --------- |
-| 160 | cloud       | wolk         | Wollek     | Wolke   | moln                 | ský         | sky          | —         |
+| 160 | cloud       | wolk         | Wollek     | Wolke   | moln                 | ský         | sky          | [[Folksprak/Lexicon/ᚹᚩᛚᛣ\|ᚹᚩᛚᛣ volk]]         |
 | 161 | fog, (mist) | mist, nevel  | Niwwel     | Nebel   | dimma                | þoka        | tåke, skodde | —         |
 | 162 | sky         | hemel, lucht | Himmel     | Himmel  | himmel, sky (poetic) | himinn      | himmel       | —         |
 | 163 | wind        | wind         | Wand, Loft | Wind    | vind                 | vindur      | vind         | —         |
