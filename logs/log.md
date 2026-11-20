@@ -138,3 +138,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №187 adopted as ᚱᚩᛏᛏᛖᚾ (rotten), “rotten, decayed.” Added the related verb ᚱᚩᛏᛏᛖ (rotte), “to rot, to decay.” Both match Parke. Cross-linked and indexed the two entries, and linked the adjective in both Swadesh tables. Coverage is 187 of 207 concepts and 207 lexicon entries.
 
 - Folksprak adopted №189 rext “straight,” №196 rixtig “correct,” and №199 høgre “right (opposite of left).” Added and indexed all three entries, linked both Swadesh tables, and documented the split in Divergences. The lexicon has 210 entries.
+
+- Folksprak №190 filled with ᚱᚩᚾᛞ (rond) “round,” matching Parke and the widespread Germanic loan family from Old French rond. Added the entry, index line and both Swadesh links. The lexicon has 211 entries.

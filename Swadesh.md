@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189, 196, 199 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189–190, 196, 199 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -269,7 +269,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 187 | rotten | <ruby>腐敗<rt>ㄆㄨㄅㄚㄧ</rt></ruby> | [[putride]] | [[Folksprak/Lexicon/ᚱᚩᛏᛏᛖᚾ\|ᚱᚩᛏᛏᛖᚾ rotten]] | — | — | — | — |
 | 188 | dirty, filthy | <ruby>汚<rt>ㄛ</rt></ruby> | [[immunde]] | — | — | — | — | — |
 | 189 | straight | <ruby>直<rt>ㄐㄧㄊ</rt></ruby> | [[recte]] | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]] | — | — | — | — |
-| 190 | round | <ruby>圓<rt>⼔ㄋ</rt></ruby> | [[ronde]] | — | — | — | — | — |
+| 190 | round | <ruby>圓<rt>⼔ㄋ</rt></ruby> | [[ronde]] | [[Folksprak/Lexicon/ᚱᚩᚾᛞ\|ᚱᚩᚾᛞ rond]] | — | — | — | — |
 | 191 | sharp (as a knife) | <ruby>鋭利<rt>⼶ㄌㄧㄜ</rt></ruby> | [[acute]] | — | — | — | — | — |
 | 192 | dull, blunt | <ruby>鈍<rt>ㄉㄛㄋ</rt></ruby> | [[obtuse]] | — | — | — | — | — |
 | 193 | smooth | <ruby>滑<rt>ㄏ⺢ㄊ</rt></ruby> | [[lisie]] | — | — | — | — | — |
