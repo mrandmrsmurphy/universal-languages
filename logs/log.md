@@ -81,3 +81,8 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Balkan rulings (user): schwa unwritten except very rarely; da reused for subordinate clauses; να/na homophony accepted. Verb-form options proposed, not yet adopted.
 - Balkan verb forms adopted and written into `Balkan/Morphosyntax.md` (person endings, e-/ima-/dua-, future, perfect, evidential = 'be' + participle per user, subordinate da, ne, li). Aspect deferred. Development Roadmap Balkan row updated.
 - Balkan noun declension coined in `Balkan/Morphosyntax.md` (formal gender, merged nom/acc on nouns by user choice, oblique -u, plural -i, postposed article -ot/-ta/-to/-te, indefinite en/ena/eno).
+
+## 2026-11-13
+
+- `AIOS/portable-bootstrap.md` created (user request): a self-contained, vault-independent prompt for setting up AIOS memory and the append-only log in a different Obsidian vault, modeled on this vault's setup (memory-index, memory file format, site-map, log convention and rotation, byte-identical CLAUDE.md/AGENTS.md, content-vs-log rule). Added a row to `AIOS/site-map.md`.
+- `AIOS/portable-bootstrap.md` deleted (user request; it was a one-time handoff prompt, never meant to be permanent). Its site-map row removed. The entry above is left as history.
