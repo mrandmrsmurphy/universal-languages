@@ -146,3 +146,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №200 adopted as ᚹᛖᚾᛋᛏᚱᛖ (venstre) “left,” from the Nordic form of Proto-Germanic *wenistraz. Indexed and linked both Swadesh tables, paired it with høgre and documented the contrast with Parke’s bakkbord. The lexicon has 213 entries.
 
 - Folksprak №207 filled with ᚾᚪᛗ (nam) “name,” matching Munin and Parke. Added the entry, index line and both Swadesh links. The lexicon has 214 entries.
+
+- Folksprak №203 adopted as ᛗᛖᛞ (med) “with, together with,” matching Munin and Parke and reflecting Proto-Germanic *miþ(i). Added the entry, index line and both Swadesh links. The lexicon has 215 entries.

@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189–191, 196, 199–200, 207 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189–191, 196, 199–200, 203, 207 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -287,7 +287,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 201 | at, by | <ruby>於<rt>ㄛ</rt></ruby> | [[a]], [[in]] | — | — | ܒ | — | — |
 | 202 | in | <ruby>於<rt>ㄛ</rt></ruby> | [[in]] | — | — | ܦ | — | — |
-| 203 | with | <ruby>共<rt>ㄍ⼄ㄫ</rt></ruby> | [[con]] | — | — | ܥܡ | — | — |
+| 203 | with | <ruby>共<rt>ㄍ⼄ㄫ</rt></ruby> | [[con]] | [[Folksprak/Lexicon/ᛗᛖᛞ\|ᛗᛖᛞ med]] | — | ܥܡ | — | — |
 | 204 | and | <ruby>与<rt>⼄</rt></ruby> | [[e]] | — | — | ܘ | — | — |
 | 205 | if | <ruby>若<rt>ㄋ⼘</rt></ruby> | [[si]] | — | — | ܐܡ | — | — |
 | 206 | because | <ruby>因由<rt>ㄧㄋ·⼜ㄛ</rt></ruby> | [[proque]] | — | — | ܥܠܐܢ | — | — |
