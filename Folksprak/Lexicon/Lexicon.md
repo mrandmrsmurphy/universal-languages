@@ -187,6 +187,11 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛋᚾᛖ|ᛋᚾᛖ]] (sne) — snow
 - [[Folksprak/Lexicon/ᛁᛋ|ᛁᛋ]] (is) — ice
 - [[Folksprak/Lexicon/ᚱᛟᛣ|ᚱᛟᛣ]] (røk) — smoke (from combustion)
+- [[Folksprak/Lexicon/ᛖᛚᛞ|ᛖᛚᛞ]] (eld) — fire
+- [[Folksprak/Lexicon/ᚪᛋᛣ|ᚪᛋᛣ]] (ask) — ash (residue from burning)
+- [[Folksprak/Lexicon/ᛒᚱᛖᚾᚾᛖ|ᛒᚱᛖᚾᚾᛖ]] (brenne) — to burn
+- [[Folksprak/Lexicon/ᚹᛖᚷ|ᚹᛖᚷ]] (veg) — road, way
+- [[Folksprak/Lexicon/ᛒᛖᚱᚷ|ᛒᛖᚱᚷ]] (berg) — mountain
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

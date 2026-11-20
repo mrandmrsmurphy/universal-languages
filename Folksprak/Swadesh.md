@@ -221,11 +221,11 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 164 | snow        | sneeuw       | Schnéi     | Schnee  | snö                  | snjór       | snø          | [[Folksprak/Lexicon/ᛋᚾᛖ\|ᛋᚾᛖ sne]]         |
 | 165 | ice         | ijs          | Äis        | Eis     | is                   | ís, klaki   | is           | [[Folksprak/Lexicon/ᛁᛋ\|ᛁᛋ is]]         |
 | 166 | smoke       | rook         | Damp       | Rauch   | rök                  | reykur      | røyk         | [[Folksprak/Lexicon/ᚱᛟᛣ\|ᚱᛟᛣ røk]]         |
-| 167 | fire        | vuur         | Feier      | Feuer   | eld                  | eldur       | eld          | —         |
-| 168 | ash         | as           | Äschen     | Asche   | aska                 | aska        | oske, oska   | —         |
-| 169 | to burn     | branden      | brennen    | brennen | brinna               | brenna      | brenna       | —         |
-| 170 | road, way   | weg          | Strooss    | Weg     | väg                  | vegur, gata | veg          | —         |
-| 171 | mountain    | berg         | Bierg      | Berg    | berg                 | fjall       | fjell        | —         |
+| 167 | fire        | vuur         | Feier      | Feuer   | eld                  | eldur       | eld          | [[Folksprak/Lexicon/ᛖᛚᛞ\|ᛖᛚᛞ eld]]         |
+| 168 | ash         | as           | Äschen     | Asche   | aska                 | aska        | oske, oska   | [[Folksprak/Lexicon/ᚪᛋᛣ\|ᚪᛋᛣ ask]]         |
+| 169 | to burn     | branden      | brennen    | brennen | brinna               | brenna      | brenna       | [[Folksprak/Lexicon/ᛒᚱᛖᚾᚾᛖ\|ᛒᚱᛖᚾᚾᛖ brenne]]         |
+| 170 | road, way   | weg          | Strooss    | Weg     | väg                  | vegur, gata | veg          | [[Folksprak/Lexicon/ᚹᛖᚷ\|ᚹᛖᚷ veg]]         |
+| 171 | mountain    | berg         | Bierg      | Berg    | berg                 | fjall       | fjell        | [[Folksprak/Lexicon/ᛒᛖᚱᚷ\|ᛒᛖᚱᚷ berg]]         |
 
 ## 172–181 Colors, time and temperature
 

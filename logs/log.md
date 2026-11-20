@@ -120,3 +120,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №162–165 filled with ᚻᛁᛗᛗᛖᛚ (himmel) “sky,” ᚹᛁᚾᛞ (vind) “wind,” ᛋᚾᛖ (sne) “snow,” and ᛁᛋ (is) “ice.” Himmel matches Parke and the user’s form. Vind, sne and is match Munin. Added all four lexicon entries, index lines and both sets of Swadesh links. Coverage is 165 of 207 concepts and 184 lexicon entries.
 
 - Folksprak Swadesh №166 adopted as ᚱᛟᛣ (røk), “smoke (from combustion),” matching Parke’s roek and regular *au → ø. Added the lexicon entry, index line and both Swadesh links. Coverage is 166 of 207 concepts and 185 lexicon entries.
+
+- Folksprak Swadesh №167 adopted as ᛖᛚᛞ (eld), “fire,” from Proto-Germanic *ailidaz via the Nordic form. This avoids the collision of upstream fyr “fire” with vault fyr “four.” Munin eld “old” is documented in Divergences. Added the lexicon entry, index line and both Swadesh links. Coverage is 167 of 207 concepts and 186 lexicon entries.
+
+- Folksprak Swadesh №168–171 filled with ᚪᛋᛣ (ask) “ash,” ᛒᚱᛖᚾᚾᛖ (brenne) “to burn,” ᚹᛖᚷ (veg) “road, way,” and ᛒᛖᚱᚷ (berg) “mountain.” Ask matches Munin’s material sense. Brenne and berg match Parke, and veg adapts Parke’s weg. Added all four entries, index lines and both Swadesh links. Coverage is 171 of 207 concepts and 190 lexicon entries.

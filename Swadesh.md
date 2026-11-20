@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–166 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–171 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -236,11 +236,11 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 164 | snow | <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> | [[nive]] | [[Folksprak/Lexicon/ᛋᚾᛖ\|ᛋᚾᛖ sne]] | — | ܫܠܓܐ | — | — |
 | 165 | ice | <ruby>氷水<rt>ㄅㄧㄫㄙㄨ</rt></ruby> | [[glacie]] | [[Folksprak/Lexicon/ᛁᛋ\|ᛁᛋ is]] | — | — | — | — |
 | 166 | smoke | <ruby>煙気<rt>ㄝㄋㄎㄧㄜ</rt></ruby> | [[fumo]] | [[Folksprak/Lexicon/ᚱᛟᛣ\|ᚱᛟᛣ røk]] | — | — | — | — |
-| 167 | fire | <ruby>火<rt>ㄏ⺢</rt></ruby> | [[foco]] | — | — | ܢܘܪܐ | — | — |
-| 168 | ash | <ruby>灰<rt>ㄏㄛㄧ</rt></ruby> | [[cinere]] | — | — | ܐܝܣܐ | — | — |
-| 169 | to burn | <ruby>燃焼<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | [[arder]] | — | — | — | — | — |
-| 170 | road, way | <ruby>道路<rt>ㄉㄚㄨㄌㄛ</rt></ruby> | [[strata]] | — | — | ܬܪܟܐ | — | — |
-| 171 | mountain | <ruby>山<rt>ㄙㄚㄋ</rt></ruby> | [[montania]] | — | — | — | — | — |
+| 167 | fire | <ruby>火<rt>ㄏ⺢</rt></ruby> | [[foco]] | [[Folksprak/Lexicon/ᛖᛚᛞ\|ᛖᛚᛞ eld]] | — | ܢܘܪܐ | — | — |
+| 168 | ash | <ruby>灰<rt>ㄏㄛㄧ</rt></ruby> | [[cinere]] | [[Folksprak/Lexicon/ᚪᛋᛣ\|ᚪᛋᛣ ask]] | — | ܐܝܣܐ | — | — |
+| 169 | to burn | <ruby>燃焼<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | [[arder]] | [[Folksprak/Lexicon/ᛒᚱᛖᚾᚾᛖ\|ᛒᚱᛖᚾᚾᛖ brenne]] | — | — | — | — |
+| 170 | road, way | <ruby>道路<rt>ㄉㄚㄨㄌㄛ</rt></ruby> | [[strata]] | [[Folksprak/Lexicon/ᚹᛖᚷ\|ᚹᛖᚷ veg]] | — | ܬܪܟܐ | — | — |
+| 171 | mountain | <ruby>山<rt>ㄙㄚㄋ</rt></ruby> | [[montania]] | [[Folksprak/Lexicon/ᛒᛖᚱᚷ\|ᛒᛖᚱᚷ berg]] | — | — | — | — |
 
 ### 172–181 Colors, time and temperature
 
