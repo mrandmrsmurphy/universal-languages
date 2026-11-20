@@ -114,3 +114,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Verified and linked the existing Folksprak Swadesh №159 form ᛖᚱᛞ (erd), “earth, soil, ground.” Munin explicitly attests the material sense, Parke also gives “ground,” and Proto-Germanic *erþō fits regular *þ → d. Added the lexicon entry and index line and linked both Swadesh tables. Coverage is 159 of 207 concepts and 178 lexicon entries.
 
 - Folksprak Swadesh №160 adopted as ᚹᚩᛚᛣ (volk), “cloud,” matching Munin and regular *w → v. Added the lexicon entry, index line and both Swadesh links. Coverage is 160 of 207 concepts and 179 lexicon entries.
+
+- Folksprak Swadesh №161 adopted as ᚾᛖᚹᛖᛚ (nevel), “fog, mist,” matching Parke and regular intervocalic *b → v. Added the lexicon entry, index line and both Swadesh links. Coverage is 161 of 207 concepts and 180 lexicon entries.
