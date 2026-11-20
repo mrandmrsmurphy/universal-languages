@@ -130,3 +130,9 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №182–183 filled with ᚠᚢᛚᛚ (full) “full,” retaining inherited ll, and ᚾᚣ (ny) “new,” matching Parke and the vault spelling of Munin nü. Added both entries, index lines and both Swadesh links. Coverage is 183 of 207 concepts and 202 lexicon entries.
 
 - Folksprak Swadesh №184 filled with ᚪᛚᛞ (ald) “old,” from Proto-Germanic *aldaz and matching Parke. Munin’s eld “old” conflicts with the vault’s eld “fire”; Divergences records the two vault forms. Added the entry, index line and both Swadesh links. Coverage is 184 of 207 concepts and 203 lexicon entries.
+
+- Folksprak Swadesh №185 filled with ᚷᛟᛞ (gød) “good,” from Proto-Germanic *gōdaz with regular *ō → ø. Added the entry, index line and both Swadesh links, and noted upstream variants in Divergences. Coverage is 185 of 207 concepts and 204 lexicon entries.
+
+- Folksprak Swadesh №186 adopted as ᛋᛚᛖᛉᛏ (slext), “bad,” adapting Parke’s sleht with regular preconsonantal *h → x. Added the entry, index line, both Swadesh links and upstream comparison in Divergences. Coverage is 186 of 207 concepts and 205 lexicon entries.
+
+- Folksprak Swadesh №187 adopted as ᚱᚩᛏᛏᛖᚾ (rotten), “rotten, decayed.” Added the related verb ᚱᚩᛏᛏᛖ (rotte), “to rot, to decay.” Both match Parke. Cross-linked and indexed the two entries, and linked the adjective in both Swadesh tables. Coverage is 187 of 207 concepts and 207 lexicon entries.

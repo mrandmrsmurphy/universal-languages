@@ -205,6 +205,10 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᚠᚢᛚᛚ|ᚠᚢᛚᛚ]] (full) — full
 - [[Folksprak/Lexicon/ᚾᚣ|ᚾᚣ]] (ny) — new
 - [[Folksprak/Lexicon/ᚪᛚᛞ|ᚪᛚᛞ]] (ald) — old
+- [[Folksprak/Lexicon/ᚷᛟᛞ|ᚷᛟᛞ]] (gød) — good
+- [[Folksprak/Lexicon/ᛋᛚᛖᛉᛏ|ᛋᛚᛖᛉᛏ]] (slext) — bad
+- [[Folksprak/Lexicon/ᚱᚩᛏᛏᛖᚾ|ᚱᚩᛏᛏᛖᚾ]] (rotten) — rotten, decayed
+- [[Folksprak/Lexicon/ᚱᚩᛏᛏᛖ|ᚱᚩᛏᛏᛖ]] (rotte) — to rot, to decay
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze
