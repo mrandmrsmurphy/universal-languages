@@ -172,6 +172,7 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛋᛏᛖᚱᚾ|ᛋᛏᛖᚱᚾ]] (stern) — star
 - [[Folksprak/Lexicon/ᚹᚪᛏᛖᚱ|ᚹᚪᛏᛖᚱ]] (vater) — water
 - [[Folksprak/Lexicon/ᚱᛖᚷᛖᚾ|ᚱᛖᚷᛖᚾ]] (regen) — rain
+- [[Folksprak/Lexicon/ᚠᛚᛟᛞ|ᚠᛚᛟᛞ]] (flød) — river
 - [[Folksprak/Lexicon/ᚹᛖᚾᛞᛖ|ᚹᛖᚾᛞᛖ]] (vende) — to turn
 - [[Folksprak/Lexicon/ᚹᚪᛋᛣᛖ|ᚹᚪᛋᛣᛖ]] (vaske) — to wash
 - [[Folksprak/Lexicon/ᛣᛚᛖᛗᛗᛖ|ᛣᛚᛖᛗᛗᛖ]] (klemme) — to squeeze

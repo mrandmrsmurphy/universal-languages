@@ -201,7 +201,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 149 | star    | ster   | Stär    | Stern       | stjärna     | stjarna         | stjerne, stjerna           | [[Folksprak/Lexicon/ᛋᛏᛖᚱᚾ\|ᛋᛏᛖᚱᚾ stern]]           |
 | 150 | water   | water  | Waasser | Wasser      | vatten      | vatn            | vatn                       | [[Folksprak/Lexicon/ᚹᚪᛏᛖᚱ\|ᚹᚪᛏᛖᚱ vater]]           |
 | 151 | rain    | regen  | Reen    | Regen       | regn        | rigning, regn   | regna                      | [[Folksprak/Lexicon/ᚱᛖᚷᛖᚾ\|ᚱᛖᚷᛖᚾ regen]]           |
-| 152 | river   | rivier | Floss   | Fluß        | flod, älv   | á, fljót        | elv, å                     | —           |
+| 152 | river   | rivier | Floss   | Fluß        | flod, älv   | á, fljót        | elv, å                     | [[Folksprak/Lexicon/ᚠᛚᛟᛞ\|ᚠᛚᛟᛞ flød]]           |
 | 153 | lake    | meer   | Séi     | See         | sjö, tjärn  | vatn, stöðuvatn | innsjø, vatn, tjørn, tjern | —           |
 | 154 | sea     | zee    | Mier    | Meer        | hav         | sjór            | hav, sjø                   | —           |
 | 155 | salt    | zout   | Salz    | Salz        | salt        | salt            | salt                       | —           |
