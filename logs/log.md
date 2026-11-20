@@ -106,3 +106,9 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №152 adopted as ᚠᛚᛟᛞ (flød), “river,” from Proto-Germanic *flōdą with regular *ō → ø. Added the entry, index and both Swadesh links. Coverage is 152 of 207 concepts and 171 lexicon entries.
 
 - Folksprak Swadesh №153–154 adopted as ᛗᛖᚱ (mer) “lake” and ᛋᛖ (se) “sea,” following Parke and Munin respectively and matching the Dutch distribution of the roots. Added both entries, index lines and Swadesh links. Coverage is 154 of 207 concepts and 173 lexicon entries.
+
+- Folksprak Swadesh №155–157 filled with ᛋᚪᛚᛏ (salt) “salt,” ᛋᛏᛖᚾ (sten) “stone,” and ᛋᚪᚾᛞ (sand) “sand.” All three are attested in Parke, and Munin also gives sten. Added lexicon entries, index lines and both Swadesh links. Coverage is 157 of 207 concepts and 176 lexicon entries.
+
+- Folksprak Swadesh №158 adopted as ᛋᛏᛟᚹ (støv), “dust,” adapting Parke’s stoev and matching the Danish and Norwegian form. Added the entry, index and both Swadesh links. Coverage is 158 of 207 concepts and 177 lexicon entries.
+
+- Verified and linked the existing Folksprak Swadesh №159 form ᛖᚱᛞ (erd), “earth, soil, ground.” Munin explicitly attests the material sense, Parke also gives “ground,” and Proto-Germanic *erþō fits regular *þ → d. Added the lexicon entry and index line and linked both Swadesh tables. Coverage is 159 of 207 concepts and 178 lexicon entries.

@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–154 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–159 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -219,11 +219,11 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 152 | river | <ruby>川<rt>ㄑ⺢ㄋ</rt></ruby> | [[fluvio]] | [[Folksprak/Lexicon/ᚠᛚᛟᛞ\|ᚠᛚᛟᛞ flød]] | [[река]] | ܢܗܪܐ | — | — |
 | 153 | lake | <ruby>湖水<rt>ㄏㄛㄨㄙㄨ</rt></ruby> | [[laco]] | [[Folksprak/Lexicon/ᛗᛖᚱ\|ᛗᛖᚱ mer]] | [[єзеро]] | — | — | — |
 | 154 | sea | <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> | [[mar]] | [[Folksprak/Lexicon/ᛋᛖ\|ᛋᛖ se]] | [[морє]] | ܒܚܪܐ | — | — |
-| 155 | salt | <ruby>塩<rt>⼶ㄇ</rt></ruby> | [[sal]] | — | [[сољ]] | ܡܝܠܚܐ | — | — |
-| 156 | stone | <ruby>石<rt>ㄙㄝㄎ</rt></ruby> | [[petra]] | — | [[камењ]] | ܐܒܢܐ | — | — |
-| 157 | sand | <ruby>沙<rt>ㄙㄚ</rt></ruby> | [[arena]], [[sablo]] | — | [[песок]] | — | — | — |
-| 158 | dust | <ruby>灰塵<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby> | [[pulvere]] | — | [[прах]] | ܥܦܪܐ | — | — |
-| 159 | earth | <ruby>土<rt>ㄊㄛ</rt></ruby> | [[terra]] | ᛖᚱᛞ **erd** | [[земя]] | ܐܪܨܐ | — | — |
+| 155 | salt | <ruby>塩<rt>⼶ㄇ</rt></ruby> | [[sal]] | [[Folksprak/Lexicon/ᛋᚪᛚᛏ\|ᛋᚪᛚᛏ salt]] | [[сољ]] | ܡܝܠܚܐ | — | — |
+| 156 | stone | <ruby>石<rt>ㄙㄝㄎ</rt></ruby> | [[petra]] | [[Folksprak/Lexicon/ᛋᛏᛖᚾ\|ᛋᛏᛖᚾ sten]] | [[камењ]] | ܐܒܢܐ | — | — |
+| 157 | sand | <ruby>沙<rt>ㄙㄚ</rt></ruby> | [[arena]], [[sablo]] | [[Folksprak/Lexicon/ᛋᚪᚾᛞ\|ᛋᚪᚾᛞ sand]] | [[песок]] | — | — | — |
+| 158 | dust | <ruby>灰塵<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby> | [[pulvere]] | [[Folksprak/Lexicon/ᛋᛏᛟᚹ\|ᛋᛏᛟᚹ støv]] | [[прах]] | ܥܦܪܐ | — | — |
+| 159 | earth | <ruby>土<rt>ㄊㄛ</rt></ruby> | [[terra]] | [[Folksprak/Lexicon/ᛖᚱᛞ\|ᛖᚱᛞ erd]] | [[земя]] | ܐܪܨܐ | — | — |
 
 ### 160–171 Weather, fire and landscape
 
