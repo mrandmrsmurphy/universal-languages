@@ -255,7 +255,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 188 | dirty, filthy      | vuil, vies     | knaschteg, dreckeg | schmutzig    | smutsig             | skítugur, óhreinn       | møkut, skiten    | —         |
 | 189 | straight           | recht          | riicht             | gerade       | rak                 | beinn                   | rett, bein, rak  | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]]         |
 | 190 | round              | rond           | ronn               | rund         | rund                | kringlóttur             | rund             | [[Folksprak/Lexicon/ᚱᚩᚾᛞ\|ᚱᚩᚾᛞ rond]]         |
-| 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | —         |
+| 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]]         |
 | 192 | dull, blunt        | stomp, bot     | stomp              | stumpf       | slö                 | bitlaus                 | slø              | —         |
 | 193 | smooth             | glad           | glat               | glatt        | len, slät           | sleipur, sléttur        | jamn, slett      | —         |
 | 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | —         |
@@ -264,7 +264,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 197 | near               | dichtbij       | no, nobäi          | nah, nahe    | nära                | nálægur                 | nær, nære        | —         |
 | 198 | far                | ver            | wäit, wäit ewech   | weit, fern   | långt bort, fjärran | langt                   | langt            | —         |
 | 199 | right              | rechts         | riets              | rechts       | höger               | hægri                   | høgre            | [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ\|ᚻᛟᚷᚱᛖ høgre]]         |
-| 200 | left               | links          | lénks              | links        | vänster             | vinstri                 | venstre, vinstre | —         |
+| 200 | left               | links          | lénks              | links        | vänster             | vinstri                 | venstre, vinstre | [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ\|ᚹᛖᚾᛋᛏᚱᛖ venstre]]         |
 
 ## 201–207 Particles and name
 
@@ -276,7 +276,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 204 | and     | en           | an                | und             | och          | og             | og                    | —         |
 | 205 | if      | als, indien  | wann              | wenn, falls, ob | om           | ef             | om                    | —         |
 | 206 | because | omdat        | well              | weil            | eftersom, ty | því, af því að | av di, på grunn av at | —         |
-| 207 | name    | naam         | Numm              | Name            | namn         | nafn           | namn                  | —         |
+| 207 | name    | naam         | Numm              | Name            | namn         | nafn           | namn                  | [[Folksprak/Lexicon/ᚾᚪᛗ\|ᚾᚪᛗ nam]]         |
 
 ## Further numerals
 

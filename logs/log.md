@@ -140,3 +140,9 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak adopted №189 rext “straight,” №196 rixtig “correct,” and №199 høgre “right (opposite of left).” Added and indexed all three entries, linked both Swadesh tables, and documented the split in Divergences. The lexicon has 210 entries.
 
 - Folksprak №190 filled with ᚱᚩᚾᛞ (rond) “round,” matching Parke and the widespread Germanic loan family from Old French rond. Added the entry, index line and both Swadesh links. The lexicon has 211 entries.
+
+- Folksprak №191 filled with ᛋᛣᚪᚱᛈ (skarp) “sharp (as a knife),” from *skarpaz, with regular retention of *sk before *a. Indexed and linked both Swadesh tables. The lexicon has 212 entries.
+
+- Folksprak №200 adopted as ᚹᛖᚾᛋᛏᚱᛖ (venstre) “left,” from the Nordic form of Proto-Germanic *wenistraz. Indexed and linked both Swadesh tables, paired it with høgre and documented the contrast with Parke’s bakkbord. The lexicon has 213 entries.
+
+- Folksprak №207 filled with ᚾᚪᛗ (nam) “name,” matching Munin and Parke. Added the entry, index line and both Swadesh links. The lexicon has 214 entries.

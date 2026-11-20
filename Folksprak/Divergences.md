@@ -101,3 +101,5 @@ The remaining vault entries (tve, lus, bryst, fruxt, ficc, durfe, kunigdøm, kaf
 - **Bad** is [[Folksprak/Lexicon/ᛋᛚᛖᛉᛏ|slext]], with regular preconsonantal \*h → x. Munin has *slegt* and Parke has *sleht*.
 
 - [[Folksprak/Lexicon/ᚱᛖᛉᛏ|rext]] means “straight,” [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ|rixtig]] means “correct,” and [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ|høgre]] means directional “right.” Munin uses *regt* for correctness and justice. Parke has *rihtig* for correctness and *rihts* for the right-hand side.
+
+- Directional **left** is [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ|venstre]]. Parke gives *bakkbord* “left, portside.”

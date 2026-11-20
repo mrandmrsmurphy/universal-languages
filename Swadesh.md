@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189–190, 196, 199 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–187, 189–191, 196, 199–200, 207 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -270,7 +270,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 188 | dirty, filthy | <ruby>汚<rt>ㄛ</rt></ruby> | [[immunde]] | — | — | — | — | — |
 | 189 | straight | <ruby>直<rt>ㄐㄧㄊ</rt></ruby> | [[recte]] | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]] | — | — | — | — |
 | 190 | round | <ruby>圓<rt>⼔ㄋ</rt></ruby> | [[ronde]] | [[Folksprak/Lexicon/ᚱᚩᚾᛞ\|ᚱᚩᚾᛞ rond]] | — | — | — | — |
-| 191 | sharp (as a knife) | <ruby>鋭利<rt>⼶ㄌㄧㄜ</rt></ruby> | [[acute]] | — | — | — | — | — |
+| 191 | sharp (as a knife) | <ruby>鋭利<rt>⼶ㄌㄧㄜ</rt></ruby> | [[acute]] | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]] | — | — | — | — |
 | 192 | dull, blunt | <ruby>鈍<rt>ㄉㄛㄋ</rt></ruby> | [[obtuse]] | — | — | — | — | — |
 | 193 | smooth | <ruby>滑<rt>ㄏ⺢ㄊ</rt></ruby> | [[lisie]] | — | — | — | — | — |
 | 194 | wet | <ruby>湿<rt>ㄙㄧㄆ</rt></ruby> | [[humide]] | — | — | — | — | — |
@@ -279,7 +279,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 197 | near | <ruby>近<rt>ㄍㄧㄋ</rt></ruby> | [[proxime]] | — | — | — | — | — |
 | 198 | far | <ruby>遠<rt>ㄛㄋ</rt></ruby> | [[distante]] | — | — | — | — | — |
 | 199 | right | <ruby>右側<rt>⼜ㄐㄧㄎ</rt></ruby> | [[dextre]] | [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ\|ᚻᛟᚷᚱᛖ høgre]] | — | ܝܡܝܢܐ | — | — |
-| 200 | left | <ruby>左側<rt>ㄐㄚㄐㄧㄎ</rt></ruby> | [[sinistre]] | — | — | ܫܡܐܠ | — | — |
+| 200 | left | <ruby>左側<rt>ㄐㄚㄐㄧㄎ</rt></ruby> | [[sinistre]] | [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ\|ᚹᛖᚾᛋᛏᚱᛖ venstre]] | — | ܫܡܐܠ | — | — |
 
 ### 201–207 Particles and name
 
@@ -291,4 +291,4 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 204 | and | <ruby>与<rt>⼄</rt></ruby> | [[e]] | — | — | ܘ | — | — |
 | 205 | if | <ruby>若<rt>ㄋ⼘</rt></ruby> | [[si]] | — | — | ܐܡ | — | — |
 | 206 | because | <ruby>因由<rt>ㄧㄋ·⼜ㄛ</rt></ruby> | [[proque]] | — | — | ܥܠܐܢ | — | — |
-| 207 | name | <ruby>名<rt>ㄇㄧㄫ</rt></ruby> | [[nomine]] | — | [[име]] | ܣܝܡܐ | — | — |
+| 207 | name | <ruby>名<rt>ㄇㄧㄫ</rt></ruby> | [[nomine]] | [[Folksprak/Lexicon/ᚾᚪᛗ\|ᚾᚪᛗ nam]] | [[име]] | ܣܝܡܐ | — | — |
