@@ -100,3 +100,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №148 filled with ᛗᚩᚾ (mon), “moon,” from the inherited cognate family and matching Munin and Parke’s English–Folksprak dictionary. Added the entry, index and both Swadesh links. Coverage is 148 of 207 concepts and 167 lexicon entries.
 
 - Folksprak Swadesh №149 filled with ᛋᛏᛖᚱᚾ (stern), “star,” matching Munin and one of Parke’s Wordbok forms. Added the entry, index and both Swadesh links. Coverage is 149 of 207 concepts and 168 lexicon entries.
+
+- Folksprak Swadesh №150–151 filled with ᚹᚪᛏᛖᚱ (vater) “water,” adapting Parke’s water with w → v, and ᚱᛖᚷᛖᚾ (regen) “rain,” following Parke and retaining inherited g alongside the Munin parallel ren. Added both entries, index lines and Swadesh links. Coverage is 151 of 207 concepts and 170 lexicon entries.
