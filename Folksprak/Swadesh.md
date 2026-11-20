@@ -198,7 +198,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | --- | ------- | ------ | ------- | ----------- | ----------- | --------------- | -------------------------- | ----------- |
 | 147 | sun     | zon    | Sonn    | Sonne       | sol         | sól             | sol                        | [[Folksprak/Lexicon/ᛋᚢᚾᚾ\|ᛋᚢᚾᚾ sunn]]           |
 | 148 | moon    | maan   | Mound   | Mond        | måne        | tungl, máni     | måne                       | [[Folksprak/Lexicon/ᛗᚩᚾ\|ᛗᚩᚾ mon]]           |
-| 149 | star    | ster   | Stär    | Stern       | stjärna     | stjarna         | stjerne, stjerna           | —           |
+| 149 | star    | ster   | Stär    | Stern       | stjärna     | stjarna         | stjerne, stjerna           | [[Folksprak/Lexicon/ᛋᛏᛖᚱᚾ\|ᛋᛏᛖᚱᚾ stern]]           |
 | 150 | water   | water  | Waasser | Wasser      | vatten      | vatn            | vatn                       | —           |
 | 151 | rain    | regen  | Reen    | Regen       | regn        | rigning, regn   | regna                      | —           |
 | 152 | river   | rivier | Floss   | Fluß        | flod, älv   | á, fljót        | elv, å                     | —           |
