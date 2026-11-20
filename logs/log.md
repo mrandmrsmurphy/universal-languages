@@ -104,3 +104,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №150–151 filled with ᚹᚪᛏᛖᚱ (vater) “water,” adapting Parke’s water with w → v, and ᚱᛖᚷᛖᚾ (regen) “rain,” following Parke and retaining inherited g alongside the Munin parallel ren. Added both entries, index lines and Swadesh links. Coverage is 151 of 207 concepts and 170 lexicon entries.
 
 - Folksprak Swadesh №152 adopted as ᚠᛚᛟᛞ (flød), “river,” from Proto-Germanic *flōdą with regular *ō → ø. Added the entry, index and both Swadesh links. Coverage is 152 of 207 concepts and 171 lexicon entries.
+
+- Folksprak Swadesh №153–154 adopted as ᛗᛖᚱ (mer) “lake” and ᛋᛖ (se) “sea,” following Parke and Munin respectively and matching the Dutch distribution of the roots. Added both entries, index lines and Swadesh links. Coverage is 154 of 207 concepts and 173 lexicon entries.

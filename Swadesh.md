@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–152 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–154 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -217,8 +217,8 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 150 | water | <ruby>水<rt>ㄙㄨ</rt></ruby> | [[aqua]] | [[Folksprak/Lexicon/ᚹᚪᛏᛖᚱ\|ᚹᚪᛏᛖᚱ vater]] | [[вода]] | ܡܝܐ | — | — |
 | 151 | rain | <ruby>雨<rt>ㄨ</rt></ruby> | [[pluvia]] | [[Folksprak/Lexicon/ᚱᛖᚷᛖᚾ\|ᚱᛖᚷᛖᚾ regen]] | [[дожд]] | ܡܛܪܐ | — | — |
 | 152 | river | <ruby>川<rt>ㄑ⺢ㄋ</rt></ruby> | [[fluvio]] | [[Folksprak/Lexicon/ᚠᛚᛟᛞ\|ᚠᛚᛟᛞ flød]] | [[река]] | ܢܗܪܐ | — | — |
-| 153 | lake | <ruby>湖水<rt>ㄏㄛㄨㄙㄨ</rt></ruby> | [[laco]] | — | [[єзеро]] | — | — | — |
-| 154 | sea | <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> | [[mar]] | — | [[морє]] | ܒܚܪܐ | — | — |
+| 153 | lake | <ruby>湖水<rt>ㄏㄛㄨㄙㄨ</rt></ruby> | [[laco]] | [[Folksprak/Lexicon/ᛗᛖᚱ\|ᛗᛖᚱ mer]] | [[єзеро]] | — | — | — |
+| 154 | sea | <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> | [[mar]] | [[Folksprak/Lexicon/ᛋᛖ\|ᛋᛖ se]] | [[морє]] | ܒܚܪܐ | — | — |
 | 155 | salt | <ruby>塩<rt>⼶ㄇ</rt></ruby> | [[sal]] | — | [[сољ]] | ܡܝܠܚܐ | — | — |
 | 156 | stone | <ruby>石<rt>ㄙㄝㄎ</rt></ruby> | [[petra]] | — | [[камењ]] | ܐܒܢܐ | — | — |
 | 157 | sand | <ruby>沙<rt>ㄙㄚ</rt></ruby> | [[arena]], [[sablo]] | — | [[песок]] | — | — | — |

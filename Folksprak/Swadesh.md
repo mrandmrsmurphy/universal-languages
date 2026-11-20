@@ -202,8 +202,8 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 150 | water   | water  | Waasser | Wasser      | vatten      | vatn            | vatn                       | [[Folksprak/Lexicon/ᚹᚪᛏᛖᚱ\|ᚹᚪᛏᛖᚱ vater]]           |
 | 151 | rain    | regen  | Reen    | Regen       | regn        | rigning, regn   | regna                      | [[Folksprak/Lexicon/ᚱᛖᚷᛖᚾ\|ᚱᛖᚷᛖᚾ regen]]           |
 | 152 | river   | rivier | Floss   | Fluß        | flod, älv   | á, fljót        | elv, å                     | [[Folksprak/Lexicon/ᚠᛚᛟᛞ\|ᚠᛚᛟᛞ flød]]           |
-| 153 | lake    | meer   | Séi     | See         | sjö, tjärn  | vatn, stöðuvatn | innsjø, vatn, tjørn, tjern | —           |
-| 154 | sea     | zee    | Mier    | Meer        | hav         | sjór            | hav, sjø                   | —           |
+| 153 | lake    | meer   | Séi     | See         | sjö, tjärn  | vatn, stöðuvatn | innsjø, vatn, tjørn, tjern | [[Folksprak/Lexicon/ᛗᛖᚱ\|ᛗᛖᚱ mer]]           |
+| 154 | sea     | zee    | Mier    | Meer        | hav         | sjór            | hav, sjø                   | [[Folksprak/Lexicon/ᛋᛖ\|ᛋᛖ se]]           |
 | 155 | salt    | zout   | Salz    | Salz        | salt        | salt            | salt                       | —           |
 | 156 | stone   | steen  | Steen   | Stein       | sten        | steinn          | stein                      | —           |
 | 157 | sand    | zand   | Sand    | Sand        | sand        | sandur          | sand                       | —           |
