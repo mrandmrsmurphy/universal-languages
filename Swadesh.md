@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–143 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–146 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -203,9 +203,9 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 141 | to sing | <ruby>唱歌<rt>ㄑ⺢ㄫㄍㄜ</rt></ruby> | [[cantar]] | [[Folksprak/Lexicon/ᛋᛁᚾᚷᛖ\|ᛋᛁᚾᚷᛖ singe]] | [[спевати]] | ܙܡܪ | — | [[bína]] |
 | 142 | to play | <ruby>遊戯<rt>⼜ㄛㄏㄨㄧ</rt></ruby> | [[jocar]] | [[Folksprak/Lexicon/ᛋᛈᛁᛚᛖ\|ᛋᛈᛁᛚᛖ spile]] | [[играти]] | — | — | [[sína]] |
 | 143 | to float | <ruby>浮<rt>ㄅㄨㄛ</rt></ruby> | [[flottar]] | [[Folksprak/Lexicon/ᚠᛚᚣᛏᛖ\|ᚠᛚᚣᛏᛖ flyte]] | [[плывти]] | — | — | [[déda]] |
-| 144 | to flow, to run | <ruby>流動<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> | [[fluer]] | — | [[текти]] | — | — | [[geda]] |
-| 145 | to freeze | <ruby>凍結<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby> | [[gelar]] | — | — | — | — | — |
-| 146 | to swell | <ruby>膨脹<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby> | [[tumer]] | — | [[пухнути]] | — | — | [[bímba]] |
+| 144 | to flow, to run | <ruby>流動<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> | [[fluer]] | [[Folksprak/Lexicon/ᚱᛁᚾᚾᛖ\|ᚱᛁᚾᚾᛖ rinne]] | [[текти]] | — | — | [[geda]] |
+| 145 | to freeze | <ruby>凍結<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby> | [[gelar]] | [[Folksprak/Lexicon/ᚠᚱᚣᛋᛖ\|ᚠᚱᚣᛋᛖ fryse]] | — | — | — | — |
+| 146 | to swell | <ruby>膨脹<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby> | [[tumer]] | [[Folksprak/Lexicon/ᛋᚹᛖᛚᛚᛖ\|ᛋᚹᛖᛚᛚᛖ svelle]] | [[пухнути]] | — | — | [[bímba]] |
 
 ### 147–159 Sun, water and ground
 

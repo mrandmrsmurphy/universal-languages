@@ -188,9 +188,9 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 141 | to sing         | zingen            | sangen                | singen                         | sjunga        | syngja               | syngja                        | [[Folksprak/Lexicon/ᛋᛁᚾᚷᛖ\|ᛋᛁᚾᚷᛖ singe]]    |
 | 142 | to play         | spelen            | spillen               | spielen                        | leka          | leika                | leika                         | [[Folksprak/Lexicon/ᛋᛈᛁᛚᛖ\|ᛋᛈᛁᛚᛖ spile]]    |
 | 143 | to float        | drijven, zweven   | schwiewen , schwammen | schweben , schwimmen , gleiten | flyta         | fljóta               | flyta                         | [[Folksprak/Lexicon/ᚠᛚᚣᛏᛖ\|ᚠᛚᚣᛏᛖ flyte]]    |
-| 144 | to flow, to run | vloeien           | fléissen              | fließen                        | rinna         | streyma, renna       | fløyma, renna, strøyma, flyta | —                                           |
-| 145 | to freeze       | vriezen           | fréieren              | frieren                        | frysa         | frjósa               | frysa                         | —                                           |
-| 146 | to swell        | zwellen           | schwëllen             | schwellen                      | svälla        | þrútna, bólgna, ólga | hovna, svella, trutna         | —                                           |
+| 144 | to flow, to run | vloeien           | fléissen              | fließen                        | rinna         | streyma, renna       | fløyma, renna, strøyma, flyta | [[Folksprak/Lexicon/ᚱᛁᚾᚾᛖ\|ᚱᛁᚾᚾᛖ rinne]]                                           |
+| 145 | to freeze       | vriezen           | fréieren              | frieren                        | frysa         | frjósa               | frysa                         | [[Folksprak/Lexicon/ᚠᚱᚣᛋᛖ\|ᚠᚱᚣᛋᛖ fryse]]                                           |
+| 146 | to swell        | zwellen           | schwëllen             | schwellen                      | svälla        | þrútna, bólgna, ólga | hovna, svella, trutna         | [[Folksprak/Lexicon/ᛋᚹᛖᛚᛚᛖ\|ᛋᚹᛖᛚᛚᛖ svelle]]                                           |
 
 ## 147–159 Sun, water and ground
 

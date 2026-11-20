@@ -86,3 +86,11 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 
 - `AIOS/portable-bootstrap.md` created (user request): a self-contained, vault-independent prompt for setting up AIOS memory and the append-only log in a different Obsidian vault, modeled on this vault's setup (memory-index, memory file format, site-map, log convention and rotation, byte-identical CLAUDE.md/AGENTS.md, content-vs-log rule). Added a row to `AIOS/site-map.md`.
 - `AIOS/portable-bootstrap.md` deleted (user request; it was a one-time handoff prompt, never meant to be permanent). Its site-map row removed. The entry above is left as history.
+
+## 2026-11-20
+
+- Folksprak Swadesh №144 adopted as ᚱᛁᚾᚾᛖ (rinne), “to flow, to run” of a liquid, from Proto-Germanic *rinnaną and attested in both Parke dictionaries. Added the entry, indexed and linked it, and updated coverage to 144 of 207 concepts and 163 lexicon entries.
+
+- Folksprak Swadesh №145 adopted as ᚠᚱᚣᛋᛖ (fryse), “to freeze,” the inherited cognate of English *freeze* from Proto-Germanic *freusaną and attested in both Parke dictionaries. Added the lexicon entry and links. Coverage is 145 of 207 concepts and 164 lexicon entries.
+
+- Folksprak Swadesh №146 adopted as ᛋᚹᛖᛚᛚᛖ (svelle), “to swell,” from Proto-Germanic *swellaną. Parke’s swelle follows the same root and takes the vault’s regular *w → v. Added the entry, index and both Swadesh links. Coverage is 146 of 207 concepts and 165 lexicon entries.
