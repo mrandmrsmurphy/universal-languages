@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–147 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–148 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -212,7 +212,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | № | English | Dan'a'yo | Interlingua | Folksprak | Interslavic | Middle Semitic | SEDES | Kintu |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 147 | sun | <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> | [[sol]] | [[Folksprak/Lexicon/ᛋᚢᚾᚾ\|ᛋᚢᚾᚾ sunn]] | [[солнце]] | ܫܡܣܐ | — | — |
-| 148 | moon | <ruby>月<rt>⼔ㄊ</rt></ruby> | [[luna]] | — | [[месец]] | ܘܪܚܐ | — | — |
+| 148 | moon | <ruby>月<rt>⼔ㄊ</rt></ruby> | [[luna]] | [[Folksprak/Lexicon/ᛗᚩᚾ\|ᛗᚩᚾ mon]] | [[месец]] | ܘܪܚܐ | — | — |
 | 149 | star | <ruby>星<rt>ㄙㄝㄫ</rt></ruby> | [[stella]] | — | [[звезда]] | ܟܘܟܒܐ | — | — |
 | 150 | water | <ruby>水<rt>ㄙㄨ</rt></ruby> | [[aqua]] | — | [[вода]] | ܡܝܐ | — | — |
 | 151 | rain | <ruby>雨<rt>ㄨ</rt></ruby> | [[pluvia]] | — | [[дожд]] | ܡܛܪܐ | — | — |

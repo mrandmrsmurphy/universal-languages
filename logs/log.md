@@ -96,3 +96,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak Swadesh №146 adopted as ᛋᚹᛖᛚᛚᛖ (svelle), “to swell,” from Proto-Germanic *swellaną. Parke’s swelle follows the same root and takes the vault’s regular *w → v. Added the entry, index and both Swadesh links. Coverage is 146 of 207 concepts and 165 lexicon entries.
 
 - Folksprak Swadesh №147 adopted as ᛋᚢᚾᚾ (sunn), “sun,” from the inherited n-stem, with Munin sun and Parke sonn as parallels. Added the entry, index and both Swadesh links. Coverage is 147 of 207 concepts and 166 lexicon entries.
+
+- Folksprak Swadesh №148 filled with ᛗᚩᚾ (mon), “moon,” from the inherited cognate family and matching Munin and Parke’s English–Folksprak dictionary. Added the entry, index and both Swadesh links. Coverage is 148 of 207 concepts and 167 lexicon entries.
