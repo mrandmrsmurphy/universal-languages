@@ -256,8 +256,8 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 189 | straight           | recht          | riicht             | gerade       | rak                 | beinn                   | rett, bein, rak  | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]]         |
 | 190 | round              | rond           | ronn               | rund         | rund                | kringlóttur             | rund             | [[Folksprak/Lexicon/ᚱᚩᚾᛞ\|ᚱᚩᚾᛞ rond]]         |
 | 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]]         |
-| 192 | dull, blunt        | stomp, bot     | stomp              | stumpf       | slö                 | bitlaus                 | slø              | —         |
-| 193 | smooth             | glad           | glat               | glatt        | len, slät           | sleipur, sléttur        | jamn, slett      | —         |
+| 192 | dull, blunt        | stomp, bot     | stomp              | stumpf       | slö                 | bitlaus                 | slø              | [[Folksprak/Lexicon/ᛋᛏᚢᛗᛈ\|ᛋᛏᚢᛗᛈ stump]]         |
+| 193 | smooth             | glad           | glat               | glatt        | len, slät           | sleipur, sléttur        | jamn, slett      | [[Folksprak/Lexicon/ᚷᛚᚪᛞᛞ\|ᚷᛚᚪᛞᛞ gladd]]         |
 | 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | —         |
 | 195 | dry                | droog          | dréchen            | trocken      | torr                | þurr                    | tørr, turr       | —         |
 | 196 | correct            | juist, correct | richteg            | richtig      | rätt, riktig        | réttur                  | rett             | [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ\|ᚱᛁᛉᛏᛁᚷ rixtig]]         |

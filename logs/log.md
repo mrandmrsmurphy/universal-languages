@@ -160,3 +160,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №201 adopted as ᛒᛁ (bi) “at, by,” matching Parke. Morphosyntax records bi for general location or proximity and as the default temporal preposition across clock times, days and longer periods. Spatial in marks containment. Added the entry, index and both Swadesh links.
 
 - Folksprak №188 adopted as ᛋᛗᚢᛏᛏᛁᚷ (smuttig) “dirty, filthy,” matching Parke. Also coined ᛋᛗᚢᛏᛏ (smutt) “dirt, grime.” The adjective records smutt + -ig in its Composition row. The noun records the uncertain connection to *smītaną. Indexed both and verified the adjective’s Swadesh links.
+
+- Folksprak №192 adopted as ᛋᛏᚢᛗᛈ (stump) “dull, blunt” of an edge or point, matching Parke. Indexed and linked both Swadesh tables and linked the antonym skarp in the entry.
+
+- Folksprak №193 adopted as ᚷᛚᚪᛞᛞ (gladd) “smooth to the touch,” matching Parke. Added the entry, index and both Swadesh links.
