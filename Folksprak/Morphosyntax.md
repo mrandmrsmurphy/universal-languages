@@ -56,3 +56,8 @@ Normally with infinitive; sometimes with past participle.
 
 - Adverb-making suffix: **-ᛚᛁᛣ** / **-lik** (cf. English *-ly*)
 - Elatives need ᛗᛖᚱ **mer** (more) and ᛗᛖᛋᛏ **mest** (most)
+
+## Subordinating conjunctions
+
+- [[Folksprak/Lexicon/ᛖᚠ|ef]] introduces a condition, as in “if it rains.”
+- [[Folksprak/Lexicon/ᚠᚩᚱᛞᚪᛏ|fordat]] introduces a reason or cause, as in “because it rained.” It combines *for* “for” and *dat* “that,” a pattern shared with Nordic *fordi*.
