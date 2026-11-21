@@ -152,3 +152,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak adopted ᚪᚾᛞ (and) “and” at Swadesh №204 and ᚩᚷ (og) “also, too” as a separate adverb. Created and cross-linked both entries, indexed them, and verified both Swadesh links for and. The lexicon has 217 entries.
 
 - Folksprak №202 adopted as ᛁᚾ (in) “in,” matching Parke. One n suffices because the preposition is proclitic and its vowel is short in ordinary use. Added the entry and verified both Swadesh links.
+
+- Folksprak №205 adopted as ᛖᚠ (ef) “if” for conditional clauses, matching Munin and Icelandic. Added the lexicon entry and verified both Swadesh links. The lexicon has 219 entries.
