@@ -270,7 +270,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 
 | №   | English | Dutch        | Luxemb            | German          | Swedish      | Iceland        | Nynorsk               | Folksprak |
 | --- | ------- | ------------ | ----------------- | --------------- | ------------ | -------------- | --------------------- | --------- |
-| 201 | at, by  | aan, te, bij | an, bei, drun, op | bei, an         | hos, vid     | hjá            | hjå, hos, på          | —         |
+| 201 | at, by  | aan, te, bij | an, bei, drun, op | bei, an         | hos, vid     | hjá            | hjå, hos, på          | [[Folksprak/Lexicon/ᛒᛁ\|ᛒᛁ bi]]         |
 | 202 | in      | in           | an, dran          | in              | i            | í              | i                     | [[Folksprak/Lexicon/ᛁᚾ\|ᛁᚾ in]]         |
 | 203 | with    | met          | mat               | mit             | med          | með            | med                   | [[Folksprak/Lexicon/ᛗᛖᛞ\|ᛗᛖᛞ med]]         |
 | 204 | and     | en           | an                | und             | och          | og             | og                    | [[Folksprak/Lexicon/ᚪᚾᛞ\|ᚪᚾᛞ and]]         |

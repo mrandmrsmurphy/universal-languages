@@ -156,3 +156,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №205 adopted as ᛖᚠ (ef) “if” for conditional clauses, matching Munin and Icelandic. Added the lexicon entry and verified both Swadesh links. The lexicon has 219 entries.
 
 - Folksprak №206 adopted as ᚠᚩᚱᛞᚪᛏ (fordat) “because,” matching Parke. Added the lexicon entry, both Swadesh links, and a Morphosyntax note on causal fordat and conditional ef. The entry documents the “for that” and “from/of that” patterns and other Germanic parallels. The lexicon has 220 entries.
+
+- Folksprak №201 adopted as ᛒᛁ (bi) “at, by,” matching Parke. Morphosyntax records bi for general location or proximity and as the default temporal preposition across clock times, days and longer periods. Spatial in marks containment. Added the entry, index and both Swadesh links.

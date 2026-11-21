@@ -57,6 +57,11 @@ Normally with infinitive; sometimes with past participle.
 - Adverb-making suffix: **-ᛚᛁᛣ** / **-lik** (cf. English *-ly*)
 - Elatives need ᛗᛖᚱ **mer** (more) and ᛗᛖᛋᛏ **mest** (most)
 
+## Prepositions of place and time
+
+- [[Folksprak/Lexicon/ᛒᛁ|bi]] marks general location or proximity (“at the station,” “by the door”). [[Folksprak/Lexicon/ᛁᚾ|in]] marks being inside a place.
+- *Bi* is the default for when something happens, including clock times, days and longer periods (“at noon,” “on Wednesday,” “in July”). Express deadlines explicitly with “no later than.”
+
 ## Subordinating conjunctions
 
 - [[Folksprak/Lexicon/ᛖᚠ|ef]] introduces a condition, as in “if it rains.”

@@ -238,6 +238,7 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᚾᚪᛗ|ᚾᚪᛗ]] (nam) — name
 - [[Folksprak/Lexicon/ᛗᛖᛞ|ᛗᛖᛞ]] (med) — with, together with
 - [[Folksprak/Lexicon/ᛁᚾ|ᛁᚾ]] (in) — in
+- [[Folksprak/Lexicon/ᛒᛁ|ᛒᛁ]] (bi) — at, by (place and time)
 - [[Folksprak/Lexicon/ᚪᚾᛞ|ᚪᚾᛞ]] (and) — and
 - [[Folksprak/Lexicon/ᛖᚠ|ᛖᚠ]] (ef) — if (conditional)
 - [[Folksprak/Lexicon/ᚠᚩᚱᛞᚪᛏ|ᚠᚩᚱᛞᚪᛏ]] (fordat) — because
