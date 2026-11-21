@@ -158,3 +158,5 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №206 adopted as ᚠᚩᚱᛞᚪᛏ (fordat) “because,” matching Parke. Added the lexicon entry, both Swadesh links, and a Morphosyntax note on causal fordat and conditional ef. The entry documents the “for that” and “from/of that” patterns and other Germanic parallels. The lexicon has 220 entries.
 
 - Folksprak №201 adopted as ᛒᛁ (bi) “at, by,” matching Parke. Morphosyntax records bi for general location or proximity and as the default temporal preposition across clock times, days and longer periods. Spatial in marks containment. Added the entry, index and both Swadesh links.
+
+- Folksprak №188 adopted as ᛋᛗᚢᛏᛏᛁᚷ (smuttig) “dirty, filthy,” matching Parke. Also coined ᛋᛗᚢᛏᛏ (smutt) “dirt, grime.” The adjective records smutt + -ig in its Composition row. The noun records the uncertain connection to *smītaną. Indexed both and verified the adjective’s Swadesh links.

@@ -252,7 +252,7 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 185 | good               | goed           | gutt               | gut          | bra                 | góður                   | god, bra         | [[Folksprak/Lexicon/ᚷᛟᛞ\|ᚷᛟᛞ gød]]         |
 | 186 | bad                | slecht         | schlecht           | schlecht     | dålig               | vondur, slæmur          | ill, vond, dåleg | [[Folksprak/Lexicon/ᛋᛚᛖᛉᛏ\|ᛋᛚᛖᛉᛏ slext]]         |
 | 187 | rotten             | rot            | faul               | verrottet    | rutten              | fúinn, rotinn           | ròten            | [[Folksprak/Lexicon/ᚱᚩᛏᛏᛖᚾ\|ᚱᚩᛏᛏᛖᚾ rotten]]         |
-| 188 | dirty, filthy      | vuil, vies     | knaschteg, dreckeg | schmutzig    | smutsig             | skítugur, óhreinn       | møkut, skiten    | —         |
+| 188 | dirty, filthy      | vuil, vies     | knaschteg, dreckeg | schmutzig    | smutsig             | skítugur, óhreinn       | møkut, skiten    | [[Folksprak/Lexicon/ᛋᛗᚢᛏᛏᛁᚷ\|ᛋᛗᚢᛏᛏᛁᚷ smuttig]]         |
 | 189 | straight           | recht          | riicht             | gerade       | rak                 | beinn                   | rett, bein, rak  | [[Folksprak/Lexicon/ᚱᛖᛉᛏ\|ᚱᛖᛉᛏ rext]]         |
 | 190 | round              | rond           | ronn               | rund         | rund                | kringlóttur             | rund             | [[Folksprak/Lexicon/ᚱᚩᚾᛞ\|ᚱᚩᚾᛞ rond]]         |
 | 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]]         |
