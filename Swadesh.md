@@ -11,7 +11,7 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | UL | Page | Status |
 | --- | --- | --- |
 | [[Dan'a'yo]] | `lexipedia/Swadesh.md` in the danayo vault | **Complete** comparative list |
-| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–193, 196, 199–207 coined and lexicon-linked; numerals 1–12 done |
+| [[Folksprak]] | [[Folksprak/Swadesh]] | №1–196, 199–207 coined and lexicon-linked; numerals 1–12 done |
 | [[Interslavic]] | [[Interslavic/Swadesh]] | Comparative page; lexicon links begun |
 | [[Middle Semitic]] | `Swadesh.md` in the middle-semitic vault | Full comparative table (MSA, Hebrew, Syriac, Egyptian, Palestinian); 131 of 207 Middle Semitic cells filled |
 | [[Interlingua]] | [[Interlingua/Swadesh]] | Full comparative table (Latin, Portuguese, Spanish, French, Italian, Interlingua) |
@@ -273,8 +273,8 @@ Below, the seven ULs with any coined forms are shown side by side, one table per
 | 191 | sharp (as a knife) | <ruby>鋭利<rt>⼶ㄌㄧㄜ</rt></ruby> | [[acute]] | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]] | — | — | — | — |
 | 192 | dull, blunt | <ruby>鈍<rt>ㄉㄛㄋ</rt></ruby> | [[obtuse]] | [[Folksprak/Lexicon/ᛋᛏᚢᛗᛈ\|ᛋᛏᚢᛗᛈ stump]] | — | — | — | — |
 | 193 | smooth | <ruby>滑<rt>ㄏ⺢ㄊ</rt></ruby> | [[lisie]] | [[Folksprak/Lexicon/ᚷᛚᚪᛞᛞ\|ᚷᛚᚪᛞᛞ gladd]] | — | — | — | — |
-| 194 | wet | <ruby>湿<rt>ㄙㄧㄆ</rt></ruby> | [[humide]] | — | — | — | — | — |
-| 195 | dry | <ruby>乾燥<rt>ㄍ⼶ㄋㄙㄚㄨ</rt></ruby> | [[sic]] | — | — | — | — | — |
+| 194 | wet | <ruby>湿<rt>ㄙㄧㄆ</rt></ruby> | [[humide]] | [[Folksprak/Lexicon/ᚾᚪᛏᛏ\|ᚾᚪᛏᛏ natt]] | — | — | — | — |
+| 195 | dry | <ruby>乾燥<rt>ㄍ⼶ㄋㄙㄚㄨ</rt></ruby> | [[sic]] | [[Folksprak/Lexicon/ᛞᚢᚱᚱ\|ᛞᚢᚱᚱ durr]] | — | — | — | — |
 | 196 | correct | <ruby>正<rt>ㄐㄧㄫ</rt></ruby> | [[correcte]] | [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ\|ᚱᛁᛉᛏᛁᚷ rixtig]] | — | — | — | — |
 | 197 | near | <ruby>近<rt>ㄍㄧㄋ</rt></ruby> | [[proxime]] | — | — | — | — | — |
 | 198 | far | <ruby>遠<rt>ㄛㄋ</rt></ruby> | [[distante]] | — | — | — | — | — |

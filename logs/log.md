@@ -164,3 +164,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №192 adopted as ᛋᛏᚢᛗᛈ (stump) “dull, blunt” of an edge or point, matching Parke. Indexed and linked both Swadesh tables and linked the antonym skarp in the entry.
 
 - Folksprak №193 adopted as ᚷᛚᚪᛞᛞ (gladd) “smooth to the touch,” matching Parke. Added the entry, index and both Swadesh links.
+
+- Folksprak №194 adopted as ᚾᚪᛏᛏ (natt) “wet,” from *nataz, avoiding vat “what” and vet “know.” Added the entry, index and both Swadesh links.
+
+- Folksprak №195 adopted as ᛞᚢᚱᚱ (durr) “dry,” from the Nordic family with regular *þ → d. Added and indexed the entry, verified both Swadesh links and recorded Parke’s alternatives in Divergences.

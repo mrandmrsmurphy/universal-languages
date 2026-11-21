@@ -236,6 +236,8 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ|ᛋᛣᚪᚱᛈ]] (skarp) — sharp (as a knife)
 - [[Folksprak/Lexicon/ᛋᛏᚢᛗᛈ|ᛋᛏᚢᛗᛈ]] (stump) — dull, blunt
 - [[Folksprak/Lexicon/ᚷᛚᚪᛞᛞ|ᚷᛚᚪᛞᛞ]] (gladd) — smooth to the touch
+- [[Folksprak/Lexicon/ᚾᚪᛏᛏ|ᚾᚪᛏᛏ]] (natt) — wet
+- [[Folksprak/Lexicon/ᛞᚢᚱᚱ|ᛞᚢᚱᚱ]] (durr) — dry
 - [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ|ᚱᛁᛉᛏᛁᚷ]] (rixtig) — correct, right
 - [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ|ᚻᛟᚷᚱᛖ]] (høgre) — right (opposite of left)
 - [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ|ᚹᛖᚾᛋᛏᚱᛖ]] (venstre) — left (opposite of right)

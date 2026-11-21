@@ -258,8 +258,8 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 191 | sharp (as a knife) | scherp         | schaarf            | scharf       | vass                | beittur, hvass, skarpur | skarp, kvass     | [[Folksprak/Lexicon/ᛋᛣᚪᚱᛈ\|ᛋᛣᚪᚱᛈ skarp]]         |
 | 192 | dull, blunt        | stomp, bot     | stomp              | stumpf       | slö                 | bitlaus                 | slø              | [[Folksprak/Lexicon/ᛋᛏᚢᛗᛈ\|ᛋᛏᚢᛗᛈ stump]]         |
 | 193 | smooth             | glad           | glat               | glatt        | len, slät           | sleipur, sléttur        | jamn, slett      | [[Folksprak/Lexicon/ᚷᛚᚪᛞᛞ\|ᚷᛚᚪᛞᛞ gladd]]         |
-| 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | —         |
-| 195 | dry                | droog          | dréchen            | trocken      | torr                | þurr                    | tørr, turr       | —         |
+| 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | [[Folksprak/Lexicon/ᚾᚪᛏᛏ\|ᚾᚪᛏᛏ natt]]         |
+| 195 | dry                | droog          | dréchen            | trocken      | torr                | þurr                    | tørr, turr       | [[Folksprak/Lexicon/ᛞᚢᚱᚱ\|ᛞᚢᚱᚱ durr]]         |
 | 196 | correct            | juist, correct | richteg            | richtig      | rätt, riktig        | réttur                  | rett             | [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ\|ᚱᛁᛉᛏᛁᚷ rixtig]]         |
 | 197 | near               | dichtbij       | no, nobäi          | nah, nahe    | nära                | nálægur                 | nær, nære        | —         |
 | 198 | far                | ver            | wäit, wäit ewech   | weit, fern   | långt bort, fjärran | langt                   | langt            | —         |
