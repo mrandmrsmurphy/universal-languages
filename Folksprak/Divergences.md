@@ -105,3 +105,5 @@ The remaining vault entries (tve, lus, bryst, fruxt, ficc, durfe, kunigdøm, kaf
 - Directional **left** is [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ|venstre]]. Parke gives *bakkbord* “left, portside.”
 
 - **Dry** is [[Folksprak/Lexicon/ᛞᚢᚱᚱ|durr]], following the Nordic root with regular \*þ → d. Parke gives *droeg* and *tyrr*.
+
+- **Near** is [[Folksprak/Lexicon/ᚾᛖᚱ|ner]], using the historical comparative stem. Munin gives *na* and Parke gives adjective *naij*.

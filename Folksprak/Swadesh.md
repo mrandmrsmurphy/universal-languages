@@ -261,8 +261,8 @@ List source: https://linguifex.com/wiki/Folksprak/Swadesh
 | 194 | wet                | nat            | naass              | nass, feucht | våt, blöt           | blautur                 | våt, blaut       | [[Folksprak/Lexicon/ᚾᚪᛏᛏ\|ᚾᚪᛏᛏ natt]]         |
 | 195 | dry                | droog          | dréchen            | trocken      | torr                | þurr                    | tørr, turr       | [[Folksprak/Lexicon/ᛞᚢᚱᚱ\|ᛞᚢᚱᚱ durr]]         |
 | 196 | correct            | juist, correct | richteg            | richtig      | rätt, riktig        | réttur                  | rett             | [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ\|ᚱᛁᛉᛏᛁᚷ rixtig]]         |
-| 197 | near               | dichtbij       | no, nobäi          | nah, nahe    | nära                | nálægur                 | nær, nære        | —         |
-| 198 | far                | ver            | wäit, wäit ewech   | weit, fern   | långt bort, fjärran | langt                   | langt            | —         |
+| 197 | near               | dichtbij       | no, nobäi          | nah, nahe    | nära                | nálægur                 | nær, nære        | [[Folksprak/Lexicon/ᚾᛖᚱ\|ᚾᛖᚱ ner]]         |
+| 198 | far                | ver            | wäit, wäit ewech   | weit, fern   | långt bort, fjärran | langt                   | langt            | [[Folksprak/Lexicon/ᚠᛖᚱᚱ\|ᚠᛖᚱᚱ ferr]]         |
 | 199 | right              | rechts         | riets              | rechts       | höger               | hægri                   | høgre            | [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ\|ᚻᛟᚷᚱᛖ høgre]]         |
 | 200 | left               | links          | lénks              | links        | vänster             | vinstri                 | venstre, vinstre | [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ\|ᚹᛖᚾᛋᛏᚱᛖ venstre]]         |
 

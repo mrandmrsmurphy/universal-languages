@@ -168,3 +168,7 @@ Earlier history is archived: see [`index.md`](index.md) for what each archive co
 - Folksprak №194 adopted as ᚾᚪᛏᛏ (natt) “wet,” from *nataz, avoiding vat “what” and vet “know.” Added the entry, index and both Swadesh links.
 
 - Folksprak №195 adopted as ᛞᚢᚱᚱ (durr) “dry,” from the Nordic family with regular *þ → d. Added and indexed the entry, verified both Swadesh links and recorded Parke’s alternatives in Divergences.
+
+- Folksprak №197 adopted as ᚾᛖᚱ (ner) “near,” following the historical comparative stem shared by English near and Scandinavian nær/nära. Added the entry, index and both Swadesh links and recorded the upstream forms in Divergences. №198 “far” remains open.
+
+- Folksprak №198 adopted as ᚠᛖᚱᚱ (ferr) “far, distant,” matching Parke and continuing the Germanic family of English far, Dutch ver and German fern. Added the lexicon entry and index and verified all 207 Folksprak links in both Swadesh tables.

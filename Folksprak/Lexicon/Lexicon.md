@@ -238,6 +238,8 @@ Title is the runic spelling, followed by a table with these rows (omit a row tha
 - [[Folksprak/Lexicon/ᚷᛚᚪᛞᛞ|ᚷᛚᚪᛞᛞ]] (gladd) — smooth to the touch
 - [[Folksprak/Lexicon/ᚾᚪᛏᛏ|ᚾᚪᛏᛏ]] (natt) — wet
 - [[Folksprak/Lexicon/ᛞᚢᚱᚱ|ᛞᚢᚱᚱ]] (durr) — dry
+- [[Folksprak/Lexicon/ᚾᛖᚱ|ᚾᛖᚱ]] (ner) — near
+- [[Folksprak/Lexicon/ᚠᛖᚱᚱ|ᚠᛖᚱᚱ]] (ferr) — far
 - [[Folksprak/Lexicon/ᚱᛁᛉᛏᛁᚷ|ᚱᛁᛉᛏᛁᚷ]] (rixtig) — correct, right
 - [[Folksprak/Lexicon/ᚻᛟᚷᚱᛖ|ᚻᛟᚷᚱᛖ]] (høgre) — right (opposite of left)
 - [[Folksprak/Lexicon/ᚹᛖᚾᛋᛏᚱᛖ|ᚹᛖᚾᛋᛏᚱᛖ]] (venstre) — left (opposite of right)
